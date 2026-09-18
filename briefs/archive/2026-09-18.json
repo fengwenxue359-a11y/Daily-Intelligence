@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-18",
+  "items": [
+    {
+      "category": "财经",
+      "source": "华尔街日报-市场",
+      "original_link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+      "title_cn": "中国DeepSeek引发AI板块广泛抛售，股市大幅下挫",
+      "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "summary_cn": "中国AI公司DeepSeek的突破性进展引发全球股市AI板块广泛抛售，投资者担忧现有AI巨头的估值泡沫及竞争格局生变。此次市场震荡凸显中国在AI领域的快速崛起对全球科技生态的冲击，值得关注的是，这是否意味着AI投资逻辑正从算力军备竞赛转向效率与成本优化，以及地缘科技博弈下产业链的重构风险。",
+      "summary_en": "DeepSeek, a Chinese AI company, sparked a broad sell-off in AI-related stocks globally as investors grew concerned about valuation bubbles in incumbent AI giants and a shifting competitive landscape. The market turmoil highlights the disruptive impact of China's rapid AI advancement on the global tech ecosystem. Key questions: Is AI investment logic shifting from an arms race in computing power to efficiency and cost optimization, and what are the supply chain restructuring risks amid geopolitical tech rivalry?"
+    },
+    {
+      "category": "财经",
+      "source": "华尔街日报-市场",
+      "original_link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "title_cn": "Comex黄金与白银期货收低",
+      "title_en": "Comex Gold, Silver Settle Lower",
+      "summary_cn": "Comex黄金与白银期货周四收低，受美元走强及美国国债收益率上升打压。市场关注美联储政策信号与通胀数据，贵金属短期承压。分析认为，若利率维持高位，金银上行空间有限，但地缘风险仍提供避险支撑。投资者需留意周五非农就业报告对走势的指引。",
+      "summary_en": "Comex gold and silver futures settled lower on Thursday, pressured by a stronger U.S. dollar and rising Treasury yields. Markets are focused on Fed policy signals and inflation data, keeping precious metals under near-term pressure. Analysts suggest limited upside for gold and silver if rates stay elevated, though geopolitical risks still offer safe-haven support. Investors await Friday's nonfarm payrolls report for direction."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "title_cn": "监管开绿灯：Securitize获准在美部分平台发行代币化股票，股价大涨",
+      "title_en": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "summary_cn": "美国联邦监管机构首次批准在部分交易平台发行代币化股票，标志着传统证券与区块链技术融合迈出关键一步。消息推动Securitize股价周四大涨。此举可能重塑股票交易与结算方式，降低门槛、提升效率，并吸引更多机构入场。投资者应关注代币化股票在合规、流动性和托管方面的后续进展，这或成为资本市场基础设施变革的重要风向标。",
+      "summary_en": "U.S. federal regulators have for the first time approved the issuance of tokenized stocks on certain trading platforms, marking a key step in merging traditional securities with blockchain technology. The news sent Securitize shares surging on Thursday. This could reshape stock trading and settlement, lower barriers, improve efficiency, and attract more institutions. Investors should watch follow-up developments in compliance, liquidity, and custody for tokenized stocks, as this may signal a major shift in capital market infrastructure."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html",
+      "title_cn": "美股盘中异动：Workday、Generac、Vital Farms、Vicor、Tower Semi等个股大幅波动",
+      "title_en": "Stocks making the biggest moves midday: Workday, Generac, Vital Farms, Vicor, Tower Semi & more",
+      "summary_cn": "本文汇总了美股盘中波动最大的个股，涵盖Workday、Generac、Vital Farms、Vicor、Tower Semiconductor等。这些异动通常由财报、分析师评级调整、并购消息或行业政策触发，反映了市场对个股基本面和宏观情绪的即时反应。对投资者而言，盘中异动榜是捕捉短期交易机会、识别资金流向和评估市场风险偏好的重要参考，尤其当多只个股同时出现大幅波动时，往往暗示板块轮动或系统性情绪变化。",
+      "summary_en": "This article summarizes the stocks with the largest midday moves in the U.S. market, including Workday, Generac, Vital Farms, Vicor, Tower Semiconductor, and more. Such moves are typically triggered by earnings, analyst rating changes, M&A news, or industry policies, reflecting immediate market reactions to individual fundamentals and macro sentiment. For investors, the midday movers list is a key reference for spotting short-term trading opportunities, identifying capital flows, and assessing market risk appetite—especially when multiple stocks swing sharply at once, often signaling sector rotation or a shift in systematic sentiment."
+    },
+    {
+      "category": "AI科技",
+      "source": "TechCrunch AI",
+      "original_link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "title_cn": "Crusoe 融资 39 亿美元，将建设大型数据中心及小型模块化“AI 工厂”",
+      "title_en": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary_cn": "数据中心巨头 Crusoe 完成 39 亿美元融资，估值达 309 亿美元。本轮资金将用于建设超大规模数据中心，并推出小型模块化“AI 工厂”，旨在满足 AI 算力爆发式增长的需求。此举值得关注，因为它标志着 AI 基础设施正从集中式超大集群向灵活、可快速部署的模块化方向演进，可能重塑算力供给格局，降低企业获取 AI 能力的门槛。",
+      "summary_en": "Data center giant Crusoe has raised $3.9 billion at a $30.9 billion valuation. The funds will be used to build massive data centers and launch small modular 'AI factories,' aimed at meeting the explosive growth in AI compute demand. This is worth watching because it signals a shift in AI infrastructure from centralized hyperscale clusters toward flexible, rapidly deployable modular solutions, potentially reshaping the compute supply landscape and lowering the barrier for enterprises to access AI capabilities."
+    },
+    {
+      "category": "AI科技",
+      "source": "TechCrunch AI",
+      "original_link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "title_cn": "Google DeepMind 成立新研究所，旨在拓宽 AGI 辩论",
+      "title_en": "Google DeepMind launches institute to widen the AGI debate",
+      "summary_cn": "Google DeepMind 成立新研究所，旨在呈现 Google、DeepMind 与全球研究界在 AGI 议题上的分歧。该机构强调，各方不会始终一致，随着前沿数据与信息涌现，立场也可能改变。这标志着 AGI 讨论从内部共识转向公开辩论，值得关注，因为它可能影响未来 AGI 的治理、安全与伦理方向。",
+      "summary_en": "Google DeepMind has launched a new institute aimed at surfacing differing views on AGI among Google, DeepMind, and the broader global research community. The institute emphasizes that stakeholders will not always agree and may change their minds as more data and information emerge at the fast-moving frontier. This marks a shift from internal consensus to open debate on AGI, making it worth watching for its potential impact on future AGI governance, safety, and ethics."
+    },
+    {
+      "category": "书籍",
+      "source": "纽约时报书评",
+      "original_link": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
+      "title_cn": "马丁·艾米斯：一份鉴赏",
+      "title_en": "Martin Amis: An Appreciation",
+      "summary_cn": "这篇关于马丁·艾米斯的鉴赏文章，以2007年为切入点，回顾了这位英国文坛巨匠的创作生涯与独特风格。艾米斯以其犀利的文笔、黑色幽默和对当代社会的深刻洞察著称，作品如《金钱》《伦敦场地》等不断挑战文学边界。文章不仅梳理了他的文学成就，更揭示了其作品为何持续引发争议与思考。对于理解20世纪末至21世纪初的英国文学，以及一位作家如何以文字解剖时代精神，这是一份不可多得的指南。",
+      "summary_en": "This appreciation of Martin Amis, set against the backdrop of 2007, revisits the career and distinctive style of this British literary giant. Known for his sharp prose, black humor, and profound insight into contemporary society, Amis challenged literary boundaries with works like Money and London Fields. The article not only surveys his literary achievements but also reveals why his works continue to provoke debate and reflection. For understanding British literature from the late 20th to early 21st century, and how a writer dissects the spirit of his age through words, this is an indispensable guide."
+    },
+    {
+      "category": "书籍",
+      "source": "纽约时报书评",
+      "original_link": "https://www.nytimes.com/2023/05/22/books/james-campbell-nb-by-jc.html",
+      "title_cn": "书评：《NB by J.C.》，詹姆斯·坎贝尔著",
+      "title_en": "Book Review: ‘NB by J.C.,’ by James Campbell",
+      "summary_cn": "詹姆斯·坎贝尔在《泰晤士报文学增刊》的专栏文集《NB by J.C.》汇集了他多年来的多样沉思。这些文字兼具文学批评的锐利与随笔的优雅，穿梭于作家轶事、文化观察与个人记忆之间。坎贝尔以英式机智和深厚学养，将看似零散的笔记编织成一部引人入胜的文学万花筒。对于热爱英美文学、关注知识分子生活细节的读者，这本书提供了难得的洞见与持续的阅读愉悦——它证明，好的专栏文字不仅能即时回应时代，更能超越时间，成为值得反复品味的文学珍藏。",
+      "summary_en": "“NB by J.C.” collects the variegated musings of James Campbell from the Times Literary Supplement. These pieces combine the sharpness of literary criticism with the elegance of the personal essay, moving between writers’ anecdotes, cultural observations, and personal memories. With British wit and deep erudition, Campbell weaves seemingly scattered notes into a captivating literary kaleidoscope. For readers who love Anglo-American literature and the details of intellectual life, this book offers rare insight and sustained reading pleasure—proving that good column writing not only responds to its moment but can transcend time and become a literary treasure worth revisiting."
+    }
+  ]
+}
