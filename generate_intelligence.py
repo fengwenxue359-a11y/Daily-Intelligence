@@ -9,17 +9,23 @@ RSS_FEEDS = [
     # 【财经/股市/商业】
     {"name": "华尔街日报-市场", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "category": "财经"},
     {"name": "CNBC-财经", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "category": "财经"},
-    
+    {"name": "彭博社-市场", "url": "https://feeds.bloomberg.com/markets/news.rss", "category": "财经"},
+    {"name": "路透社-商业", "url": "https://feeds.reuters.com/reuters/businessNews", "category": "财经"},
+    {"name": "金融时报", "url": "https://www.ft.com/rss/home", "category": "财经"},
+
     # 【AI/科技】
     {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "AI科技"},
+    {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "category": "AI科技"},
+    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "category": "AI科技"},
 
     # 【书籍/文化】
     {"name": "纽约时报书评", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml", "category": "书籍"},
+    {"name": "Goodreads 新书", "url": "https://www.goodreads.com/blog/feed", "category": "书籍"},
 
     # 【个人成长/学习视频】
     {"name": "Huberman Lab (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg", "category": "成长视频"},
+    {"name": "Ali Abdaal (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg", "category": "成长视频"},
 ]
-
 client = OpenAI(
     api_key=os.environ.get("DEEPSEEK_API_KEY"),
     base_url="https://api.deepseek.com"
@@ -60,7 +66,7 @@ def generate_daily_intelligence():
     for feed_info in RSS_FEEDS:
         print(f"正在抓取: {feed_info['name']}")
         feed = feedparser.parse(feed_info['url'])
-        for entry in feed.entries[:2]:
+        for entry in feed.entries[:8]:
             summary = entry.get('summary', '')
             if 'content' in entry: summary = entry.content[0].value
             
