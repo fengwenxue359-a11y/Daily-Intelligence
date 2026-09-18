@@ -1,0 +1,26 @@
+name: 生成每日情报
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天北京时间早上8点
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with: { python-version: '3.10' }
+    - run: pip install -r requirements.txt
+    - name: 运行抓取脚本
+      env:
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      run: python generate_intelligence.py
+    - name: 自动提交回仓库
+      run: |
+        git config --local user.email "bot@github.com"
+        git config --local user.name "bot"
+        git add briefs/
+        git commit -m "更新每日情报 $(date +'%Y-%m-%d')" || exit 0
+        git push
