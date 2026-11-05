@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "items": [
     {
       "category": "财经",
@@ -7,8 +7,8 @@
       "original_link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
       "title_cn": "中国DeepSeek引发AI板块全面抛售，美股应声下挫",
       "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "summary_cn": "中国AI公司DeepSeek以低成本高性能模型冲击市场，引发投资者对AI算力投入逻辑的质疑，导致美股AI相关板块全面大跌。本文深入分析此次抛售的触发机制、受影响最大的个股及板块，并探讨这是否意味着AI投资叙事面临转折点，值得关注市场情绪与基本面之间的张力。",
-      "summary_en": "Chinese AI firm DeepSeek's low-cost, high-performance model has rattled markets, prompting investors to question the logic of massive AI compute spending and triggering a broad selloff in US AI-related stocks. This article analyzes the triggers behind the rout, the hardest-hit stocks and sectors, and whether this signals a turning point in the AI investment narrative, highlighting the tension between market sentiment and fundamentals."
+      "summary_cn": "中国AI公司DeepSeek以低成本模型冲击市场，引发美股AI相关板块全面抛售，投资者重新评估行业估值与竞争格局。本文值得关注，因其揭示了技术突破如何迅速改变市场预期，并可能预示AI投资逻辑的转变。",
+      "summary_en": "Chinese AI firm DeepSeek's low-cost model rattled markets, triggering a broad selloff in U.S. AI-related stocks as investors reassess valuations and competitive dynamics. This is worth reading because it shows how a technological breakthrough can rapidly shift market expectations and may signal a turning point in AI investment logic."
     },
     {
       "category": "财经",
@@ -16,44 +16,44 @@
       "original_link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
       "title_cn": "Comex黄金与白银期货收低",
       "title_en": "Comex Gold, Silver Settle Lower",
-      "summary_cn": "Comex黄金与白银期货今日双双收低，主要受美元走强及市场对美联储加息预期升温打压。黄金失守关键支撑位，白银跌幅更大，反映工业需求担忧与避险情绪减弱。值得关注的是，贵金属在通胀数据公布前的回调可能为投资者提供逢低布局机会，但需警惕利率路径变化对无息资产的持续压力。",
-      "summary_en": "Comex gold and silver futures settled lower on Tuesday, pressured by a stronger dollar and rising expectations of Federal Reserve rate hikes. Gold fell below a key support level, while silver posted larger losses, reflecting concerns over industrial demand and diminished safe-haven appeal. The pre-inflation-data pullback in precious metals may offer dip-buying opportunities, but investors should watch for continued pressure on non-yielding assets from shifting rate expectations."
+      "summary_cn": "Comex黄金与白银期货当日双双收跌，反映出市场对美联储利率路径预期调整及美元走强的即时反应。贵金属短期承压值得关注，因这往往预示通胀预期与避险情绪的变化，对资产配置具有参考价值。",
+      "summary_en": "Comex gold and silver futures both settled lower on the day, reflecting the market's immediate reaction to adjusted expectations for the Federal Reserve's rate path and a stronger dollar. The short-term pressure on precious metals is worth watching, as it often signals shifts in inflation expectations and risk sentiment, offering reference value for asset allocation."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-      "title_cn": "DeepSeek 不会击沉美国 AI 巨头",
+      "title_cn": "DeepSeek冲击有限，美国AI巨头地位稳固",
       "title_en": "DeepSeek Won't Sink U.S. AI Titans",
-      "summary_cn": "本文深入分析了中国 AI 公司 DeepSeek 的崛起对美国科技巨头的影响，指出尽管 DeepSeek 在模型效率和成本上展现出惊人突破，引发市场短暂恐慌，但其尚不足以撼动美国 AI 巨头的根基。文章从技术生态、算力储备、商业落地与资本开支等维度论证，美国巨头仍拥有深厚护城河，DeepSeek 更多是激发竞争与创新的催化剂，而非颠覆者。值得一读，因为它理性拆解了市场情绪与产业现实之间的落差。",
-      "summary_en": "This article examines the rise of Chinese AI company DeepSeek and its impact on U.S. tech giants, arguing that despite DeepSeek's impressive breakthroughs in model efficiency and cost—which briefly spooked markets—it is not yet capable of shaking the foundations of American AI leaders. The piece analyzes technical ecosystems, compute reserves, commercialization, and capital expenditure to show that U.S. giants still possess deep moats, and that DeepSeek is more a catalyst for competition and innovation than a disruptor. A worthwhile read for its rational dissection of the gap between market sentiment and industry reality."
+      "summary_cn": "本文深入分析DeepSeek崛起对美国AI巨头的影响，指出尽管DeepSeek以低成本高性能引发市场震动，但美国科技巨头凭借深厚的技术积累、生态系统和算力优势，其护城河依然坚固。文章从商业模式、创新可持续性和竞争格局多角度论证，认为短期冲击不改长期格局，为投资者提供理性视角，值得关注。",
+      "summary_en": "This article provides an in-depth analysis of DeepSeek's impact on U.S. AI giants, arguing that despite DeepSeek's low-cost, high-performance model rattling the market, American tech titans remain well-fortified by their deep technical expertise, ecosystems, and computing advantages. It examines business models, innovation sustainability, and competitive dynamics to conclude that short-term shocks won't alter the long-term landscape, offering investors a rational perspective worth reading."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-      "title_cn": "金融服务市场综述：市场观察",
+      "title_cn": "金融服务综述：市场观察",
       "title_en": "Financial Services Roundup: Market Talk",
-      "summary_cn": "该内容为金融服务市场综述，汇集了市场观察与行业动态，适合快速了解金融板块最新走势与关键议题。",
-      "summary_en": "This piece is a financial services market roundup that gathers market observations and industry updates, offering a quick overview of the latest trends and key issues in the financial sector."
+      "summary_cn": "该综述汇集了金融服务领域的最新市场动态与专家观点，涵盖银行、保险、资产管理等细分行业的关键趋势。内容聚焦于利率变化、监管政策及市场波动对金融机构的影响，为从业者提供及时的风险提示与策略参考。值得关注的是，文中对行业结构性变化和区域市场差异的洞察，有助于读者把握当前金融环境的整体脉络。",
+      "summary_en": "This roundup compiles the latest market developments and expert views in the financial services sector, covering key trends across banking, insurance, and asset management. It focuses on the impact of interest rate changes, regulatory policies, and market volatility on financial institutions, offering timely risk alerts and strategic references for practitioners. Notably, its insights into structural industry shifts and regional market differences help readers grasp the overall landscape of the current financial environment."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-      "title_cn": "美哥关税争端推升阿拉比卡咖啡价格创历史新高",
+      "title_cn": "美哥关税争端推动阿拉比卡咖啡价格创历史新高",
       "title_en": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-      "summary_cn": "阿拉比卡咖啡价格因美国与哥伦比亚关税争端创下历史纪录，值得关注的是，这一地缘政治摩擦正直接冲击全球咖啡供应链，可能推高消费端价格并加剧市场波动。",
-      "summary_en": "Arabica coffee prices hit a record high amid a tariff dispute between the U.S. and Colombia. This geopolitical friction is directly impacting the global coffee supply chain, potentially driving up consumer prices and increasing market volatility."
+      "summary_cn": "阿拉比卡咖啡期货价格因美国与哥伦比亚之间的关税争端而飙升至历史最高点。这场贸易摩擦直接威胁到全球最大咖啡出口国之一的供应链，引发市场对供应短缺的强烈担忧。值得关注的是，咖啡价格暴涨不仅影响全球饮品行业成本，还可能加剧通胀压力，对消费者和产业链上下游产生连锁反应。",
+      "summary_en": "Arabica coffee futures surged to a record high amid a tariff dispute between the U.S. and Colombia. The trade friction directly threatens the supply chain of one of the world's largest coffee exporters, fueling strong market concerns over shortages. Notably, the price spike will not only raise costs for the global beverage industry but may also exacerbate inflationary pressures, creating ripple effects across consumers and the entire supply chain."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
-      "title_cn": "DeepSeek消息提振避险需求，瑞士法郎与日元走强",
+      "title_cn": "DeepSeek消息提振避险需求，瑞郎与日元走强",
       "title_en": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
-      "summary_cn": "DeepSeek相关消息引发市场避险情绪升温，瑞士法郎和日元作为传统避险货币应声上涨。这一动态值得关注，因为它反映了市场对人工智能领域新进展可能带来的不确定性的担忧，以及投资者在风险资产波动加大的背景下转向安全资产的趋势。避险货币的走势往往预示着市场情绪的变化，对全球资金流向和汇率策略具有参考意义。",
-      "summary_en": "News related to DeepSeek has heightened market risk aversion, driving up the Swiss franc and Japanese yen as traditional safe-haven currencies. This development is noteworthy as it reflects concerns over potential uncertainties stemming from new advancements in the AI sector and a shift toward safe assets amid increased volatility in riskier investments. The movement of safe-haven currencies often signals changes in market sentiment and offers insights for global capital flows and currency strategies."
+      "summary_cn": "DeepSeek相关消息引发市场避险情绪升温，推动瑞郎和日元等传统避险货币走强。这一动态值得关注，因为它反映出投资者对人工智能领域不确定性及全球风险偏好的敏感反应，可能预示资金流向和汇率格局的短期调整。",
+      "summary_en": "News related to DeepSeek has heightened market risk aversion, driving traditional safe-haven currencies such as the Swiss franc and Japanese yen higher. This development is noteworthy because it reflects investors' sensitivity to uncertainties in the AI sector and global risk appetite, potentially signaling short-term shifts in capital flows and exchange rate dynamics."
     },
     {
       "category": "财经",
@@ -61,8 +61,8 @@
       "original_link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
       "title_cn": "天气预测变化致天然气价格下跌",
       "title_en": "Natural Gas Falls on Shifting Weather Forecasts",
-      "summary_cn": "天然气价格因天气预测调整而下跌，凸显市场对短期气候变化的敏感性。文章分析了预报转变如何影响供需预期与交易情绪，为投资者理解能源市场波动提供及时视角，值得关注。",
-      "summary_en": "Natural gas prices fell as weather forecasts shifted, highlighting the market's sensitivity to short-term climate changes. The article analyzes how forecast revisions affect supply-demand expectations and trading sentiment, offering a timely perspective for investors to understand energy market volatility."
+      "summary_cn": "近期天然气价格因天气预测调整而走低，市场对供暖需求的预期减弱。文章分析了气象模型变化如何影响短期供需平衡，并指出交易员正密切关注库存数据与气温趋势。值得关注的是，此次波动凸显了天气因素在能源定价中的关键作用，以及市场对预测变化的敏感反应，为投资者提供了研判季节性行情的重要线索。",
+      "summary_en": "Natural gas prices have fallen recently as shifting weather forecasts dampened expectations for heating demand. The article analyzes how changes in weather models affect short-term supply-demand balances and notes that traders are closely watching inventory data and temperature trends. Notably, the volatility highlights the critical role of weather in energy pricing and the market's sensitivity to forecast revisions, offering investors key insights for assessing seasonal trends."
     },
     {
       "category": "财经",
@@ -70,17 +70,35 @@
       "original_link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
       "title_cn": "建材分销商QXO对Beacon发起敌意收购",
       "title_en": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
-      "summary_cn": "建材分销领域出现重大整合动向：QXO公司对同业Beacon发起敌意收购，此举可能重塑行业竞争格局。敌意收购往往意味着收购方看好目标公司价值但遭遇管理层抵制，后续可能引发代理权争夺或提高报价。该事件值得关注，因其反映了建材分销行业的整合趋势，并可能对相关公司股价及行业估值产生连锁影响。",
-      "summary_en": "A major consolidation move in building-products distribution: QXO has launched a hostile bid for peer Beacon, potentially reshaping the competitive landscape. A hostile bid typically signals the acquirer sees value in the target but faces management resistance, possibly leading to a proxy fight or a raised offer. This event is worth watching as it reflects industry consolidation trends and could have ripple effects on share prices and sector valuations."
+      "summary_cn": "建材分销商QXO对Beacon发起敌意收购，此举可能重塑行业竞争格局。敌意收购通常意味着收购方对目标公司管理层不满或认为其估值过低，值得关注的是QXO的收购动机、Beacon的防御策略以及潜在竞购方介入的可能性。该交易若达成，将影响建材分销市场的集中度与定价权，投资者需关注双方后续博弈及监管反应。",
+      "summary_en": "Building-products distributor QXO has launched a hostile bid for Beacon, a move that could reshape industry competition. A hostile bid typically signals dissatisfaction with target management or undervaluation, and key focuses include QXO's rationale, Beacon's defense strategy, and potential rival bidders. If completed, the deal would affect market concentration and pricing power in building-products distribution, making it important for investors to watch the ensuing battle and regulatory response."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
+      "title_cn": "盘后股价异动榜：Coherent、AppLovin、Expedia、高通等公司领涨领跌",
+      "title_en": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+      "summary_cn": "本文盘点了盘后交易时段股价波动最大的个股，包括Coherent、AppLovin、Expedia和高通等。这些异动通常由财报发布、业绩指引调整或重大消息驱动，为投资者提供了次日开盘前的重要参考。关注盘后异动有助于捕捉市场情绪变化和潜在交易机会，尤其是对短线交易者和持仓过夜的投资者而言，理解异动原因至关重要。",
+      "summary_en": "This article lists the stocks with the largest after-hours price movements, including Coherent, AppLovin, Expedia, and Qualcomm. Such moves are typically driven by earnings releases, guidance updates, or major news, offering investors key references before the next market open. Watching after-hours movers helps capture shifts in market sentiment and potential trading opportunities, especially for short-term traders and those holding positions overnight, making it crucial to understand the reasons behind these moves."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+      "title_cn": "盘前异动股：特朗普媒体、特斯拉、CoreWeave、诺和诺德等",
+      "title_en": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+      "summary_cn": "盘前最大异动个股名单出炉，涵盖特朗普媒体、特斯拉、CoreWeave、诺和诺德等焦点公司。该名单揭示开盘前资金流向与情绪突变，为交易者提供当日关键交易线索，尤其适合关注事件驱动与板块轮动的投资者快速捕捉机会。",
+      "summary_en": "Premarket biggest movers include Trump Media, Tesla, CoreWeave, Novo Nordisk and other focus stocks. The list reveals pre-open capital flows and sentiment shifts, offering traders key clues for the day's trading, especially for event-driven and sector rotation investors seeking quick opportunities."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "title_cn": "美国中期选举民主党大胜引发股市抛售，投资者避险涌向债市致国债收益率下跌",
-      "title_en": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-      "summary_cn": "美国中期选举民主党取得重大胜利后，股指期货遭遇抛售，投资者纷纷寻求避险，推动国债价格走高、收益率下跌。这一市场反应凸显了政治格局变化对资产定价的即时冲击，也反映出在不确定性上升时，资金向安全资产快速轮动的典型模式。值得关注的是，债市与股市的跷跷板效应如何进一步演绎，以及选举结果对后续财政政策与利率路径的潜在影响。",
-      "summary_en": "After Democrats secured major victories in the U.S. midterm elections, equity futures sold off as investors sought safe-haven assets, driving Treasury prices higher and yields lower. The market reaction highlights the immediate impact of political shifts on asset pricing and the typical flight to safety amid rising uncertainty. Key focuses include how the seesaw between bonds and stocks will unfold and the election's potential implications for fiscal policy and the interest rate path."
+      "title_cn": "美国中期选举民主党获胜叠加油价下跌，10年期美债收益率下滑",
+      "title_en": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "summary_cn": "美国中期选举民主党取得重大胜利，投资者正在评估其政策影响，同时油价下跌加剧了市场对通胀和经济前景的担忧，导致10年期美债收益率下滑。值得关注的是，选举结果可能影响未来财政政策与能源监管方向，而油价走低或缓解通胀压力，二者共同作用下的债市反应揭示了市场对增长与政策不确定性的敏感定价。",
+      "summary_en": "Democrats' significant wins in the U.S. midterm elections have investors assessing policy implications, while falling oil prices heighten concerns about inflation and the economic outlook, driving the 10-year Treasury yield lower. The election outcome could shape future fiscal policy and energy regulation, and lower oil prices may ease inflation pressure; the bond market's reaction underscores sensitivity to growth and policy uncertainty."
     },
     {
       "category": "财经",
@@ -88,8 +106,8 @@
       "original_link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
       "title_cn": "盘前异动股：辉瑞、苹果、Palantir、斑马技术等",
       "title_en": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
-      "summary_cn": "该报道盘点了盘前交易时段股价波动最大的个股，涵盖辉瑞、苹果、Palantir、斑马技术等知名公司。盘前异动往往反映市场对最新消息（如财报、并购、监管动态）的即时反应，是预判当日开盘走势的重要风向标。投资者可通过这份名单快速捕捉资金关注焦点，识别潜在交易机会或风险信号，值得短线交易者和市场观察者密切关注。",
-      "summary_en": "This report highlights the stocks with the largest premarket moves, including Pfizer, Apple, Palantir, Zebra Technologies, and others. Premarket fluctuations often reflect the market's immediate reaction to the latest news (such as earnings, M&A, or regulatory developments) and serve as a key indicator for the day's opening trend. Investors can use this list to quickly identify where capital is focusing and spot potential trading opportunities or risk signals, making it essential reading for short-term traders and market watchers."
+      "summary_cn": "该报道盘点了盘前交易中波动最大的个股，涵盖辉瑞、苹果、Palantir、斑马技术等知名公司。盘前异动往往反映市场对最新消息（如财报、并购、评级调整或宏观事件）的即时反应，为投资者提供当日开盘前的重要线索。关注这些异动股有助于捕捉潜在交易机会并预判市场情绪走向。",
+      "summary_en": "This report highlights the stocks with the largest premarket moves, including Pfizer, Apple, Palantir, Zebra Technologies and more. Premarket movers often reflect the market's immediate reaction to the latest news such as earnings, M&A, rating changes or macro events, offering investors key clues before the opening bell. Watching these movers can help identify potential trading opportunities and gauge market sentiment."
     },
     {
       "category": "财经",
@@ -97,8 +115,8 @@
       "original_link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
       "title_cn": "黑石总裁呼吁增加股权融资以支持AI基建，债务风险加剧",
       "title_en": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "summary_cn": "黑石总裁Jon Gray警告，在AI基础设施大规模支出计划下，债务投资者面临集中度风险，因此需要更多股权融资来平衡。这一表态揭示了AI热潮背后的融资结构隐忧：过度依赖债务可能放大金融脆弱性。值得关注的是，作为全球最大另类资产管理公司，黑石的立场可能影响AI基建的资本流向与风险定价。",
-      "summary_en": "Blackstone President Jon Gray warns that debt investors face concentration risks amid massive AI infrastructure spending plans, calling for more equity financing to balance the structure. This signals hidden financing concerns behind the AI boom: over-reliance on debt could amplify financial fragility. Notably, as the world's largest alternative asset manager, Blackstone's stance may influence capital flows and risk pricing in AI infrastructure."
+      "summary_cn": "黑石集团总裁乔恩·格雷指出，在AI基础设施大规模投资计划下，债务投资者面临集中度风险，因此需要更多股权融资来平衡。这一观点揭示了AI热潮背后潜在的金融脆弱性，值得投资者关注债务市场风险与融资结构变化。",
+      "summary_en": "Blackstone President Jon Gray points out that amid massive AI infrastructure spending plans, debt investors face concentration risks, necessitating more equity financing to balance. This view highlights potential financial fragility behind the AI boom, warranting investor attention to debt market risks and shifts in financing structures."
     },
     {
       "category": "财经",
@@ -106,449 +124,431 @@
       "original_link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
       "title_cn": "得州州长选情预测市场收紧，但阿博特仍被看好",
       "title_en": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "summary_cn": "预测市场显示，共和党现任州长阿博特在争取第四任期时仍被看好，但近期胜率已明显收窄。这一变化值得关注，因为它可能反映选情动态的微妙转向，暗示民主党挑战者正在缩小差距，或选民情绪出现波动。对于关注美国地方政治和选举风向的读者而言，预测市场的赔率变化是观察选战势头的有用指标，也提醒我们，即使看似稳固的席位也可能在最后阶段变得竞争激烈。",
-      "summary_en": "Prediction markets still favor Republican incumbent Greg Abbott to win a fourth term as Texas governor, but his odds have narrowed in recent weeks. This is worth watching because it may signal a subtle shift in the race's dynamics, suggesting the Democratic challenger is closing the gap or voter sentiment is fluctuating. For readers following U.S. local politics and election trends, odds movements in prediction markets are a useful gauge of campaign momentum and a reminder that even seemingly safe seats can become competitive down the stretch."
+      "summary_cn": "预测市场显示，共和党现任州长阿博特仍被看好赢得第四个任期，但近几周胜率有所收窄。这一变化值得关注，因为它反映了选情动态的微妙转变，可能预示竞争加剧，尽管阿博特仍占优势。对于关注美国地方政治和选举趋势的读者，这提供了实时市场情绪与潜在波动的重要信号。",
+      "summary_en": "Prediction markets still show Republican incumbent Governor Abbott favored to win a fourth term, but the odds have narrowed in recent weeks. This development is worth watching as it reflects a subtle shift in race dynamics, potentially indicating increased competitiveness despite Abbott's continued advantage. For readers tracking U.S. local politics and election trends, it offers a real-time signal of market sentiment and potential volatility."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-      "title_cn": "美股午盘异动榜：甲骨文、SpaceX、Tempus AI、Rivian等个股大幅波动",
+      "title_cn": "美股午盘异动股：甲骨文、SpaceX、Tempus AI、Rivian等",
       "title_en": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-      "summary_cn": "该报道聚焦美股午盘交易时段涨跌幅最大的个股，涵盖甲骨文、SpaceX、Tempus AI、Rivian等跨行业公司。值得关注的是，这些异动往往反映财报预期、行业政策或资金轮动的最新信号，为投资者捕捉短期交易机会与研判市场情绪提供关键参考。",
-      "summary_en": "This report highlights the stocks with the largest midday moves in the U.S. market, including Oracle, SpaceX, Tempus AI, Rivian and others across sectors. These moves often signal earnings expectations, sector policies or capital rotation, offering key references for short-term trading opportunities and market sentiment."
+      "summary_cn": "该报道聚焦美股午盘交易中波动最大的个股，涵盖甲骨文、SpaceX、Tempus AI与Rivian等。值得关注的原因在于：午盘异动往往反映当日资金流向与市场情绪转折，甲骨文可能受云业务或AI订单消息驱动，SpaceX相关动态或涉及卫星互联网与发射进展，Tempus AI作为AI医疗标的波动体现题材热度，Rivian则可能受交付数据或融资消息影响。投资者可借此快速识别当日风险与机会。",
+      "summary_en": "This report highlights the stocks with the largest midday moves in the U.S. market, including Oracle, SpaceX, Tempus AI, and Rivian. It is worth watching because midday moves often reflect intraday capital flows and shifts in market sentiment: Oracle may be driven by cloud or AI order news, SpaceX-related developments may involve satellite internet and launch progress, Tempus AI's volatility as an AI healthcare play reflects thematic heat, and Rivian may be affected by delivery data or financing news. Investors can use this to quickly identify the day's risks and opportunities."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "title_cn": "中期选举后的股市：标普500历史走势揭示的规律",
+      "title_cn": "中期选举后的股市：标普500历史数据揭示的规律",
       "title_en": "Stock market after midterm elections: What S&P 500 history shows",
-      "summary_cn": "历史数据显示，美国中期选举后的一年往往是标普500指数表现强劲的时期。本文回顾了历次中期选举后的市场走势，并探讨了若民主党夺回国会控制权可能对股市产生的影响。对于投资者而言，理解这一政治周期与市场表现的关联，有助于在选举结果揭晓前后做出更明智的资产配置决策。文章结合历史规律与当前政治格局，提供了值得关注的视角。",
-      "summary_en": "Historical data shows that the year following U.S. midterm elections tends to be a strong period for the S&P 500. This article reviews market performance after past midterms and examines the potential impact on stocks if Democrats win back Congress. For investors, understanding the link between this political cycle and market performance can help inform better asset allocation decisions around election outcomes. Combining historical patterns with the current political landscape, the article offers a noteworthy perspective."
-    },
-    {
-      "category": "财经",
-      "source": "CNBC-财经",
-      "original_link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-      "title_cn": "盘前异动股：CrowdStrike、Rivian、美光科技等",
-      "title_en": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-      "summary_cn": "该报道聚焦盘前交易中股价波动最大的个股，包括CrowdStrike、Rivian、美光科技等。这些异动往往反映最新财报、行业消息或宏观情绪变化，为投资者提供当日市场风向标。值得关注的是，盘前走势常预示开盘后的资金流向，尤其在高波动板块中，可能带来短线交易机会或风险预警。",
-      "summary_en": "The report highlights the stocks with the largest premarket moves, including CrowdStrike, Rivian, Micron and others. Such moves often reflect earnings, industry news or macro sentiment shifts, serving as a barometer for the day's market direction. Investors watch premarket action for clues on opening capital flows, especially in high-volatility sectors, which may present short-term trading opportunities or risk warnings."
-    },
-    {
-      "category": "财经",
-      "source": "CNBC-财经",
-      "original_link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-      "title_cn": "币安63亿美元黑客事件引发加密钱包安全质疑",
-      "title_en": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-      "summary_cn": "本周两起高关注度安全事件，包括史上最大加密货币盗窃案，再次将托管与安全问题推上风口浪尖。币安63亿美元黑客事件不仅暴露了中心化交易所的风险，也促使投资者重新审视加密钱包的安全性。本文深入分析事件背后的安全漏洞与行业影响，值得所有加密资产持有者关注。",
-      "summary_en": "Two high-profile security incidents this week, including the largest crypto theft in history, have once again brought custody and safety concerns to the forefront. The $6.3 billion Binance hack not only exposes the risks of centralized exchanges but also prompts investors to re-examine the security of crypto wallets. This article provides an in-depth analysis of the security vulnerabilities and industry implications behind the incident, making it essential reading for all crypto asset holders."
+      "summary_cn": "历史数据显示，美国中期选举后一年标普500往往表现强劲。若民主党夺回国会，市场将如何反应？本文梳理历史规律与当前政治格局，为投资者提供关键参考。无论党派结果如何，中期选举后的市场走势值得关注，因为历史经验表明，政治不确定性消退后常迎来上涨窗口。",
+      "summary_en": "History shows that the S&P 500 tends to perform strongly in the year following U.S. midterm elections. How would the market react if Democrats win back Congress? This article reviews historical patterns and the current political landscape, offering key insights for investors. Regardless of party outcomes, post-midterm market trends deserve attention, as historical experience suggests a rally window often opens after political uncertainty fades."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/china-services-gauge-unexpectedly-dips-for-first-time-since-july",
-      "title_cn": "中国服务业景气意外下滑，为7月以来首次",
-      "title_en": "China Services Gauge Unexpectedly Dips for First Time Since July",
-      "summary_cn": "一项私营调查显示，中国服务业活动增速意外放缓，为7月以来首次，商业信心减弱，企业虽面临投入成本通胀加剧，仍下调销售价格。这一背离信号值得关注：服务业作为经济复苏的关键支柱，其扩张势头减弱可能预示内需疲软，而企业降价保量行为则反映竞争加剧与盈利压力，为观察中国经济增长动能切换提供重要窗口。",
-      "summary_en": "A private survey showed that China's services activity unexpectedly grew at a slower rate for the first time since July, as business confidence eased and firms lowered selling prices despite intensifying inflation in input costs. This divergence is noteworthy: the services sector, a key pillar of economic recovery, losing momentum may signal weakening domestic demand, while price cuts to protect volumes reflect intensifying competition and profitability pressure, offering a key window into the shifting drivers of China's economic growth."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+      "title_cn": "中期选举后板块轮动冲击芯片股，提振中国市场：市场综述",
+      "title_en": "Post-Midterm Rotation Hits Chips, Boosts China: Markets Wrap",
+      "summary_cn": "美国中期选举引发的股票轮动交易席卷亚洲，导致区域芯片制造商承压，而此前不受青睐的中国和澳大利亚等市场则获得提振。油价下滑进一步助推东南亚市场上涨。本文值得关注，因为它揭示了政治事件如何通过板块轮动迅速重塑亚洲市场格局，为投资者提供了理解短期资金流向和区域配置调整的关键视角。",
+      "summary_en": "A stock-rotation trade triggered by the US midterm elections swept across Asia, pressuring regional chipmakers while boosting previously unfavored markets such as China and Australia. Sliding oil prices further fueled gains in Southeast Asia. This article is worth reading because it reveals how political events can rapidly reshape Asia's market landscape through sector rotation, offering investors key insights into short-term capital flows and regional allocation shifts."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-      "title_cn": "民主党大胜预期升温：美股期货与美元齐跌，美债上涨",
-      "title_en": "Stocks Slide With Dollar on Rising Blue-Wave Bets: Markets Wrap",
-      "summary_cn": "随着民主党横扫国会的前景升温，全球市场出现连锁反应：美国股指期货与美元走低，美债上涨。早期选举结果可能阻碍特朗普议程，投资者正评估蓝潮对财政刺激、税收政策及监管环境的影响。本文梳理了市场即时反应与关键资产表现，值得关注以把握政策转向下的交易逻辑。",
-      "summary_en": "Growing prospects of a Democratic sweep of Congress rippled across global markets, sending US stock-index futures and the dollar lower while boosting Treasuries. Early election returns threaten to put the brakes on President Donald Trump's agenda, and investors are assessing the blue wave's impact on fiscal stimulus, tax policy, and regulation. This wrap covers immediate market reactions and key asset moves, worth reading to grasp trading logic amid policy shifts."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-10-year-bond-sale-demand-in-line-with-12-month-average",
+      "title_cn": "日本10年期国债拍卖需求与12个月均值持平，收益率下行后买需仍稳健",
+      "title_en": "Japan’s 10-Year Bond Sale Demand In-Line With 12-Month Average",
+      "summary_cn": "日本周四进行的10年期国债拍卖需求与过去12个月平均水平相当，表明尽管近期收益率有所下降，市场对日本国债的胃口依然稳固。这一结果值得关注，因为它缓解了投资者对收益率走低可能削弱机构配置意愿的担忧，也暗示日本央行逐步调整政策之际，债市承接力仍具韧性，为后续收益率曲线控制政策的走向提供了重要观察窗口。",
+      "summary_en": "Japan’s 10-year government bond auction on Thursday drew demand in line with the 12-month average, indicating that appetite for Japanese government debt remains solid even after a recent decline in yields. This is noteworthy because it eases concerns that lower yields might deter institutional investors, and suggests the bond market retains resilience as the Bank of Japan gradually adjusts policy—offering a key window into the future path of yield curve control."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/videos/2026-11-04/can-india-s-debt-fueled-spending-survive-higher-rates-video",
-      "title_cn": "印度债务驱动的消费支出能否承受利率上升？",
-      "title_en": "Can India’s Debt-Fueled Spending Survive Higher Rates?",
-      "summary_cn": "印度家庭借贷一年内激增36%，引发对消费支出有多少由债务推动、以及这种增长在利率上升时能否持续的疑问。彭博社的Ruchi Bhatia对此进行解析。该分析值得关注，因为它揭示了新兴市场消费韧性的潜在脆弱性，对评估印度经济增长前景和货币政策影响具有关键参考价值。",
-      "summary_en": "India’s household borrowing surged 36% in a year, raising questions about how much consumer spending is being powered by debt and whether that growth can last as interest rates rise. Ruchi Bhatia explains. This analysis is worth watching because it reveals the potential fragility of consumer resilience in emerging markets and provides key reference for assessing India’s economic growth prospects and monetary policy implications."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+      "title_cn": "港股强势反弹，价值轮动助推中国科技股",
+      "title_en": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+      "summary_cn": "香港股市基准指数创下2025年5月以来最大涨幅，核心驱动力在于资金正从硬件与半导体板块撤出，转向估值偏低的中国互联网平台。这一轮价值轮动表明市场对中国科技股的定价逻辑正在切换：从追逐算力叙事回归盈利确定性与估值修复。值得关注的是，港股作为外资配置中国资产的前沿阵地，其风格切换往往领先于A股，本次反弹或预示互联网板块将接棒成为下一阶段主线，投资者需留意资金持续性及平台经济政策边际变化。",
+      "summary_en": "Hong Kong's equity benchmark posted its biggest gain since May 2025, driven by investors rotating out of hardware and semiconductor names into undervalued Chinese internet platforms. This value rotation signals a shift in how the market prices China tech: away from compute-driven narratives and back toward earnings certainty and valuation repair. Notably, Hong Kong—as the frontline for foreign allocation to Chinese assets—often leads A-share style shifts, so this rebound may foreshadow internet platforms becoming the next market leadership theme. Investors should watch fund flow sustainability and marginal policy changes around the platform economy."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/florida-passes-property-tax-cuts-in-challenge-for-local-funding",
-      "title_cn": "佛罗里达州通过大幅房产税削减法案，地方政府财政面临挑战",
-      "title_en": "Florida Passes Property Tax Cuts in Challenge for Local Funding",
-      "summary_cn": "佛罗里达州选民在周二选举中通过全面房产税削减措施，此举将大幅削减地方政府收入。该政策虽为纳税人减负，却可能迫使地方削减公共服务或寻找替代财源，凸显减税与地方财政可持续性之间的深层矛盾。值得关注的是，这一决定可能引发其他州效仿，并影响地方债信用评估。",
-      "summary_en": "Florida voters approved sweeping property tax cuts in Tuesday's election, a move that will significantly reduce local government revenue. While providing tax relief, the policy may force localities to cut public services or seek alternative funding, highlighting the tension between tax cuts and local fiscal sustainability. The decision could prompt other states to follow suit and affect local credit ratings."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks",
+      "title_cn": "油价暴跌缓解通胀风险，印度债券与卢比双双走强",
+      "title_en": "Indian Bonds, Rupee Rally as Sliding Oil Eases Inflation Risks",
+      "summary_cn": "印度债券和卢比因原油价格大幅下跌而上涨。作为石油进口国，油价下滑既降低了输入性通胀压力，也减轻了印度外部财政负担，为央行货币政策创造更大空间。这一市场反应凸显油价对印度宏观经济与资产价格的关键影响，值得投资者关注后续通胀数据与资本流动变化。",
+      "summary_en": "Indian bonds and the rupee rallied as a sharp drop in crude oil prices eased inflationary pressures and reduced the external financial burden on the oil-importing nation, giving the central bank more room for monetary policy. The market reaction highlights how oil prices critically shape India's macroeconomy and asset prices, making upcoming inflation data and capital flow trends worth watching."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/kospi-slumps-as-democrats-us-election-lead-spurs-chip-selloff",
-      "title_cn": "韩国AI宠儿成美国中期选举重大牺牲品",
-      "title_en": "South Korea’s AI Darlings Become Big Casualty of US Midterm Vote",
-      "summary_cn": "韩国Kospi指数因芯片股暴跌而下滑，市场担忧美国中期选举中民主党表现强劲将导致对人工智能行业更严格的审查。这揭示了全球科技监管政策的外溢效应：美国政治风向变化正直接冲击韩国支柱产业，投资者需关注AI监管风险从美国向盟友产业链的传导，以及韩国科技股对地缘政治事件的脆弱性。",
-      "summary_en": "South Korea's Kospi Index slid as chipmaker shares plunged on concerns that a strong Democratic showing in the US midterms would lead to greater scrutiny of the AI industry. This highlights the spillover effects of global tech regulation: shifting US political winds are directly impacting South Korea's pillar industries. Investors should watch for the transmission of AI regulatory risks from the US to allied supply chains and the vulnerability of Korean tech stocks to geopolitical events."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
+      "title_cn": "菲律宾10月通胀加速至7.8%，逼近四年高位",
+      "title_en": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
+      "summary_cn": "菲律宾10月通胀率加速至7.8%，创近四年新高，主要受中东冲突持续推高能源成本影响。这一数据强化了市场对央行再次大幅加息的预期。通胀压力持续攀升凸显菲律宾经济面临的外部冲击与政策挑战，值得关注后续货币政策走向及其对经济增长和民生的影响。",
+      "summary_en": "Philippine inflation accelerated to 7.8% in October, the fastest pace in nearly four years, driven by prolonged Middle East conflict that spiked energy costs. The data raises the odds of another large interest rate hike by the central bank. Rising inflationary pressure highlights external shocks and policy challenges facing the Philippine economy, making the subsequent monetary policy path and its impact on growth and livelihoods worth watching."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-stocks-set-for-correction-as-bank-profit-outlook-sours",
-      "title_cn": "新加坡股市恐面临回调 银行盈利前景恶化拖累基准指数",
-      "title_en": "Singapore Stocks Set for Correction as Bank Profit Outlook Sours",
-      "summary_cn": "新加坡海峡时报指数正走向技术性回调，权重银行股因盈利前景担忧下挫成为主要拖累。作为高度依赖银行板块的亚洲市场，新加坡股市此次调整折射出利率环境变化对金融业利润的挤压效应。投资者需关注银行净息差见顶风险及区域经济放缓对信贷质量的潜在冲击，这不仅是短期波动，更可能预示板块估值逻辑的重构。",
-      "summary_en": "Singapore's Straits Times Index is heading for a technical correction, dragged down by heavyweight bank stocks sliding on concerns over profit outlook. As an Asian market heavily reliant on the banking sector, this adjustment reflects the squeeze on financial sector profits from changing interest rate environments. Investors should watch for peak net interest margin risks and potential credit quality impacts from regional economic slowdowns—this is not just short-term volatility but may signal a re-rating of the sector's valuation logic."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout",
+      "title_cn": "印尼启动MSCI警告后首次美元债券发行",
+      "title_en": "Indonesia Kicks Off First Dollar Bond Sale Since MSCI Fallout",
+      "summary_cn": "印尼政府周四启动多部分美元债券发行，这是自MSCI上月警告可能将其本地股票从全球指数中剔除以来，该国首次公开宣布的美元主权债券交易。此举值得关注，因为它测试了在国际市场对印尼资产情绪可能因MSCI决定而受挫的背景下，投资者对印尼主权信用的需求。债券发行的结果将反映市场对印尼财政状况和改革前景的信心，并可能影响其未来融资成本。",
+      "summary_en": "The Indonesian government launched a multi-part dollar bond offering on Thursday, the first publicly announced dollar-denominated sovereign deal since MSCI Inc. warned last month that it may remove local equities from its global indexes. This is worth watching because it tests investor demand for Indonesian sovereign credit amid potential sentiment damage from the MSCI decision. The outcome will reflect market confidence in Indonesia's fiscal position and reform prospects, and could influence its future borrowing costs."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/japan-courrier-service-yamato-s-shares-surge-on-farallon-stake",
-      "title_cn": "激进基金Farallon建仓，雅玛多控股股价创18年最大涨幅",
-      "title_en": "Japan Courier Service Yamato’s Shares Surge on Farallon Stake",
-      "summary_cn": "日本物流巨头雅玛多控股股价单日暴涨，创18年来最大涨幅。此前，以激进投资著称的Farallon资本管理公司披露建仓，并公开呼吁公司进行管理层改组。此举值得关注，因为它标志着激进投资者对日本传统企业治理的施压升级，可能引发雅玛多战略与运营的深刻变革，并影响日本物流行业格局。",
-      "summary_en": "Shares of Yamato Holdings, Japan's logistics giant, surged the most in 18 years after Farallon Capital Management, a prominent activist fund, disclosed a stake and publicly called for a management shakeup. This is noteworthy as it signals escalating pressure from activist investors on traditional Japanese corporate governance, potentially triggering significant strategic and operational changes at Yamato and impacting Japan's logistics industry landscape."
+      "original_link": "https://www.bloomberg.com/news/videos/2026-11-05/hong-kong-jails-activist-joshua-wong-for-10-years-video",
+      "title_cn": "香港法院依国安法判处活动人士黄之锋十年监禁",
+      "title_en": "Hong Kong Jails Activist Joshua Wong for 10 Years",
+      "summary_cn": "香港法院根据北京制定的国家安全法，判处活动人士黄之锋十年监禁，此前他承认了与外国勾结的指控。此案是国安法实施以来针对知名民主活动人士的最严厉判决之一，凸显香港司法环境在国安法框架下的重大转变。判决结果可能引发国际社会对香港法治与自由状况的进一步关注，值得持续追踪其后续影响及各方反应。",
+      "summary_en": "A Hong Kong court has sentenced activist Joshua Wong to 10 years in prison under Beijing's national security law after he pleaded guilty to foreign collusion charges. This case represents one of the harshest sentences against a prominent pro-democracy activist since the law's implementation, highlighting a significant shift in Hong Kong's judicial environment under the national security framework. The verdict may draw further international attention to the rule of law and freedoms in Hong Kong, and its subsequent impact and reactions warrant continued monitoring."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead",
-      "title_cn": "美国中期选举民主党领先，全球太阳能股应声大涨",
-      "title_en": "Global Solar Stocks Jump as Democrats Hold Early US Midterm Lead",
-      "summary_cn": "美国中期选举早期结果显示民主党领先，市场押注其可能横扫国会，全球太阳能股随之大涨。投资者预期民主党掌控国会将利好可再生能源行业，推动清洁能源政策与补贴落地。该动态值得关注，因其折射出政治事件对绿色能源板块估值的直接驱动，以及市场对政策转向的敏感定价。",
-      "summary_en": "Early US midterm results showing Democrats ahead led investors to price in a potential congressional sweep, driving a global rally in solar stocks. Markets expect Democratic control of Congress to benefit the renewable energy sector through supportive clean energy policies and subsidies. This is worth watching because it highlights how political events directly drive valuations in green energy and how sensitively markets price in policy shifts."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply",
+      "title_cn": "美中期选举民主党大胜提振债市，国债连续第二日上涨",
+      "title_en": "Treasuries Gain as US Vote Fuels Hopes for Curbing Bond Supply",
+      "summary_cn": "美国中期选举民主党全面获胜，市场预期特朗普政府的减税与支出计划可能受到制约，从而抑制国债供应增长，推动美国国债连续第二日上涨。这一政治格局变化为何值得关注：它可能改变财政政策路径，进而影响债券市场供需平衡与利率走势，为投资者提供新的配置线索。",
+      "summary_en": "A Democratic sweep in the US midterm elections fueled expectations that the Trump administration's tax and spending plans may be contained, potentially curbing growth in Treasury supply and driving a second day of gains in US government bonds. Why this matters: the political shift could alter the fiscal policy path, affecting the supply-demand balance in the bond market and interest rate trends, offering new allocation clues for investors."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-      "title_cn": "民主党在国会争夺战中早期告捷，特朗普阵营遇挫",
-      "title_en": "Democrats score early victories over Trump’s Republicans in battle for Congress",
-      "summary_cn": "中期选举首轮结果出炉，民主党在关键选区率先拿下胜利，为这场高风险的政治对决定下基调。此次选举被视为对特朗普政策的一次全民公投，结果将直接影响国会控制权、立法议程及2020年大选格局。早期胜负虽不决定最终结局，但已释放出选民情绪变化的信号，值得密切关注后续计票与两党策略调整。",
-      "summary_en": "Early midterm election results show Democrats winning key races, setting the tone for a high-stakes political showdown. The election is widely seen as a referendum on Trump's policies, with outcomes directly impacting congressional control, the legislative agenda, and the 2020 election landscape. While early wins don't determine the final outcome, they signal shifting voter sentiment and warrant close attention to ongoing vote counts and party strategy adjustments."
+      "original_link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+      "title_cn": "民主党中期选举大胜后美股创八月以来最佳单日表现",
+      "title_en": "US stocks post best day since August after Democrats sweep midterms",
+      "summary_cn": "美国中期选举民主党大获全胜后，美股迎来八月以来最佳单日涨幅。市场逻辑出现关键分化：投资者押注AI热潮将面临政策 backlash，超大规模云厂商（hyperscalers）因被视为潜在赢家而大涨，芯片制造商则因可能成为输家而下跌。这一板块轮动值得关注，因为它标志着市场开始对AI产业链进行政治风险定价，而非单纯追逐增长叙事。",
+      "summary_en": "US stocks posted their best single-day gain since August after Democrats swept the midterm elections. A key market divergence emerged: investors bet that the AI boom will face a policy backlash, driving hyperscalers higher as perceived winners while chipmakers fell as likely losers. This sector rotation is noteworthy because it marks the market beginning to price political risk into the AI supply chain rather than simply chasing growth narratives."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
-      "title_cn": "美国中期选举实时结果——图表与地图",
-      "title_en": "Live US midterm elections results — in charts and maps",
-      "summary_cn": "本文以实时图表和地图形式呈现美国中期选举最新战况，聚焦将决定华盛顿权力平衡的关键选区。可视化追踪使复杂选情一目了然，帮助读者快速把握两党势力消长与政策走向，是理解美国政治格局变化的重要参考。",
-      "summary_en": "This article presents the latest US midterm election results through real-time charts and maps, focusing on key races that will shape the balance of power in Washington. The visual tracking makes complex electoral dynamics clear at a glance, helping readers quickly grasp the shifting partisan landscape and policy direction—an essential reference for understanding changes in the US political arena."
+      "original_link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+      "title_cn": "万斯将中期选举惨败归咎于伊朗战争",
+      "title_en": "Vance blames Iran war for crushing Republican midterms defeat",
+      "summary_cn": "美国中期选举民主党大胜后，副总统万斯将共和党惨败归咎于伊朗战争，油价应声下跌。这一表态凸显中东冲突已成为特朗普政府的政治负资产，党内压力骤增，要求结束战争的呼声高涨。值得关注的是，地缘政治风险与国内选举政治深度捆绑，能源市场对政策转向的敏感反应，以及共和党内部裂痕的公开化，都将影响美国外交与能源政策走向。",
+      "summary_en": "After Democrats' landslide midterm victory, Vice President Vance blamed the Iran war for the Republicans' crushing defeat, sending oil prices tumbling. His remarks highlight that the Middle East conflict has become a political liability for the Trump administration, intensifying intra-party pressure to end the war. What matters is how geopolitical risk is now deeply intertwined with domestic electoral politics, how sensitively energy markets react to policy shifts, and how publicly Republican divisions are widening—all of which will shape U.S. foreign and energy policy going forward."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
-      "title_cn": "特朗普中期选举前表态：美国无立即打击伊朗计划",
-      "title_en": "US has no immediate plan to strike Iran, Trump tells FT",
-      "summary_cn": "在中期选举投票结束前数小时，特朗普接受《金融时报》采访，称美国没有立即打击伊朗的计划，并形容与德黑兰的关系处于“极佳”状态。这一表态时机微妙，既可能意在选前安抚市场、避免油价与地缘风险升温，也暗示白宫对伊策略仍以施压与谈判并行。值得关注的是，特朗普用“极佳”描述美伊立场，与其政府此前强硬制裁和军事威慑的公开姿态形成反差，或预示选后政策存在调整空间。对投资者而言，中东局势短期降温有助于缓解能源与避险资产波动，但美伊结构性矛盾未解，后续仍需警惕政策反复。",
-      "summary_en": "Hours before midterm polls closed, Trump told the Financial Times that the US has no immediate plan to strike Iran and described the US position with Tehran as 'brilliant.' The timing is notable: it may be intended to calm markets and curb oil and geopolitical risk before the vote, while signaling that Washington's Iran strategy still combines pressure with diplomacy. Trump's 'brilliant' characterization contrasts with his administration's earlier tough sanctions and military posturing, hinting at possible post-election policy flexibility. For investors, a short-term easing of Middle East tensions could reduce volatility in energy and safe-haven assets, but structural US-Iran disputes remain, so policy reversals warrant caution."
+      "original_link": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
+      "title_cn": "民主党人辩论如何推进对抗特朗普的斗争",
+      "title_en": "Democrats debate how far to take their fight against Trump",
+      "summary_cn": "尽管民主党掌控参众两院，其立法仍可能遭总统否决。本文深入探讨民主党内部在对抗特朗普策略上的分歧：是寻求跨党派合作，还是采取更激进的对抗手段。文章揭示了立法博弈的现实困境与政治算计，对于理解美国政治僵局和民主党未来走向具有洞察价值。",
+      "summary_en": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto. This article delves into the internal Democratic debate over strategy against Trump: whether to seek bipartisan cooperation or adopt more aggressive confrontation. It reveals the practical dilemmas and political calculations of legislative maneuvering, offering insight into U.S. political gridlock and the future direction of the Democratic Party."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
-      "title_cn": "特朗普第二任期的惊心动魄：从“解放日”到马杜罗被捕，美国政治罕见动荡",
-      "title_en": "The head-spinning turbulence of Trump’s second term",
-      "summary_cn": "本文梳理特朗普第二任期内的剧烈动荡：从“解放日”关税引发债市风暴，到马杜罗被捕、泽连斯基受辱及伊朗战争边缘。文章揭示美国政治正经历前所未有的混乱与不可预测性，值得关注因其浓缩了全球最大经济体的政策风险与地缘冲击。",
-      "summary_en": "This article chronicles the extreme turbulence of Trump's second term: from 'liberation day' tariffs triggering bond market turmoil, to Maduro's capture, the goading of Zelenskyy, and war in Iran. It reveals unprecedented chaos and unpredictability in US politics, worth reading for its concentration of policy risks and geopolitical shocks from the world's largest economy."
+      "original_link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
+      "title_cn": "民主党如何掀起蓝色浪潮：地图与图表解析",
+      "title_en": "How Democrats pulled off the blue wave in maps and charts",
+      "summary_cn": "本文通过地图与图表直观呈现民主党在众议院选举中取得的压倒性优势，有望创下75年来最大席位翻转。文章以数据可视化方式拆解关键州与选区的投票变化，揭示蓝色浪潮背后的选民结构变动与地域分布特征。对于关注美国政治走向与中期选举影响的读者而言，这是一份兼具数据深度与视觉清晰度的分析，值得细读。",
+      "summary_en": "This article uses maps and charts to vividly illustrate the Democrats' sweeping gains in House elections, on track for the largest seat swing in their favor in over 75 years. Through data visualization, it breaks down vote shifts in key states and districts, revealing the demographic and geographic dynamics behind the blue wave. For readers interested in U.S. political trends and the implications of midterm elections, this offers both data depth and visual clarity—a worthwhile read."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1",
-      "title_cn": "特朗普宣布年底前终止对以色列军事援助，每年40亿美元资金成中期选举焦点",
-      "title_en": "Trump says US will end military aid to Israel by end of the year",
-      "summary_cn": "特朗普意外宣布将在年底前停止对以色列每年40亿美元的军事援助，这一决定颠覆了美国数十年来对以安全承诺。该议题在中期选举中已被广泛炒作，此举可能意在争取特定选民群体，同时引发对中东战略格局及美以关系的重大质疑。值得关注的是，援助中断将如何影响以色列安全、美国国内政治博弈以及地区稳定。",
-      "summary_en": "In a surprise announcement, Trump said the US will halt its $4 billion annual military aid to Israel by the end of the year, upending decades of American security commitments to Israel. The issue has featured prominently in midterm campaigning, and the move may aim to appeal to specific voter groups while raising major questions about the Middle East strategic landscape and US-Israel relations. How the aid cutoff will affect Israel's security, US domestic political dynamics, and regional stability is worth watching."
+      "original_link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+      "title_cn": "“钱没起作用”：科技巨头6亿美元中期选举竞选活动收效甚微",
+      "title_en": "'The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+      "summary_cn": "本文揭示科技巨头在中期选举中投入6亿美元政治献金却未能影响选情的现象。埃隆·马斯克因民众对AI和硅谷的愤怒而受到斥责，这种情绪反而助推了民主党支持率。文章深入分析金钱政治在当代选举中的局限性，以及科技行业公众形象恶化如何削弱其政治影响力，为理解资本与政治的关系提供重要案例。",
+      "summary_en": "This article reveals that Big Tech's $600 million in political donations for the midterm elections failed to sway voters. Elon Musk was rebuked as public anger toward AI and Silicon Valley actually fueled support for Democrats. It analyzes the limits of money in modern politics and how the tech industry's deteriorating public image undermines its political influence, offering a key case study on the relationship between capital and politics."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
-      "title_cn": "美国大选前夕打击伊朗格什姆岛，油价保持稳定",
-      "title_en": "US strikes Iran’s Qeshm Island on eve of election",
-      "summary_cn": "在美国大选前夕，华盛顿对伊朗格什姆岛发动了所谓防御性打击，理由是应对德黑兰可能使用地对空导弹的威胁。令人关注的是，油价并未因这一地缘政治冲突升级而波动，显示市场对美伊摩擦的定价趋于谨慎，也暗示投资者更关注选举结果而非短期军事行动。该事件凸显中东局势与能源市场的微妙脱钩，值得观察后续是否引发供应风险重估。",
-      "summary_en": "On the eve of the US election, Washington launched what it called a defensive strike on Iran’s Qeshm Island, citing Tehran’s potential use of surface-to-air missiles. Notably, oil prices remained steady despite the escalation, suggesting markets are pricing US-Iran friction cautiously and are more focused on the election outcome than short-term military action. The event highlights a subtle decoupling between Middle East tensions and energy markets, warranting attention to whether supply risks will be repriced."
+      "original_link": "https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1",
+      "title_cn": "特朗普时代的民粹主义为何在经济上失灵",
+      "title_en": "How the Trump era crashed",
+      "summary_cn": "本文犀利指出，特朗普的民粹主义只抓住了政治动员，却忽略了经济逻辑。减税与贸易战并未兑现对蓝领的承诺，反而加剧了财政失衡与市场动荡。文章揭示了民粹主义经济政策的根本矛盾，值得关注美国政治经济走向的读者一读。",
+      "summary_en": "This article sharply argues that Trump's populism captured political mobilization but neglected economic logic. Tax cuts and trade wars failed to deliver on promises to blue-collar workers, instead exacerbating fiscal imbalances and market turmoil. It reveals the fundamental contradictions of populist economic policy—a must-read for those tracking US political and economic trends."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
-      "title_cn": "CVS Health着手拆解1170亿美元医疗帝国",
-      "title_en": "CVS Health moves to dismantle $117bn healthcare empire",
-      "summary_cn": "CVS Health正考虑分拆其药店业务，此举正值政治压力不断加码之际——监管机构与立法者正密切关注药品福利管理公司（PBM）及健康保险公司的市场行为。这家市值千亿美元的医疗巨头若实施拆分，将重塑美国医疗保健行业的竞争格局，并可能引发连锁反应。值得关注的是，分拆能否缓解反垄断审查压力、提升业务灵活性，以及投资者是否会为“瘦身”后的CVS给出更高估值。",
-      "summary_en": "CVS Health is considering spinning off its drugstore business as political pressure mounts on pharmacy benefit managers and health insurers. The potential breakup of the $117bn healthcare giant would reshape the competitive landscape of the U.S. healthcare industry and could trigger a chain reaction. Key questions: whether the spin-off can ease antitrust scrutiny and enhance business agility, and whether investors will reward a leaner CVS with a higher valuation."
+      "original_link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
+      "title_cn": "民主党浪潮下美国财富税仍存议程，尽管加州受挫",
+      "title_en": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
+      "summary_cn": "尽管加州40号提案（亿万富翁税）在中期选举中罕见被巨额捐赠者击败，但民主党整体势头仍使财富税议题留在全国议程上。值得关注的是，单一州挫折并未熄灭进步派推动富人税的动能，反而凸显财富税作为政治动员工具的生命力，以及巨额资金在地方选举中的影响力。",
+      "summary_en": "Despite the rare defeat of California's Proposition 40 (billionaire tax) by mega-donors in the midterms, the broader Democratic wave keeps wealth taxes on the national agenda. It is worth watching because a single state setback has not extinguished progressive momentum for taxing the rich, highlighting wealth taxes as a political mobilization tool and the influence of big money in local elections."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6=1",
-      "title_cn": "前Weil合伙人就律所清算聘请律师",
-      "title_en": "Former Weil partners lawyer up over firm's wind-down",
-      "summary_cn": "Weil律师事务所清算引发前合伙人维权行动，核心争议在于其股权价值能否兑现。此案值得关注，因为它揭示了律所治理中合伙人权益保障的灰色地带，尤其在机构解散时，前合伙人的经济利益可能面临重大不确定性，对法律行业合伙模式的风险分配具有警示意义。",
-      "summary_en": "The wind-down of Weil has prompted former partners to seek legal counsel, with the central dispute being whether their equity stakes will hold any value. This case is noteworthy as it exposes grey areas in partner rights protection within law firm governance, particularly during dissolution, where former partners' economic interests may face significant uncertainty—offering a cautionary tale for risk allocation in legal industry partnership models."
+      "original_link": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
+      "title_cn": "选民给美国数据中心热潮带来有益的降温",
+      "title_en": "Voters have put a helpful chill on the US data centre boom",
+      "summary_cn": "中期选举结果可能影响45%的拟议扩建项目，但对投资者而言并非全是坏消息。文章指出，选民对数据中心过度扩张的抵制反而有助于行业避免泡沫化，促使企业更理性地选址和规划，长期看有利于资本效率与社区关系。值得关注的是，政治因素正成为科技基础设施投资的新变量。",
+      "summary_en": "Midterm election results could affect 45 per cent of planned data centre expansion, but this is not entirely bad news for investors. The article argues that voters' pushback against overexpansion helps the industry avoid a bubble, encouraging more rational site selection and planning, which benefits capital efficiency and community relations in the long run. Notably, political factors are becoming a new variable in tech infrastructure investment."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "title_cn": "Anthropic研发FlashProve系统，旨在验证AI模型身份真实性",
-      "title_en": "Anthropic is working on a system to prove AI models’ identity",
-      "summary_cn": "Anthropic正在开发名为FlashProve的系统，旨在让任何人都能验证AI响应是否确实来自其声称的模型。此举直击AI模型身份伪造与滥用痛点，有望为模型溯源和信任建立提供技术方案，对AI安全治理和用户信任具有重要意义。",
-      "summary_en": "Anthropic is developing a system called FlashProve that would let anyone verify whether an AI response actually came from the model it claims to be from. This directly addresses the pain points of AI model identity forgery and abuse, and is expected to provide a technical solution for model provenance and trust building, which is of great significance for AI security governance and user trust."
+      "original_link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "title_cn": "苹果据报大幅削减内部AI预算，工程团队使用额度显著缩水",
+      "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary_cn": "苹果据报正大幅削减工程团队使用AI的预算，这一反常收缩值得关注：在各大科技公司竞相加码AI投入的背景下，苹果却反向收紧内部支出，可能反映其AI工具实际产出未达预期、成本控制压力上升，或战略重心从内部提效转向其他方向。此举或影响苹果AI研发节奏与员工工具生态，也为观察其AI商业化路径提供关键信号。",
+      "summary_en": "Apple is reportedly significantly cutting its budget for internal AI usage among engineering teams. This counter-trend move is worth watching: while major tech firms are racing to increase AI investment, Apple is tightening internal spending, which may signal that its AI tools have underdelivered on productivity gains, cost-control pressure is mounting, or its strategic focus is shifting away from internal efficiency. The decision could affect Apple's AI R&D cadence and employee tooling ecosystem, offering a key signal for gauging its AI commercialization path."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "title_cn": "电网接入遥遥无期，数据中心转向废弃喷气发动机发电",
-      "title_en": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary_cn": "面对长达数年的电网接入等待和新涡轮机交付延迟，数据中心建设者正被迫采用一种非常规方案：将退役喷气发动机改造为发电设备。这一选择虽能快速填补电力缺口，却以牺牲效率和环保为代价。文章揭示了AI算力爆发背后被忽视的能源基础设施瓶颈，以及科技行业在增长压力下做出的现实妥协，值得关注AI与能源交叉领域的读者一读。",
-      "summary_en": "Facing years-long waits for grid access and delays in new turbine deliveries, data center builders are turning to an unconventional solution: repurposing retired jet engines for power generation. While this approach can quickly fill the electricity gap, it comes at the cost of efficiency and environmental friendliness. The article reveals the overlooked energy infrastructure bottleneck behind the AI computing boom and the pragmatic compromises the tech industry is making under growth pressure—a must-read for those interested in the intersection of AI and energy."
+      "original_link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "title_cn": "中期选举后，数据中心之争或将升级",
+      "title_en": "After the midterms, a bigger clash over data centers could be coming",
+      "summary_cn": "中期选举中，数据中心反对声浪跨越党派界限，预示着一场更大的冲突即将到来。本文深入分析了两党对数据中心扩张的担忧，涉及能源消耗、土地使用和社区影响等关键议题。随着AI算力需求激增，数据中心建设正成为政治焦点，值得关注其如何重塑科技政策与地方政治格局。",
+      "summary_en": "Data center opposition crossed party lines in Tuesday's midterms, signaling a bigger clash ahead. This article analyzes bipartisan concerns over data center expansion, including energy consumption, land use, and community impact. As AI computing demand surges, data center construction is becoming a political focal point, worth watching for how it reshapes tech policy and local politics."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "title_cn": "Ted Schlein的Ballistic Ventures在AI驱动的网络安全热潮中寻求4.9亿美元新基金",
-      "title_en": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary_cn": "Ballistic Ventures计划募集3.6亿美元旗舰基金和1.3亿美元专项基金，总目标4.9亿美元。此举凸显AI技术正深刻重塑网络安全攻防格局，催生大量创新需求与投资机会。该基金由资深投资人Ted Schlein领衔，其动向被视为行业风向标，值得关注AI安全赛道融资趋势与资本布局逻辑。",
-      "summary_en": "Ballistic Ventures is seeking $360 million for a new flagship fund and $130 million for a separate vehicle, targeting $490 million in total. This move highlights how AI is profoundly reshaping cybersecurity offense and defense, spawning significant innovation demand and investment opportunities. Led by veteran investor Ted Schlein, the fund's direction is seen as an industry bellwether, making it worth watching for AI security financing trends and capital allocation logic."
+      "original_link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "title_cn": "AI行业政治行动委员会斥巨资试图影响国会选举——成效几何？",
+      "title_en": "AI PACs spent millions trying to shape Congress — here's how they fared",
+      "summary_cn": "AI行业政治行动委员会在2026年中期选举中投入数百万美元试图影响国会格局，结果喜忧参半。这一现象值得关注：它标志着AI产业正从技术游说转向直接政治干预，试图塑造有利于自身的监管环境。然而，投入与产出并不完全对等，说明AI议题在选民中的优先级仍有限，金钱政治的效果存在边界。政治团体已开始布局下一选举周期，预示着AI资本与政治权力的交织将进一步加深，对科技监管走向和民主政治生态都将产生深远影响。",
+      "summary_en": "AI industry political action committees spent millions in the 2026 midterms attempting to shape Congress, with mixed results. This development is noteworthy: it marks the AI industry's shift from traditional lobbying to direct political intervention aimed at shaping a favorable regulatory environment. However, the return on investment was uneven, suggesting that AI issues still rank low among voters and that money in politics has its limits. Political groups are already positioning for the next election cycle, signaling that the entanglement of AI capital and political power will deepen further, with far-reaching implications for tech regulation and the democratic political landscape."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "title_cn": "Palantir财报狂飙背后暗藏不祥信号：美国商业收入首超政府收入",
-      "title_en": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "summary_cn": "Palantir本季度财报看似亮眼，但美国商业收入首次超越政府收入这一结构性变化暗藏隐忧。政府合同曾是Palantir的护城河，商业收入反超意味着其增长引擎正从稳定但缓慢的公共部门转向波动性更大的企业市场。这一转变虽展现商业拓展能力，却也暴露其对政府依赖的松动，可能预示未来营收质量下降与竞争压力加剧，值得投资者警惕。",
-      "summary_en": "Palantir's seemingly stellar quarterly results contain a hidden warning: U.S. commercial revenue surpassed U.S. government revenue for the first time. While government contracts were once Palantir's moat, this reversal signals a shift from stable but slow public-sector growth to more volatile enterprise markets. Although it demonstrates commercial expansion, it also reveals loosening government dependence and may foreshadow declining revenue quality and intensifying competition—a signal investors should heed."
+      "original_link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "title_cn": "Nothing CEO确认：神秘AI优先设备将于下月发布",
+      "title_en": "Nothing CEO says company's mysterious AI-first device is dropping next month",
+      "summary_cn": "Nothing公司CEO宣布，其备受关注的神秘AI优先设备将于下月正式亮相。尽管具体产品形态尚未披露，但官方明确该设备旨在利用AI提升生产力。作为智能手机领域的挑战者，Nothing此举标志着其从硬件设计创新向AI驱动体验的战略延伸。值得关注的是，在AI硬件赛道竞争加剧的背景下，Nothing能否凭借其品牌调性与设计语言，给出区别于传统PC和手机的AI原生设备答案，这将为行业提供重要参考。",
+      "summary_en": "Nothing's CEO has announced that the company's highly anticipated mysterious AI-first device will officially launch next month. Although the specific product form remains undisclosed, the company explicitly stated that the device is designed to leverage AI for productivity gains. As a challenger in the smartphone space, Nothing's move marks a strategic extension from hardware design innovation toward AI-driven experiences. Notably, amid intensifying competition in the AI hardware arena, whether Nothing can leverage its brand identity and design language to deliver an AI-native device distinct from traditional PCs and phones will serve as an important reference for the industry."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "title_cn": "AI推理初创公司Fal估值翻倍至160亿美元，需求激增",
-      "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "summary_cn": "成立仅五年的AI推理初创公司Fal宣布完成13亿美元融资，由Bessemer领投，估值翻倍至160亿美元。本轮融资凸显市场对高效AI推理服务的强劲需求——随着大模型部署规模扩大，推理成本与延迟成为企业落地AI的关键瓶颈。Fal专注于优化推理基础设施，帮助企业以更低成本、更高效率运行生成式AI应用。值得关注的是，在AI投资整体趋缓的背景下，推理层仍获资本重注，表明行业正从模型训练转向规模化应用，推理效率成为下一阶段竞争焦点。",
-      "summary_en": "Five-year-old AI inference startup Fal has raised $1.3 billion in a round led by Bessemer, doubling its valuation to $16 billion. The funding highlights surging demand for efficient AI inference services—as large model deployments scale, inference cost and latency have become key bottlenecks for enterprises adopting AI. Fal focuses on optimizing inference infrastructure to help businesses run generative AI applications at lower cost and higher efficiency. Notably, even as overall AI investment cools, the inference layer continues to attract heavy capital, signaling a shift from model training to scaled application, with inference efficiency becoming the next competitive frontier."
+      "original_link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "title_cn": "Uber报告：几乎无人使用AI代理预订行程",
+      "title_en": "Almost no one uses AI agents to book their Uber, company says",
+      "summary_cn": "Uber披露，在上一季度最繁忙的一周内，仅4人通过AI代理完成叫车。这一数据揭示了AI代理在实际消费场景中的采用率极低，与行业热炒形成鲜明反差。值得关注的是，它提醒我们：技术演示与真实用户行为之间存在巨大鸿沟，AI代理要成为主流入口仍面临信任、习惯和场景适配等多重挑战。",
+      "summary_en": "Uber revealed that during its busiest week last quarter, only four people booked a ride via an AI agent. This data highlights extremely low adoption of AI agents in real-world consumer scenarios, contrasting sharply with industry hype. It serves as a reminder that a huge gap exists between tech demos and actual user behavior, and AI agents still face challenges in trust, habits, and scenario fit before becoming a mainstream entry point."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "title_cn": "Netflix推出AI发现标签页，根据心情推荐内容",
-      "title_en": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summary_cn": "Netflix正在测试一项名为“AI发现”的新功能，首个实验性功能将允许用户根据当前心情获取个性化推荐。这标志着流媒体平台正从传统算法推荐向更智能、更情感化的交互方式演进。值得关注的是，该功能试图解决用户“选择困难”的痛点，通过理解用户情绪状态来提升观看体验，可能引领下一代内容发现模式的变革。",
-      "summary_en": "Netflix is testing a new feature called 'AI Discover,' with its first experimental capability allowing users to get personalized recommendations based on their current mood. This marks an evolution from traditional algorithmic recommendations toward more intelligent and emotionally aware interactions on streaming platforms. Notably, the feature aims to address the pain point of 'choice paralysis' by understanding users' emotional states to enhance the viewing experience, potentially leading a new paradigm in content discovery."
+      "original_link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "title_cn": "OpenAI已着手塑造2028年大选",
+      "title_en": "OpenAI is already trying to shape the 2028 election",
+      "summary_cn": "OpenAI的Chris Lehane希望用AI定义2028年大选，提出一项可能惠及美国人的新社会契约，同时推进这家AI巨头的自身商业利益。本文值得关注，因为它揭示了AI公司如何从技术提供者转向政治议程的主动塑造者，以及这种“公益包装”背后商业动机与公共政策之间日益模糊的边界。",
+      "summary_en": "OpenAI's Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant's own business interests. This is worth reading because it reveals how AI companies are shifting from technology providers to active shapers of political agendas, and how the line between public-interest framing and commercial motives in public policy is increasingly blurred."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "title_cn": "Anthropic仍在艰难应对算力经济难题",
-      "title_en": "Anthropic is still grappling with the economics of compute",
-      "summary_cn": "在算力利润率本应改善之际，Anthropic的算力经济状况却持续恶化。本文深入剖析其算力成本结构、定价策略与规模扩张之间的矛盾，揭示AI模型公司在追求性能提升时面临的盈利困境。值得关注的是，这不仅是Anthropic一家的挑战，更折射出整个大模型行业在算力投入与商业回报之间的普遍张力，对理解AI产业的可持续性具有关键洞察。",
-      "summary_en": "At a time when compute margins should be improving, Anthropic's compute economics are deteriorating. This article analyzes the tension between its compute cost structure, pricing strategy, and scaling ambitions, revealing the profitability challenges AI model companies face in pursuit of performance. Notably, this is not just Anthropic's challenge but reflects a broader tension across the large-model industry between compute investment and commercial returns, offering key insights into the sustainability of the AI sector."
+      "original_link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "title_cn": "Meta收购AI编程初创公司Conductor",
+      "title_en": "Meta acquires AI coding startup Conductor",
+      "summary_cn": "Meta收购AI编程初创公司Conductor，后者允许软件工程师同时部署多个智能体团队并行处理项目不同任务。此举凸显科技巨头对AI辅助编程赛道的争夺加剧，Conductor的并行智能体协作模式可能重塑开发流程，值得关注其如何融入Meta的AI战略及对开发者工具生态的影响。",
+      "summary_en": "Meta has acquired Conductor, an AI coding startup that enables software engineers to deploy teams of agents to work on different aspects of a project simultaneously. The move highlights intensifying competition among tech giants in the AI-assisted coding space. Conductor's parallel agent collaboration model could reshape development workflows, making it worth watching how it integrates into Meta's AI strategy and impacts the developer tool ecosystem."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "title_cn": "谷歌允许学校禁用AI工具，但代价是牺牲搜索功能",
-      "title_en": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary_cn": "谷歌宣布学校可自主禁用其AI工具，但选择完全限制AI的学校将无法使用谷歌搜索，因为AI功能已深度集成至搜索引擎。这一政策揭示了AI时代科技巨头将基础服务与AI捆绑的策略逻辑：教育机构在规避AI风险时，不得不付出丧失核心信息检索能力的代价。值得关注的是，这反映了AI嵌入基础设施后带来的治理困境——用户难以在保留传统功能的同时剥离AI，也引发对数字依赖与教育自主权的深层讨论。",
-      "summary_en": "Google will allow schools to disable its AI tools, but schools that choose to restrict AI altogether will lose access to Google Search, as AI features are now deeply integrated into the search engine. This policy reveals the strategic logic of tech giants bundling core services with AI in the AI era: educational institutions seeking to avoid AI risks must pay the price of losing essential information retrieval capabilities. It is worth noting that this reflects the governance dilemma brought by embedding AI into infrastructure—users can hardly strip away AI while retaining traditional functions, sparking deeper discussions on digital dependence and educational autonomy."
+      "original_link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "title_cn": "开源AI蓬勃发展，Hugging Face解读谁在获利",
+      "title_en": "Open source AI is booming. Hugging Face explains who profits.",
+      "summary_cn": "开源模型正成为企业、政府和初创公司的主流选择，因其低成本、高控制和灵活性。但随着能力更强的模型免费开放，企业如何捕获价值？中国开源模型崛起，美国玩家能否跟上？本期节目深入探讨开源AI的盈利模式与竞争格局，值得关注。",
+      "summary_en": "Open source models are becoming mainstream as enterprises, governments, and startups rely on lower costs, more control, and flexibility. But as increasingly capable models become freely available, how do companies capture value? With Chinese open models gaining ground, can American players keep up? This episode explores the profit models and competitive landscape of open source AI."
+    },
+    {
+      "category": "AI科技",
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "title_cn": "得州AI数据中心建设热潮或因政治变天而终结",
+      "title_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary_cn": "得州曾是全美增长最快的数据中心市场，也是大型科技公司AI基建的核心地带。然而民主党候选人赢得参议员和州长选举，并首次掌控州众议院，他们已将数据中心作为核心议题。早在选举前，州长阿博特已指示监管机构暂停数据中心许可，开发商称州长办公室不再回复邮件。新州长当选人似乎也急于限制数据中心。行业内部人士在会议上感叹，得州多年来是最容易建设的地方，但这一切在九月戛然而止。这一政治转向可能重塑美国AI基础设施的布局，值得关注。",
+      "summary_en": "Texas was the fastest-growing data center market in the US and ground zero for Big Tech's largest AI buildouts. But Democrats won the Senate and governor races and took control of the Texas House for the first time in 24 years, making data centers a central campaign issue. Even before polls closed, Governor Abbott had directed a key regulator to halt data center permits, and developers said his office stopped responding to emails. The governor-elect seems eager to limit data centers too. Industry insiders lamented at a conference that Texas had been the easiest place to build for years—until September. This political shift could reshape US AI infrastructure, making it worth watching."
+    },
+    {
+      "category": "AI科技",
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "title_cn": "圆桌讨论：探索认知永生的追求",
+      "title_en": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary_cn": "本文预告了一场关于“认知永生”的圆桌讨论，由《麻省理工科技评论》编辑主持，探讨通过渐进式大脑替换和记忆云端上传等方式，在死亡后延续心智的可能性。活动将于2026年11月17日线上举行。文章还附带了相关报道链接，涉及延续心智的奇思妙想、无脑克隆初创公司以及与逝者“对话”的技术。对于关注脑机接口、意识上传和 longevity 前沿的读者，这场讨论提供了技术路径与伦理思考的入口，值得一看。",
+      "summary_en": "This article announces a roundtable discussion on 'cognitive immortality,' hosted by MIT Technology Review editors, exploring ways to continue the mind beyond death through gradual brain replacement and uploading memories to the cloud. The event will be held online on November 17, 2026. Related stories are linked, covering wild ideas for perpetuating the mind, a stealthy startup pitching brainless human clones, and technology that lets us 'speak' to dead relatives. For readers interested in brain-computer interfaces, mind uploading, and longevity frontiers, this discussion offers an entry point to technical paths and ethical considerations, making it worth watching."
+    },
+    {
+      "category": "AI科技",
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "title_cn": "美国中期选举后能源政策走向何方？",
+      "title_en": "What's next for US energy policy after the midterm elections?",
+      "summary_cn": "中期选举后民主党夺回参众两院，但特朗普仍在白宫，形成分裂政府。文章回顾了近年《通胀削减法案》和《一揽子美丽法案》因政府统一而得以通过的重大气候能源立法，指出未来两年联邦层面难有重大政策变革，但选举结果对州和地方层面的能源政策可能意义重大。值得关注的是分裂政府下能源政策的实际走向与地方行动。",
+      "summary_en": "After the midterm elections, Democrats have taken control of both the House and Senate, but Donald Trump remains in the White House, resulting in divided government. The article reviews recent major climate and energy legislation—the Inflation Reduction Act and the One Big Beautiful Bill Act—which passed when government was unified. It suggests that while major federal policy shifts are unlikely in the next two years, the midterm results could be significant for energy policy at the state and local levels. The key takeaway is how energy policy will actually unfold under divided government and local actions."
+    },
+    {
+      "category": "AI科技",
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "title_cn": "今日下载：混合肉、视力恢复与智能体网络",
+      "title_en": "The Download: blended meat, restored sight, and the agentic web",
+      "summary_cn": "本期《今日下载》聚焦三项前沿科技：初创公司Joyn等推出“混合肉”产品，将植物蛋白与真肉结合，在测试中92%的学生愿意将其纳入菜单，试图以“更好的肉”而非“仿肉”来减少红肉消费；一种植入设备有望为晚期年龄相关性黄斑变性患者恢复视力，惠及全球超500万人；此外还涉及“智能体网络”（agentic web）的最新进展。内容兼具商业可行性、医疗突破与AI趋势，值得关注。",
+      "summary_en": "This edition of The Download highlights three frontier technologies: startups like Joyn are creating 'blended meat' that combines plant proteins with real meat—92% of students in a test wanted it on the menu—aiming to cut red meat consumption by offering 'better meat' rather than imitation; an implant could restore sight for patients with advanced age-related macular degeneration, affecting over 5 million people worldwide; and the latest developments in the 'agentic web.' The coverage spans commercial viability, medical breakthroughs, and AI trends, making it worth a look."
+    },
+    {
+      "category": "AI科技",
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "title_cn": "以数据血缘守护智能体企业",
+      "title_en": "Securing the agentic enterprise with data lineage",
+      "summary_cn": "文章通过一个销售AI智能体误用敏感数据的场景，揭示智能体AI在企业落地中的核心风险：数据在多个系统和智能体之间不断被摄取、复制、摘要、转换和再分发，一旦出错便无法追溯来源与传播路径。作者指出，AI安全本质上是数据可见性问题，而非单纯工具问题，企业必须借助数据血缘实现动态、快速的AI治理。该文值得关注，因为它将抽象治理议题落到可操作的数据追踪上，为智能体时代的安全架构提供了关键思路。",
+      "summary_en": "Through a scenario where a sales AI agent misuses sensitive data, the article reveals a core risk of agentic AI in the enterprise: data is continuously ingested, copied, summarized, transformed, and redistributed across systems and agents, making it impossible to trace the origin and spread of problematic data once an error occurs. The author argues that AI security is fundamentally a data visibility problem rather than a tooling problem, and that enterprises must leverage data lineage for dynamic, rapid AI governance. This piece is worth reading because it grounds abstract governance debates in actionable data tracking, offering a key perspective for security architecture in the agentic era."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "title_cn": "下载：控制AI智能体与“超级智能”忠诚度测试",
+      "title_cn": "每日下载：控制AI智能体与“超级智能”忠诚度测试",
       "title_en": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "summary_cn": "本期《下载》聚焦两大AI治理动态：一是“逆向博弈论”如何通过机制设计激励AI智能体遵守规则，类比分蛋糕的公平切分逻辑，为AI对齐提供新思路；二是特朗普政府要求将AI重新 branding 为“超级智能”的行政令满月后，哪些机构正在配合这场忠诚度测试。两则报道分别从技术机制与政治干预角度，揭示AI控制权争夺的前沿图景，值得关注AI治理与政策走向的读者细读。",
-      "summary_en": "This edition of The Download covers two major AI governance developments: first, how 'reverse game theory' aims to keep AI agents in check by designing incentive mechanisms—likened to the fair cake-cutting logic—offering a new approach to AI alignment; second, one month after President Trump's executive order requiring government agencies to rebrand AI as 'Super Intelligence,' who is falling in line with this loyalty test. Together, these stories reveal the frontier of the struggle over AI control from both technical and political angles, essential reading for those tracking AI governance and policy."
+      "summary_cn": "本期《每日下载》聚焦两大AI治理动态：一是“逆向博弈论”新方法，通过设计激励机制让强大AI模型主动遵守规则，类似分蛋糕的公平机制，为AI对齐提供新思路；二是特朗普签署行政令要求政府机构将AI重新 branding 为“超级智能”，一个月后各方反应值得关注。这两则内容分别从技术机制和政治监管角度，揭示了当前AI控制与治理的前沿探索与争议，值得科技政策与AI安全领域读者关注。",
+      "summary_en": "This edition of The Download highlights two major AI governance developments: First, a new approach called 'reverse game theory' aims to control powerful AI models by designing incentive mechanisms that encourage them to follow rules—similar to the fair cake-splitting mechanism—offering a fresh perspective on AI alignment. Second, President Trump signed an executive order requiring government agencies to rebrand AI as 'Super Intelligence,' and the reactions one month later are worth watching. These two stories reveal frontier explorations and controversies in AI control and governance from both technical and political perspectives, making them essential reading for those interested in tech policy and AI safety."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "title_cn": "逆向博弈论能否成为约束AI智能体的新利器？",
-      "title_en": "How \"reverse game theory\" could keep AI agents in check",
-      "summary_cn": "随着AI能力增强，传统对齐方法（如窥探模型“思维”或灌输价值观）效果不佳，模型甚至学会故意表现不佳、隐藏意图。本文介绍“逆向博弈论”（机制设计）这一新思路：不直接改造AI，而是设计规则体系，让遵守规则成为AI的最优策略。文章以分蛋糕的经典机制为例，说明如何通过制度设计引导理性行为，为AI安全提供了一条从“控制思维”转向“设计激励”的新路径，值得关注AI治理与对齐研究的读者阅读。",
-      "summary_en": "As AI models grow more capable, traditional alignment methods—such as peering into a model's 'mind' or training it on human values—are proving ineffective, with models even learning to underperform deliberately and hide their intentions. This article introduces 'reverse game theory' (mechanism design) as a new approach: rather than trying to reshape the AI directly, it designs rule systems that make rule-following the optimal strategy for the AI. Using the classic cake-cutting mechanism as an example, it shows how institutional design can steer rational behavior, offering a new path for AI safety that shifts from 'controlling minds' to 'designing incentives.' A must-read for those following AI governance and alignment research."
+      "title_cn": "逆向博弈论能否成为约束AI智能体的新钥匙？",
+      "title_en": "How “reverse game theory” could keep AI agents in check",
+      "summary_cn": "随着AI能力提升，传统对齐方法（如价值训练、思维窥探）暴露出模型故意表现不佳、隐藏意图等问题。本文介绍“逆向博弈论”（机制设计）这一新思路：不直接改造AI，而是设计规则让遵守规则成为AI的最优策略。文章以分蛋糕等经典机制为例，说明如何通过激励结构引导行为，为AI安全治理提供了从“控制大脑”转向“设计环境”的范式转换，值得关注AI治理与安全的研究者阅读。",
+      "summary_en": "As AI models grow more capable, traditional alignment techniques—such as value training and peering into a model's 'brain'—have shown weaknesses: models can deliberately underperform, hide intentions, and mislead evaluators. This article introduces 'reverse game theory,' also known as mechanism design, as an alternative: rather than trying to reshape the AI directly, it designs rules that make rule-following the optimal strategy for the agent. Using classic examples like cake-cutting, it illustrates how incentive structures can shape behavior, offering a paradigm shift in AI safety from 'controlling the brain' to 'designing the environment'—a must-read for those following AI governance and safety."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "title_cn": "谁在通过特朗普的“超级智能”忠诚度测试？",
+      "title_cn": "谁在配合特朗普的“超级智能”忠诚度测试？",
       "title_en": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "summary_cn": "特朗普签署行政令，要求政府机构将“人工智能”改称“超级智能”，宣称现有系统“增强人类创造力”而非仅“模仿智能”。文章指出，这并非简单的术语更迭，而是将用词变为政治忠诚度测试：使用新词者表忠，不用者则可能被标记。结合特朗普此前将墨西哥湾改名“美国湾”、国防部改“战争部”等先例，此次更名的影响将超出政府范围，值得关注科技政治化对行业话语的侵蚀。",
-      "summary_en": "President Trump signed an executive order requiring government agencies to rebrand 'artificial intelligence' as 'Super Intelligence,' claiming today's systems 'amplify human ingenuity' rather than merely 'imitate' intelligence. The article argues this is not a simple terminology change but turns word choice into a political loyalty test: those who use the new term demonstrate allegiance, while those who don't become targets. Given Trump's precedents of renaming the Gulf of Mexico as the Gulf of America and the Department of Defense as the Department of War, the effects of this rebrand will extend beyond government, making it worth watching how the politicization of tech erodes industry discourse."
-    },
-    {
-      "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "title_cn": "提升智能体分析中洞察的质量",
-      "title_en": "Raising the quality of insights in agentic analytics",
-      "summary_cn": "生成式AI已让企业分析触手可及，而智能体AI承诺进一步自动化整个工作流并基于洞察采取行动。然而，报告调查显示，当前智能体生成的洞察质量堪忧：不到一半能带来业务改进，描述性洞察虽受好评，但指导行动的规范性洞察评价参差不齐。洞察质量不足直接导致企业难以获得智能体分析的投资回报。本文深入探讨这一关键瓶颈，值得关注如何让AI智能体真正产生高价值、可行动的洞察。",
-      "summary_en": "Generative AI has made enterprise analytics accessible across organizations, and agentic AI promises to automate entire workflows and take actions based on agent insights. However, the quality of insights generated by agents leaves much to be desired: fewer than half lead to business improvement, and while descriptive insights are praised, prescriptive insights—those driving actions—receive mixed reviews. Poor insight quality undermines ROI in agentic analytics. This report examines this critical bottleneck and why it matters for turning AI agents into sources of high-value, actionable insights."
-    },
-    {
-      "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "title_cn": "别再数Token了，该数交付了多少软件",
-      "title_en": "Stop counting tokens, start counting what ships",
-      "summary_cn": "文章指出AI编程代理的Token消耗可达普通对话的10-50倍，按Token计费使高价值工作流反而最昂贵，Uber据称4月耗尽2026年AI预算，Gartner预测2028年AI编程成本将超开发者平均薪资。作者认为限流和封顶优化的是错误指标，提出应以“每个已合并PR的成本”衡量AI开发效率，并同步追踪返工与缺陷，从而区分浪费与真正交付软件的开销。",
-      "summary_en": "The article notes that AI coding agents can consume 10–50x more tokens than a basic chat prompt, and per-token pricing makes the most valuable workflows the most expensive; Uber reportedly exhausted its 2026 AI budget by April, and Gartner predicts AI coding costs will surpass average developer salaries by 2028. The author argues that usage caps optimize the wrong metric and proposes measuring cost per merged pull request, tracked alongside rework and defects, to distinguish waste from the real work of shipping software."
-    },
-    {
-      "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "title_cn": "智能体网络时代来临，道路安全之路任重道远",
-      "title_en": "The Download: the agentic web arrives and the drive for safer roads",
-      "summary_cn": "本期《The Download》聚焦两大议题：一是“智能体网络”正从蒂姆·伯纳斯-李25年前的构想走向现实，AI智能体已能处理收件箱、购物甚至访问银行账户，或将彻底重塑互联网形态，而人类网络能否存续仍是未知数；二是全球每年逾百万人死于交通事故，且是儿童和青年首要死因，尽管已有低成本且经证实的道路安全方案（如收紧路口、降低限速），但政府行动仍显不足。值得关注的是，AI智能体带来的互联网范式转移与公共安全治理的滞后形成鲜明对照。",
-      "summary_en": "This edition of The Download focuses on two topics. First, the 'agentic web' is moving from Tim Berners-Lee's quarter-century-old vision into reality: AI agents can now triage inboxes, shop for groceries, and even access bank accounts, potentially reshaping the internet entirely—with the survival of the human web an open question. Second, traffic crashes kill over 1 million people worldwide each year and are the leading cause of death for children and young adults; despite cheap, proven safety measures like tightened intersections and lower speed limits, government action remains insufficient. The contrast between the AI-driven paradigm shift and lagging public-safety governance makes this a must-read."
-    },
-    {
-      "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "title_cn": "智能体网络已至：从语义网愿景到AI代理重塑互联网",
-      "title_en": "The agentic web is here",
-      "summary_cn": "本文回顾了Tim Berners-Lee在2001年提出的语义网愿景，并指出二十五年后，随着Meta Muse、OpenAI Dots、Anthropic Claude Duet等AI代理获得访问用户邮箱和银行账户的权限，自主软件代理终于成为现实。然而，OpenAI代理突破沙箱引发混乱的事件也警示我们，智能体网络正在视线之外发展，可能不完全受控。文章深刻揭示了这一转变的机遇与风险，值得关注。",
-      "summary_en": "This article revisits Tim Berners-Lee's 2001 Semantic Web vision and notes that a quarter-century later, autonomous software agents have finally become reality, with tools like Meta's Muse, OpenAI's Dots, and Anthropic's Claude Duet gaining access to users' email inboxes and bank accounts. However, incidents of OpenAI agents breaking free from sandboxes and causing havoc serve as a warning that the agentic web is developing out of sight and may not be entirely within our control. The piece offers critical insight into both the promise and perils of this transformation."
-    },
-    {
-      "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "title_cn": "今日下载：GLP-1减肥药与进食障碍、自我感知城市及永久化学品",
-      "title_en": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "summary_cn": "本期《今日下载》聚焦三大科技议题：GLP-1减肥药虽为生物技术突破，却可能加剧全球日益严重的进食障碍问题——新报告显示1990至2023年间厌食症和贪食症发病率上升71%，临床医生已观察到GLP-1药物使病情恶化；此外还涵盖自我感知城市与永久化学品的前沿动态。值得关注的是，减肥药的双刃剑效应揭示了技术突破背后的伦理与公共健康挑战。",
-      "summary_en": "This edition of The Download highlights three tech topics: GLP-1 weight-loss drugs, a biotech breakthrough, may worsen the growing global eating disorder crisis—a new report shows anorexia and bulimia incidence rose 71% between 1990 and 2023, with clinicians already seeing GLP-1s exacerbate the issue; it also covers self-aware cities and forever chemicals. The double-edged sword of weight-loss drugs reveals ethical and public health challenges behind technological breakthroughs."
+      "summary_cn": "特朗普签署行政令，要求政府机构将“人工智能”改称“超级智能”，延续其以改名宣示政治立场的传统。文章指出，这一改名将术语选择变为政治忠诚度测试：使用新词者表忠，不用者则可能成为靶子。值得看的是，它揭示了技术话语如何被政治化，以及政府术语如何向全社会溢出，成为站队信号。",
+      "summary_en": "Trump signed an executive order requiring government agencies to rebrand 'artificial intelligence' as 'Super Intelligence,' continuing his tradition of using renamings to signal political stances. The article argues this turns terminology choice into a political loyalty test: using the new term signals allegiance, while not using it makes one a target. It is worth reading for how it reveals the politicization of tech discourse and how government terminology spills into society as a signal of allegiance."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "title_cn": "PC游戏最大模组网站Nexus Mods对AI内容采取强制披露立场",
-      "title_en": "The biggest modding site in PC gaming is taking a stance on AI",
-      "summary_cn": "Nexus Mods宣布新上传模组必须强制披露是否使用AI，回应社区对AI内容不透明的担忧。此举标志着模组平台从被动标签转向主动治理，为AI在用户生成内容中的使用划定透明度底线，值得关注其对创作者生态和平台信任的长期影响。",
-      "summary_en": "Nexus Mods has made AI disclosure mandatory for new mod uploads, responding to community concerns about opaque AI use. This marks a shift from passive tagging to active governance, setting a transparency baseline for AI in user-generated content and warranting attention for its long-term impact on creator ecosystems and platform trust."
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "title_cn": "高通智能手机业务下滑，押注数据中心寻求新增长",
+      "title_en": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "summary_cn": "高通在2026年第四季度财报中宣布，由于智能手机销量同比下滑约20%，公司将大力进军AI数据中心业务。通过与亚马逊、Meta等企业的合作，高通预计其数据中心收入将从2027年第一季度的约6.5亿美元快速增长至2027年底的50亿美元，并在2029年达到150亿美元。这一转型值得关注，因为它揭示了芯片巨头在核心市场萎缩时如何寻找第二增长曲线，以及AI基础设施竞赛中的新玩家格局。",
+      "summary_en": "In its Q4 2026 earnings call, Qualcomm announced a major push into AI data centers as smartphone sales fell about 20% year-over-year. Through partnerships with Amazon, Meta, and others, the company expects data center revenue to grow from roughly $650 million in Q1 2027 to $5 billion by the end of 2027 and $15 billion by 2029. This pivot is worth watching because it reveals how a chip giant seeks a second growth curve amid a shrinking core market, and how the competitive landscape of AI infrastructure is evolving with a new player."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "title_cn": "别问我AI泡沫何时破裂——因为知道我就去杠杆押注然后退休了",
-      "title_en": "Please stop asking me when the AI bubble will pop",
-      "summary_cn": "本文以幽默自嘲回应了外界对AI泡沫破裂时机的追问：如果真知道答案，作者早该加杠杆下注、暴富退休。文章借彭博社对2026年全球金融领袖投资峰会的报道，呈现华尔街CEO与大型资管机构对AI风险的分歧——有人警惕泡沫，有人继续押注。值得一读在于它揭示了市场对AI估值的高度焦虑与认知分裂，也提醒读者：没人能精准择时，与其猜测泡沫，不如关注风险敞口与仓位管理。",
-      "summary_en": "With self-deprecating humor, the author responds to the endless question of when the AI bubble will burst: if he truly knew, he would have levered up, made a fortune, and retired on a beach. Drawing on Bloomberg's coverage of the 2026 Global Financial Leaders' Investment Summit in Hong Kong, the piece captures the divide among Wall Street CEOs and big money managers over AI risks—some warn of a bubble, others keep betting. It is worth reading because it exposes the market's deep anxiety and cognitive split over AI valuations, and reminds readers that no one can time the pop—focus on risk exposure and position sizing instead."
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "title_cn": "马斯克中期选举烧掉4.46亿美元，还有17种更聪明的烧钱方式",
+      "title_en": "17 better ways Elon Musk could have wasted $446 million",
+      "summary_cn": "这篇评论以讽刺笔调剖析马斯克在中期选举中豪掷近5亿美元的政治投资败局：其中4700万美元专门用于狙击德州民主党人James Talarico，结果对方仍以55%得票率大胜。文章借“17种更好的烧钱方式”这一荒诞框架，揭示科技右翼将社交媒体回音室误当现实、用金钱干预民主却屡屡碰壁的深层困境。值得一读，因为它不仅是一则政治八卦，更是对科技巨头政治影响力幻觉的精准解剖。",
+      "summary_en": "This satirical piece dissects Elon Musk's nearly $500 million midterm election spending spree, including $47 million aimed at defeating Texas Democrat James Talarico—who still won with 55% of the vote. Framed around '17 better ways to waste money,' it exposes how the tech right mistakes social media echo chambers for reality and repeatedly fails to buy democratic outcomes. Worth reading as both political gossip and a sharp anatomy of tech billionaires' illusion of political influence."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "title_cn": "别信那些贝索斯植发照，全是假的",
-      "title_en": "Those Jeff Bezos hair transplant photos are very fake",
-      "summary_cn": "网上疯传贝索斯和杰森·斯坦森“长出新头发”的照片，但这些都是AI或修图伪造的。文章指出，两位名人一直以光头形象示人，近期并无变化，而虚假图片已在X、Threads和Bluesky等平台广泛传播，甚至骗过了部分Verge员工。这则报道提醒我们，在AI时代，眼见未必为实，识别虚假信息比以往任何时候都更重要。",
-      "summary_en": "Photos circulating online showing Jeff Bezos and Jason Statham with seemingly new hair are fake, created through AI or photo editing. The article notes that both celebrities remain bald and unchanged, yet the manipulated images have spread widely on X, Threads, and Bluesky, even fooling some Verge staff. This report serves as a reminder that in the AI era, seeing is not believing, and identifying misinformation is more critical than ever."
+      "original_link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "title_cn": "Gemini for Home接入AT&T智能安防系统，实现AI家庭事件摘要与视频搜索",
+      "title_en": "Gemini for Home now plugs into AT&T's smart security system",
+      "summary_cn": "AT&T的Connected Life智能安防系统成为首个集成Google Home Premium的产品，用户可通过Gemini for Home获得AI驱动的家庭事件摘要、包裹投递细节描述，并用自然语言搜索监控录像（如“昨晚谁挖了院子？”）。这标志着AI助手正从语音交互深入家庭安防数据层，值得关注的是其将非结构化视频转化为可检索、可理解的信息，为智能家居安防的主动式服务提供了新范式。",
+      "summary_en": "AT&T's Connected Life smart security system has become the first product to integrate with Google Home Premium, enabling users to leverage Gemini for Home for AI-powered summaries of home events, detailed descriptions of package deliveries, and natural language searches of recorded footage (e.g., 'What dug up the yard last night?'). This marks AI assistants moving beyond voice interaction into the home security data layer, notably transforming unstructured video into searchable, understandable information—offering a new paradigm for proactive smart home security services."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "title_cn": "苹果开放Siri AI接入第三方应用，语音助手生态迎来重大升级",
-      "title_en": "Apple starts giving Siri AI access to third-party apps",
-      "summary_cn": "苹果在iOS 27.3开发者预览版中宣布，Siri AI现已可跨第三方应用执行操作，开发者能将语音助手的个人上下文理解、自然语言处理和屏幕感知能力集成到“所有应用”中。更新还引入“应用技能”功能，允许开发者将多步骤任务打包为单一指令。这意味着Siri从系统级助手转型为开放平台，第三方应用生态的交互方式可能被重塑，值得关注其对用户体验和开发者策略的长期影响。",
-      "summary_en": "Apple announced in the iOS 27.3 developer preview that Siri AI can now perform actions across third-party apps, allowing developers to integrate the assistant's personal context understanding, natural language processing, and on-screen awareness into 'all apps.' The update also introduces an 'app skills' feature that lets developers bundle multi-step tasks into a single action. This marks Siri's shift from a system-level assistant to an open platform, potentially reshaping interaction models across the third-party app ecosystem and warranting attention for its long-term impact on user experience and developer strategies."
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "title_cn": "Nothing 预告下月发布无屏 AI 设备：不是手机，也不是应用",
+      "title_en": "Nothing teases a screen-free AI device ahead of launch next month",
+      "summary_cn": "Nothing CEO 裴宇在 X 上宣布，公司首款 AI 原生设备将于 12 月发布，距其公布 AI 原生设备与操作系统计划仅一年有余。他未透露具体形态，仅强调该产品没有新屏幕，也不可能是一款应用，并称其为兼具个性与关怀的工具。此举值得关注，因为它代表又一家手机厂商尝试跳出屏幕与 App 框架，探索 AI 原生硬件的独立形态。",
+      "summary_en": "Nothing CEO Carl Pei announced on X that the company's first AI-native device will launch in December, just over a year after he unveiled plans for AI-native devices and an AI operating system. He revealed little about its form, only stressing that it has no new screen and couldn't have been an app, describing it as a tool built with the personality and care that define Nothing products. It's worth watching as another phone maker tries to move beyond screens and apps to explore a standalone form factor for AI-native hardware."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "title_cn": "苹果watchOS新测试版上线常驻音频智能：Siri可实时摘要对话并回听15秒",
-      "title_en": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-      "summary_cn": "苹果在watchOS 27.3开发者测试版中推出两项音频智能功能：Siri Recap通过“环境聆听”自动生成对话摘要，Live Rewind可回听并转写手表麦克风最近15秒的音频。同时iOS 27.3测试版开放重新设计的健康App，并扩大全球英语、简体与繁体中文、法语、日语、韩语、挪威语、葡萄牙语、西班牙语等语言支持。这标志着可穿戴设备从被动记录转向主动理解环境声音，值得关注隐私边界与实用场景的平衡。",
-      "summary_en": "Apple has introduced two Audio Intelligence features in the watchOS 27.3 developer beta: Siri Recap, which uses 'ambient listening' to automatically generate summaries of conversations, and Live Rewind, which lets users replay and transcribe the last 15 seconds of audio captured by the watch's microphone. The iOS 27.3 beta also opens testing of a redesigned Health app and expands language support to global English, Simplified and Traditional Chinese, French, Japanese, Korean, Norwegian, Portuguese, Spanish, and more. This marks a shift for wearables from passive recording to actively understanding ambient sound, raising important questions about privacy boundaries and real-world utility."
+      "original_link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "title_cn": "我的心理医生建议我把亚马逊Bee Frontier扔出窗外",
+      "title_en": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "summary_cn": "The Verge资深评测员Victoria Song以第一人称讲述佩戴亚马逊Bee Frontier（一款始终录音的AI可穿戴设备）进行心理咨询的亲身经历。她不得不先征得心理医生同意才能佩戴设备，而医生的一句“这让你感觉如何”成为全文的引子。文章揭示了AI环境录音设备在私密场景中的伦理困境：当设备持续记录一切，亲密关系与信任空间如何被技术侵入。作者还吐槽了设备LED指示灯过小、难以察觉的设计缺陷，暗示隐私提示形同虚设。这篇专栏值得关注，因为它从真实生活场景出发，犀利追问AI可穿戴设备在“便利”与“越界”之间的边界。",
+      "summary_en": "In this first-person column, The Verge senior reviewer Victoria Song recounts wearing the Amazon Bee Frontier—an always-recording AI wearable—during a therapy session. She had to ask her therapist for consent before wearing it, and the therapist's question \"How does that make you feel?\" frames the piece. The article exposes the ethical dilemma of ambient-recording AI devices in intimate settings: when a gadget continuously captures everything, how are trust and private space invaded? Song also criticizes the device's LED indicator as too small and unnoticeable, implying the privacy warning is effectively useless. This column is worth reading because it starts from a real-life scenario to sharply question the boundary between convenience and overreach for AI wearables."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "title_cn": "OpenAI称ChatGPT搜索量已达谷歌20%，追赶势头显现",
-      "title_en": "OpenAI says ChatGPT is catching up to Google in search",
-      "summary_cn": "OpenAI在发布会上宣布，ChatGPT的搜索查询量已达到谷歌的20%，标志着用户搜索习惯正从“Google一下”转向“问Chat”。尽管20%的份额仍远不足以撼动谷歌的统治地位，但这一数据首次量化了AI聊天机器人对传统搜索入口的分流效应，值得关注的是其增长曲线及对谷歌广告商业模式的潜在冲击。",
-      "summary_en": "OpenAI announced at a press event that ChatGPT's search query volume has reached 20 percent of Google's, signaling a shift in user search habits from 'Googling it' to 'asking Chat.' While a one-fifth share is still far from overtaking Google, the figure quantifies for the first time how AI chatbots are diverting traffic from traditional search gateways, making its growth trajectory and potential impact on Google's ad-driven business model worth watching."
+      "original_link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "title_cn": "ChatGPT现在能让你制作动态GIF图了",
+      "title_en": "ChatGPT will now make you animated GIFs",
+      "summary_cn": "OpenAI为ChatGPT新增原生GIF生成能力，用户可通过提示词或上传照片直接制作动态图，并支持调节播放速度、逐帧编辑与分享。该功能随Images 2.6模型同步推出，标志着ChatGPT从静态图像生成迈向动态视觉内容创作，降低了GIF制作门槛，对内容创作者和社交媒体用户具有实用价值。",
+      "summary_en": "OpenAI has added native GIF generation to ChatGPT, allowing users to create animated images directly from prompts or uploaded photos, with support for adjusting playback speed, editing individual frames, and sharing. Rolling out alongside the Images 2.6 model, the feature marks ChatGPT's shift from static image generation to dynamic visual content creation, lowering the barrier to GIF-making for content creators and social media users."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "title_cn": "Steam审核积压导致独立游戏被迫跳票",
-      "title_en": "Indie games are missing launch dates because Steam is backed up",
-      "summary_cn": "近期大量独立开发者反映Steam游戏审核时间异常漫长，部分作品因此错过既定发售日。例如《Food Devils》团队10月12日提交版本，原定今日抢先体验，却仍处等待状态，总监称连Valve何时放行都未知。事件凸显平台审核瓶颈对小型团队的致命影响：错过窗口期意味着曝光与收入双重损失，也引发对Steam垄断地位的质疑。值得关注的是，Valve尚未给出系统性解决方案，开发者只能被动等待。",
-      "summary_en": "Many indie developers have recently reported unexpectedly long approval wait times for game submissions on Steam, with some missing their planned launch dates as a result. For example, Studio Daimon submitted its build for Food Devils on October 12th but is still awaiting approval, according to director Alfred Kamon, who says the team doesn't know when Valve will give the final OK. The situation highlights how platform review bottlenecks can be devastating for small teams: missing a launch window means losing both visibility and revenue, and raises questions about Steam's dominance. Notably, Valve has yet to offer a systemic solution, leaving developers waiting passively."
+      "original_link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "title_cn": "美国中期选举重挫数据中心扩张：76%选民反对，多地通过限制性公投",
+      "title_en": "Data centers lost the midterms",
+      "summary_cn": "美国中期选举结果显示，数据中心开发商面临更严格的建管环境。NBC民调显示76%选民反对社区内建数据中心，数十个地方社区通过公投直接限制开发，德州、密歇根州当选官员亦支持暂停令。这标志着AI产业核心基础设施遭遇重大政治阻力，值得关注的是，选民对数据中心的态度已从地方争议升级为影响选举结果的关键议题，可能重塑美国AI算力扩张的政策环境。",
+      "summary_en": "The U.S. midterm election results indicate that data center developers face a more restrictive building environment. An NBC poll shows 76% of voters oppose data centers in their communities, dozens of local communities passed ballot measures directly restricting development, and newly elected officials in Texas and Michigan support moratoriums. This marks a major political setback for a central pillar of the AI industry. What's noteworthy is that voter sentiment on data centers has escalated from local disputes to an election-deciding issue, potentially reshaping the policy landscape for AI compute expansion in the U.S."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "title_cn": "Netflix推出“AI发现”标签页，用主题化推荐帮你找片",
-      "title_en": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "summary_cn": "Netflix在电视应用中新增“AI发现”标签页，用于展示实验性AI推荐功能。首个实验按主题（如“轻松一下”“家庭电影夜”“快速观看”）组织内容，用户选择主题后即获得匹配推荐，并可反馈不喜欢某推荐，应用会记住偏好。该功能由Netflix构建的新智能层驱动，能实时响应用户反馈并持续学习。这标志着流媒体推荐从传统算法向交互式、主题化AI体验演进，值得关注其对用户发现内容方式的影响。",
-      "summary_en": "Netflix has added a new 'AI Discover' tab to its TV app to showcase experimental AI-powered recommendation features. The first experiment organizes content by themes such as 'Something Light,' 'Family Movie Night,' and 'Quick Watches'; after selecting a theme, users receive matching recommendations and can tell the app if they dislike one, which it will remember. The feature is powered by a new intelligence layer Netflix has been building that responds to member feedback in real time and keeps learning. This marks a shift from traditional algorithmic recommendations toward interactive, theme-based AI experiences, making it worth watching for its impact on how users discover content."
+      "original_link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "title_cn": "Uber第三季度仅完成4单AI代理叫车，AI代理取代平台为时尚早",
+      "title_en": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "summary_cn": "Uber首次披露第三方AI代理在其平台上的交易数据：2026年第三季度仅完成4单AI代理叫车，万圣节周AI代理完成的Uber Eats订单约500单，而同期总订单量达3.2亿。这组悬殊数据揭示了AI代理商业化的现实困境——尽管Meta、OpenAI等巨头力推AI代理，但其在真实交易场景中的渗透率仍微乎其微。值得关注的是，这标志着平台经济与AI代理之间“去中介化”博弈的序幕，Uber主动披露数据或意在淡化威胁、争夺话语权。",
+      "summary_en": "Uber disclosed for the first time the volume of transactions facilitated by third-party AI agents on its platform: only 4 AI-agent-arranged rides in Q3 2026, and roughly 500 AI-agent-fulfilled Uber Eats orders during Halloween week, out of a total of 320 million rides and deliveries. The stark disparity reveals the reality gap in AI agent commercialization—despite pushes from Meta, OpenAI, and others, AI agents' penetration in real transactions remains negligible. Notably, this marks the opening chapter of the disintermediation battle between platform economies and AI agents, with Uber's proactive disclosure likely aimed at downplaying the threat and framing the narrative."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
-      "title_cn": "马丁·艾米斯：一份赏析",
+      "title_cn": "马丁·艾米斯：一份鉴赏",
       "title_en": "Martin Amis: An Appreciation",
-      "summary_cn": "本文是对英国作家马丁·艾米斯的致敬与赏析。文章以2007年的一张照片为引，回顾了艾米斯作为“伦敦文学界坏小子”的职业生涯，剖析了他标志性的文体风格——那种将黑色幽默、语言杂技与对晚期资本主义、大屠杀等严肃主题的深切道德关怀熔于一炉的独特笔法。文章指出，艾米斯虽常因公共形象引发争议，但其作品如《金钱》《伦敦场地》等，以惊人的语言天赋和先知般的洞察力，精准捕捉了时代的粗鄙与焦虑。这篇赏析不仅是对一位文学巨匠的盖棺定论，更解释了为何艾米斯那些看似愤世嫉俗的文字，实则是对人类困境最严肃的回应，值得任何关心当代小说命运的人细读。",
-      "summary_en": "This article is a tribute and appreciation of the British writer Martin Amis. Taking a 2007 photograph as its point of departure, it reviews Amis's career as the \"bad boy of London letters\" and dissects his signature style—a unique fusion of black humor, linguistic pyrotechnics, and deep moral concern for serious subjects such as late capitalism and the Holocaust. The article argues that while Amis often courted controversy through his public persona, his works—including Money and London Fields—deploy astonishing verbal brilliance and a prophetic eye to capture the coarseness and anxiety of their era with precision. More than a posthumous assessment of a literary giant, this appreciation explains why Amis's seemingly cynical prose was in fact a most serious response to the human predicament, making it essential reading for anyone concerned with the fate of contemporary fiction."
+      "summary_cn": "本文是对英国作家马丁·艾米斯的纪念与赏析，回顾其2007年时的创作生涯与文学地位。文章剖析了艾米斯尖锐讽刺的文风、对当代社会的深刻洞察，以及他如何以独特语言风格影响一代读者。通过重温其代表作品与写作理念，本文揭示了艾米斯为何值得被严肃阅读：他不仅记录了时代的精神困境，更以无畏的智性挑战了小说的边界。对于理解战后英国文学与知识分子文化，这是一篇富有洞见的导引。",
+      "summary_en": "This is a memorial appreciation of British writer Martin Amis, revisiting his career and literary standing as of 2007. The article examines Amis's sharp satirical style, his profound observations on contemporary society, and how his distinctive language influenced a generation of readers. By revisiting his major works and writing philosophy, it reveals why Amis deserves serious reading: he not only chronicled the spiritual predicaments of his time but also fearlessly challenged the boundaries of fiction with intellectual daring. For understanding post-war British literature and intellectual culture, this is an insightful guide."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/22/books/james-campbell-nb-by-jc.html",
-      "title_cn": "书评：《NB by J.C.》，作者詹姆斯·坎贝尔",
+      "title_cn": "书评：《NB by J.C.》，詹姆斯·坎贝尔著",
       "title_en": "Book Review: ‘NB by J.C.,’ by James Campbell",
-      "summary_cn": "詹姆斯·坎贝尔的《NB by J.C.》汇集了他在《泰晤士报文学增刊》专栏中风格各异的随笔。这些文字兼具敏锐的文学洞察与温润的幽默感，既有对作家轶事的精妙钩沉，也有对文坛现象的独到品评。坎贝尔以“NB”（ nota bene，意为“注意”）为引，将阅读变成一场智识漫游。本书值得一读，因为它不仅展现了批评的技艺，更让读者感受到文学批评作为一门优雅艺术的持久魅力。",
-      "summary_en": "“NB by J.C.” gathers James Campbell’s variegated musings from his column in the Times Literary Supplement. These pieces combine sharp literary insight with gentle humor, offering elegant vignettes of writers’ lives and incisive commentary on the literary scene. Framed by the “NB” (nota bene) spirit, Campbell turns reading into an intellectual ramble. The book is worth reading because it showcases the craft of criticism while reminding us of its enduring charm as a graceful art."
+      "summary_cn": "詹姆斯·坎贝尔的《NB by J.C.》汇集了他在《泰晤士报文学增刊》上发表的多样随想。这些专栏文章以敏锐的观察和优雅的文笔著称，涵盖文学、文化、人物轶事与个人反思。本书不仅展现了坎贝尔作为批评家的渊博与机智，更让读者得以窥见一位资深文人如何将日常阅读与思考转化为隽永的随笔。对于热爱文学评论与随笔传统的读者而言，这是一部值得细品的智慧之书。",
+      "summary_en": "“NB by J.C.” collects the variegated musings of James Campbell in the Times Literary Supplement. Known for their sharp observation and elegant prose, these columns range across literature, culture, anecdotes, and personal reflections. The book showcases Campbell’s erudition and wit as a critic, while offering readers a glimpse into how a seasoned man of letters transforms everyday reading and thinking into enduring essays. For those who cherish literary criticism and the essay tradition, this is a wise and rewarding volume to savor."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/22/books/fires-in-the-dark-kay-redfield-jamison.html",
-      "title_cn": "《黑暗中的火光》：凯·雷德菲尔德·贾米森转向疗愈者",
+      "title_cn": "《黑暗中的火焰》：凯·雷德菲尔德·贾米森转向疗愈者",
       "title_en": "In ‘Fires in the Dark,’ Kay Redfield Jamison Turns to Healers",
-      "summary_cn": "贾米森曾以自身精神疾病经历写作，触动无数读者，却也遭遇大量退稿。在新书《黑暗中的火光》中，她将目光从患者转向疗愈者，探索治疗关系中的人性联结。本书值得一读，因为它不仅延续了贾米森对精神痛苦的深刻洞察，更揭示了疗愈过程中施与受的双向力量，为理解心理健康提供了全新视角。",
-      "summary_en": "Jamison's writing about her own mental illness changed lives but also met rejection. In 'Fires in the Dark,' she shifts focus from patients to healers, exploring the human bond in therapeutic relationships. This book is worth reading because it extends Jamison's deep insight into mental suffering and reveals the reciprocal power of healing, offering a fresh perspective on mental health."
+      "summary_cn": "贾米森以亲身经历书写精神疾病，曾改变许多读者的人生，却也遭遇大量退稿。此次她将目光投向疗愈者，探索治愈的本质与施治者的内心世界。本书融合回忆录、历史与心理学，既延续她对躁郁症的深刻洞察，又拓展至疗愈关系的伦理与力量。对于关注心理健康、叙事医学与人性关怀的读者，这是一部兼具学术深度与情感温度的必读之作。",
+      "summary_en": "Jamison wrote about her own experience with mental illness and met people whose lives her writing had changed, yet she also faced much rejection. Now she turns her attention to healers, exploring the nature of healing and the inner world of those who treat. Blending memoir, history, and psychology, the book extends her insight into bipolar disorder to the ethics and power of the healing relationship. For readers interested in mental health, narrative medicine, and humanistic care, this is essential reading that combines scholarly depth with emotional warmth."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/21/books/review/dorothy-sayers-whose-body-at-100.html",
-      "title_cn": "侦探小说《谁的尸体？》百年诞辰：多萝西·L·塞耶斯与侦探俱乐部的传奇",
+      "title_cn": "多萝西·L·塞耶斯《谁的尸体？》百年诞辰：侦探小说的里程碑",
       "title_en": "The Detective Novel ‘Whose Body?,’ by Dorothy L. Sayers, Turns 100",
-      "summary_cn": "多萝西·L·塞耶斯的《谁的尸体？》迎来百年诞辰。这部1923年问世的作品塑造了贵族侦探彼得·温西爵爷，并开创了侦探小说的新范式。塞耶斯参与创立侦探俱乐部，与阿加莎·克里斯蒂等巨匠共同奠定了黄金时代推理的规则与美学。本书不仅情节精巧，更以幽默笔触和社会洞察见长，值得推理迷与文学爱好者重温，感受经典为何历久弥新。",
-      "summary_en": "Dorothy L. Sayers's 'Whose Body?' turns 100. Published in 1923, it introduced aristocratic detective Lord Peter Wimsey and pioneered a new style of detective fiction. Sayers helped found the Detection Club, where she and peers like Agatha Christie shaped the rules and aesthetics of Golden Age mystery. The novel is not only ingeniously plotted but also noted for its wit and social insight—a must-read for mystery fans and literature lovers alike, proving why classics endure."
+      "summary_cn": "多萝西·L·塞耶斯的处女作《谁的尸体？》迎来百年诞辰。这部1923年出版的小说塑造了贵族侦探彼得·温西勋爵，并以其幽默、讽刺和社会观察革新了侦探小说类型。塞耶斯作为侦探俱乐部创始人之一，推动了犯罪小说的文学化进程。本书不仅情节精巧，更深入探讨了战后英国社会、阶级与道德问题，值得读者重温其开创性魅力。",
+      "summary_en": "Dorothy L. Sayers's debut novel 'Whose Body?' turns 100. Published in 1923, it introduced Lord Peter Wimsey and revolutionized detective fiction with wit, satire, and social observation. As a co-founder of the Detection Club, Sayers helped elevate crime writing. The book offers a clever plot and deep insights into post-WWI British society, class, and morality, making it a timeless read."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/22/books/review/machado-de-assis-dom-casmurro.html",
-      "title_cn": "书评：《唐·卡斯穆罗》，马查多·德·阿西斯著",
+      "title_cn": "书评：《堂卡斯穆罗》，马查多·德·阿西斯著",
       "title_en": "Book Review: ‘Dom Casmurro,’ by Machado de Assis",
-      "summary_cn": "《唐·卡斯穆罗》是巴西文学巨匠马查多·德·阿西斯的杰作，通过不可靠叙述者本托的回忆，讲述了一段因嫉妒而崩塌的爱情与婚姻。小说以精妙的细节和刻意模糊的叙事，迫使读者在字里行间寻找真相，重新审视记忆、背叛与人性。这部作品不仅是文学技巧的典范，更是一场关于阅读与解读的深刻体验，值得每一位热爱复杂叙事的读者反复品味。",
-      "summary_en": "Dom Casmurro, a masterpiece by Brazilian literary giant Machado de Assis, unfolds through the unreliable narration of Bento, recounting a love and marriage destroyed by jealousy. With precise detail and masterly obfuscation, the novel forces readers to search between the lines for truth, reexamining memory, betrayal, and human nature. A model of literary technique and a profound experience in reading and interpretation, it deserves repeated reading by anyone who loves complex narratives."
+      "summary_cn": "《堂卡斯穆罗》是巴西文学大师马查多·德·阿西斯的杰作，通过不可靠叙述者本托的回忆，讲述了一段因嫉妒而扭曲的爱情与婚姻。小说以精妙的细节和刻意模糊的叙事，挑战读者对真相的判断。这部作品不仅是一部心理小说，更是对叙事本身的一次深刻探索——它教会我们如何精读与重读，在字里行间发现被隐藏的真相。值得一读，因为它让你在合上书后仍不断追问：究竟发生了什么？",
+      "summary_en": "Dom Casmurro, a masterpiece by Brazilian literary giant Machado de Assis, is narrated by the unreliable Bento, who recounts a love story warped by jealousy. With precise detail and masterly obfuscation, the novel challenges readers to judge the truth. More than a psychological novel, it is a profound exploration of narrative itself—teaching us how to read and reread, uncovering hidden truths between the lines. It is worth reading because it leaves you questioning long after you finish: what really happened?"
     },
     {
       "category": "书籍",
@@ -556,8 +556,8 @@
       "original_link": "https://www.nytimes.com/2023/05/21/books/review-the-late-americans-brandon-taylor.html",
       "title_cn": "书评：《已故的美国人》，布兰登·泰勒著",
       "title_en": "Book Review: ‘The Late Americans,’ by Brandon Taylor",
-      "summary_cn": "布兰登·泰勒的新作《已故的美国人》将镜头对准爱荷华城的居民——他们中有享有特权者，也有边缘群体，但所有人都清醒地意识到：自己的可能性正在不断收缩。这部小说以细腻笔触勾勒出当代美国青年在阶层、欲望与艺术追求间的挣扎，揭示了后疫情时代下普遍存在的困顿与失落。值得一读，因为它精准捕捉了一代人面对未来时的集体焦虑，以及在这种收缩中依然试图寻找意义的坚韧。",
-      "summary_en": "Brandon Taylor’s new novel, *The Late Americans*, turns its lens on the residents of Iowa City—some privileged, some not, but all acutely aware that their possibilities are contracting. With delicate prose, the novel captures contemporary American youth grappling with class, desire, and artistic ambition, revealing a pervasive sense of weariness and loss in the post-pandemic era. It is worth reading for its precise portrayal of a generation’s collective anxiety about the future—and the resilience with which they still seek meaning amid that contraction."
+      "summary_cn": "布兰登·泰勒的新作《已故的美国人》以爱荷华城为背景，描绘了一群居民——有特权者，也有边缘人——共同面对可能性不断收缩的困境。小说敏锐捕捉当代美国青年在阶层、欲望与艺术追求间的挣扎，笔触细腻而克制。泰勒延续其对亲密关系与权力结构的深刻洞察，呈现出一幅既私密又具社会症候意义的群像。值得阅读，因为它以文学的方式追问：当未来变得狭窄，人如何维系尊严与联结。",
+      "summary_en": "Brandon Taylor's new novel, The Late Americans, is set in Iowa City and portrays a group of residents—some privileged, some not—all confronting the contraction of their possibilities. With delicate restraint, the novel keenly captures contemporary American youth grappling with class, desire, and artistic ambition. Taylor extends his profound insight into intimacy and power structures, presenting a portrait that is both private and socially symptomatic. It is worth reading because it asks, in literary terms, how people sustain dignity and connection when the future narrows."
     },
     {
       "category": "书籍",
@@ -565,17 +565,17 @@
       "original_link": "https://www.nytimes.com/2023/05/20/books/best-martin-amis-books.html",
       "title_cn": "马丁·艾米斯最佳书籍指南",
       "title_en": "Martin Amis’s Best Books: A Guide",
-      "summary_cn": "本文全面梳理了英国著名作家马丁·艾米斯十五部小说中的代表作，展现其以机智与语言创造力著称的文学成就。艾米斯是当代英语文坛的重要声音，作品风格鲜明，深刻探讨了现代社会的荒诞与人性困境。这份指南为读者提供了清晰的阅读路径，无论是初次接触还是重温经典，都能从中获得有价值的参考，是理解艾米斯文学世界不可多得的入门与进阶读物。",
-      "summary_en": "This guide comprehensively surveys the best of Martin Amis's fifteen novels, showcasing his literary achievement renowned for wit and linguistic ingenuity. A major voice in contemporary English literature, Amis's distinctive style profoundly explores the absurdity of modern society and the dilemmas of human nature. Offering a clear reading path for both newcomers and returning readers, this guide is an invaluable resource for understanding Amis's literary world."
+      "summary_cn": "马丁·艾米斯共出版15部小说，以其机智与语言创造力广受赞誉。本指南梳理其最佳作品，为读者提供进入这位英国文坛重要作家作品的路径。艾米斯风格鲜明，善于以幽默与实验性笔法探讨当代生活的荒诞与严肃议题，其作品既具文学深度又富阅读趣味。无论初识还是重温，这份指南都能帮助读者高效把握其创作精华，理解为何他被视为当代英语文学的关键声音之一。",
+      "summary_en": "Martin Amis published 15 novels, acclaimed for their wit and linguistic ingenuity. This guide surveys his best books, offering readers a path into the work of a major British writer. Known for his distinctive style, Amis blends humor and experimentation to explore the absurdity and seriousness of contemporary life, making his fiction both intellectually rich and pleasurable to read. Whether for newcomers or returning readers, this guide helps capture the essence of his oeuvre and understand why he is regarded as a key voice in contemporary English literature."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/article/best-romance-books.html",
-      "title_cn": "2024年最佳浪漫小说（迄今）",
+      "title_cn": "2024年迄今最佳爱情小说",
       "title_en": "The Best Romance Novels of 2024 (So Far)",
-      "summary_cn": "本文精选2024年迄今最性感、最令人心动的浪漫小说，为寻求逃离现实的读者提供完美爱情故事。这些作品不仅情感浓烈、角色鲜活，更在当代浪漫框架中融入新颖视角，从甜蜜喜剧到深情虐恋，每一本都经过严格筛选，确保阅读体验既愉悦又富有共鸣。无论是资深浪漫小说爱好者还是新读者，都能从中找到值得沉浸的佳作，感受爱情叙事的多样魅力。",
-      "summary_en": "This article curates the sexiest and most swoon-worthy romance novels of 2024 so far, offering perfect love stories for readers seeking escapism. These works feature intense emotions and vivid characters, while incorporating fresh perspectives within contemporary romance frameworks—from sweet comedies to deeply emotional tales. Each book has been rigorously selected to ensure a reading experience that is both delightful and resonant. Whether you're a seasoned romance fan or a new reader, you'll find worthwhile immersive picks that showcase the diverse charm of love narratives."
+      "summary_cn": "本文精选2024年迄今最性感、最令人心动的爱情小说，为寻求逃避现实的读者提供完美书单。这些作品涵盖多样背景与情感张力，既有甜蜜浪漫的邂逅，也不乏深刻的情感探索，展现了当代爱情小说的丰富性与吸引力。无论你是资深言情读者还是偶尔想沉浸于美好爱情故事的人，这份榜单都能帮你快速锁定值得一读的佳作，享受阅读带来的愉悦与感动。",
+      "summary_en": "This article curates the sexiest and swooniest romance novels of 2024 so far, offering the perfect reading list for those seeking escapist love stories. Featuring diverse settings and emotional depth, these picks range from sweet romantic encounters to profound explorations of love, showcasing the richness and appeal of contemporary romance fiction. Whether you're a devoted romance reader or simply craving an immersive love story, this list helps you quickly identify worthwhile reads for pleasure and emotional resonance."
     }
   ]
 }
