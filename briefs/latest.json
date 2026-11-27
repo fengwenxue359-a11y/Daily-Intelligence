@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "items": [
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-      "title_cn": "中国DeepSeek引发AI板块广泛抛售，美股应声下挫",
+      "title_cn": "中国DeepSeek引发AI股大面积抛售，市场遭遇重挫",
       "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "summary_cn": "中国AI公司DeepSeek以低成本模型冲击市场，引发美股AI板块全面抛售，英伟达等龙头股大跌。该事件凸显全球AI竞争格局正在重塑，投资者重新审视高估值AI股的脆弱性。值得关注的是，DeepSeek的技术突破可能改变行业成本结构，并加剧中美科技博弈，对未来资本流向具有重要指示意义。",
-      "summary_en": "Chinese AI company DeepSeek's low-cost model has triggered a broad sell-off in U.S. AI stocks, with leaders like Nvidia plunging. The event highlights a reshaping global AI competitive landscape and prompts investors to reassess the vulnerability of high-valuation AI shares. Notably, DeepSeek's technological breakthrough could alter industry cost structures and intensify U.S.-China tech rivalry, offering key signals for future capital flows."
+      "summary_cn": "中国AI公司DeepSeek的突破性进展引发全球AI概念股广泛抛售，市场担忧其低成本模型可能颠覆现有竞争格局。此次抛售波及芯片、云计算及AI应用等多个板块，投资者重新评估AI领域的估值逻辑与盈利前景。值得关注的是，DeepSeek的崛起或标志AI技术民主化加速，对传统巨头的护城河构成挑战，市场需警惕短期情绪波动背后的长期结构性变化。",
+      "summary_en": "Breakthroughs from Chinese AI company DeepSeek triggered a broad sell-off in global AI-related stocks, with markets concerned that its low-cost models could disrupt the existing competitive landscape. The rout hit sectors including chips, cloud computing, and AI applications, forcing investors to reassess valuation logic and profit prospects in the AI space. Notably, DeepSeek's rise may signal accelerated AI democratization, challenging the moats of traditional giants, and markets should watch for long-term structural shifts beneath short-term sentiment swings."
     },
     {
       "category": "财经",
@@ -16,8 +16,8 @@
       "original_link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
       "title_cn": "Comex黄金与白银期货收低",
       "title_en": "Comex Gold, Silver Settle Lower",
-      "summary_cn": "Comex黄金和白银期货周三收盘下跌，回吐前一交易日部分涨幅。美元指数走强及美债收益率上升对贵金属构成压力，同时市场对美联储降息预期的重新定价也削弱了黄金的避险吸引力。尽管地缘政治不确定性仍存，但短期资金流向显示投资者正在获利了结。值得关注的是，白银跌幅大于黄金，反映工业需求预期边际转弱。本次回调是否意味着贵金属阶段性见顶，将取决于即将公布的通胀数据及美联储官员表态。",
-      "summary_en": "Comex gold and silver futures settled lower on Wednesday, giving back some of the previous session's gains. A stronger U.S. dollar and rising Treasury yields weighed on precious metals, while markets repriced Fed rate-cut expectations, eroding gold's safe-haven appeal. Despite lingering geopolitical uncertainty, short-term fund flows suggest investors are taking profits. Notably, silver fell more than gold, signaling marginally weaker industrial demand expectations. Whether this pullback marks a阶段性 top for precious metals will depend on upcoming inflation data and Fed officials' remarks."
+      "summary_cn": "Comex黄金与白银期货双双收低，反映市场对美联储政策路径与美元走势的重新定价。贵金属短期承压，但避险需求与央行购金仍构成支撑。投资者需关注实际利率变化及地缘风险对金价的边际影响，这对判断大宗商品轮动与资产配置具有参考价值。",
+      "summary_en": "Comex gold and silver futures both settled lower, reflecting the market's repricing of the Federal Reserve's policy path and U.S. dollar movements. Precious metals face short-term pressure, but safe-haven demand and central bank gold purchases remain supportive. Investors should watch changes in real interest rates and the marginal impact of geopolitical risks on gold prices, which is valuable for assessing commodity rotation and asset allocation."
     },
     {
       "category": "财经",
@@ -25,44 +25,44 @@
       "original_link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
       "title_cn": "DeepSeek 撼动不了美国 AI 巨头",
       "title_en": "DeepSeek Won't Sink U.S. AI Titans",
-      "summary_cn": "本文深入分析 DeepSeek 的崛起是否真正威胁美国 AI 巨头，指出尽管 DeepSeek 以低成本高性能引发市场震动，但其在算力规模、生态壁垒和商业化能力上仍与美国头部企业存在显著差距。文章从技术路线、资本投入和产业格局三个维度论证，美国 AI 巨头的基本面未受实质性冲击，短期市场恐慌更多是情绪反应。对于关注 AI 产业竞争格局与投资机会的读者，本文提供了冷静而独到的判断框架。",
-      "summary_en": "This article examines whether DeepSeek's rise truly threatens U.S. AI giants, arguing that despite market jitters over its low-cost, high-performance models, significant gaps remain in compute scale, ecosystem barriers, and commercialization capabilities. It analyzes the situation from three dimensions—technology路线, capital investment, and industry landscape—concluding that the fundamentals of U.S. AI leaders remain intact and that short-term market panic is largely sentiment-driven. For readers tracking AI competition and investment opportunities, it offers a calm and insightful framework."
+      "summary_cn": "本文深入分析了中国 AI 公司 DeepSeek 的崛起对美国科技巨头的影响，指出尽管 DeepSeek 在模型效率和成本上表现出色，但其难以撼动美国 AI 巨头的根本优势——庞大的算力储备、成熟的生态系统和持续的创新能力。文章认为，美国巨头凭借规模效应和垂直整合能力，仍将主导 AI 竞赛，而 DeepSeek 的突破更多是激发竞争与创新，而非颠覆格局。值得一读的原因在于，它理性拆解了市场对“中国 AI 威胁论”的过度反应，为投资者提供了冷静的行业洞察。",
+      "summary_en": "This article provides an in-depth analysis of the impact of Chinese AI company DeepSeek's rise on U.S. tech giants. It argues that despite DeepSeek's strengths in model efficiency and cost, it cannot fundamentally challenge the advantages of U.S. AI titans—massive computing reserves, mature ecosystems, and sustained innovation. The piece suggests that U.S. giants will continue to lead the AI race through scale effects and vertical integration, while DeepSeek's breakthrough serves more to spur competition and innovation than to disrupt the landscape. It is worth reading because it rationally deconstructs the market's overreaction to the 'Chinese AI threat' narrative, offering investors calm industry insights."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-      "title_cn": "金融服务综述：市场评论",
+      "title_cn": "金融服务综述：市场观察",
       "title_en": "Financial Services Roundup: Market Talk",
-      "summary_cn": "该内容为金融服务领域的市场评论综述，汇集了行业动态与专家观点，涵盖市场趋势、机构策略及监管变化等关键议题。对于关注金融板块的投资者与从业者而言，本文提供了多角度的市场解读，有助于快速把握行业脉搏与潜在风险，是了解当日金融服务市场情绪与热点的重要参考。",
-      "summary_en": "This content is a roundup of market commentary in the financial services sector, gathering industry developments and expert views on key topics such as market trends, institutional strategies, and regulatory changes. For investors and professionals focused on the financial sector, it offers multi-angle market insights that help quickly grasp industry dynamics and potential risks, serving as a valuable reference for understanding the day's market sentiment and hotspots in financial services."
+      "summary_cn": "该内容为金融服务领域的市场动态综述，涵盖银行、保险、资产管理等细分板块的最新交易、观点与趋势。适合快速了解当日市场情绪与关键事件，把握行业风向。",
+      "summary_en": "This roundup covers market developments in financial services, including the latest deals, views, and trends across banking, insurance, and asset management. It offers a quick snapshot of market sentiment and key events to help track industry direction."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-      "title_cn": "美哥关税争端推升阿拉比卡咖啡价格创历史新高",
+      "title_cn": "美哥关税争端推动阿拉比卡咖啡价格创历史新高",
       "title_en": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-      "summary_cn": "美国与哥伦比亚之间的关税争端导致阿拉比卡咖啡价格飙升至历史最高点。作为全球主要咖啡生产国，哥伦比亚的出口受阻引发市场对供应短缺的担忧，叠加物流成本上升和库存紧张，咖啡期货价格连续突破关键阻力位。这一动态值得关注，因为咖啡价格飙升将直接推高下游食品饮料企业的成本，并可能加剧全球食品通胀压力，同时反映出地缘政治与贸易政策对大宗商品市场的深远影响。",
-      "summary_en": "A tariff dispute between the U.S. and Colombia has driven Arabica coffee prices to a record high. As a major global coffee producer, Colombia's export disruptions have sparked concerns over supply shortages, compounded by rising logistics costs and tight inventories, pushing coffee futures past key resistance levels. This is noteworthy because soaring coffee prices will directly raise costs for downstream food and beverage companies, potentially exacerbating global food inflation, while highlighting the profound impact of geopolitics and trade policies on commodity markets."
+      "summary_cn": "美国与哥伦比亚之间的关税摩擦意外点燃了咖啡市场。作为全球最大的阿拉比卡咖啡生产国之一，哥伦比亚的出口成本因关税上升而增加，叠加天气因素和低库存，阿拉比卡咖啡期货价格飙升至历史纪录。这一事件凸显了地缘政治与贸易政策对软商品市场的巨大冲击力，投资者需关注关税谈判进展及主产区供应恢复情况，警惕价格波动风险。",
+      "summary_en": "The tariff spat between the U.S. and Colombia has unexpectedly ignited the coffee market. As one of the world's largest arabica producers, Colombia faces higher export costs due to the tariffs, which, combined with weather issues and low inventories, has pushed arabica futures to a record high. This event highlights the significant impact of geopolitics and trade policy on soft commodities. Investors should monitor tariff negotiations and supply recovery in key producing regions, and remain alert to price volatility risks."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
-      "title_cn": "DeepSeek消息提振避险需求，瑞士法郎与日元走强",
+      "title_cn": "DeepSeek消息提振避险需求，瑞郎与日元双双走强",
       "title_en": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
-      "summary_cn": "DeepSeek相关消息引发市场避险情绪升温，瑞士法郎和日元作为传统避险货币应声上涨。这一动态值得关注，因为它反映了市场对人工智能领域竞争格局变化的敏感反应，以及地缘政治与科技因素交织下资金流向的快速切换。投资者需留意避险货币走强是否预示更广泛的风险资产调整，并关注DeepSeek事件对科技股及全球资本流动的后续影响。",
-      "summary_en": "News related to DeepSeek has heightened market risk aversion, driving up the Swiss franc and Japanese yen as traditional safe-haven currencies. This development is noteworthy as it reflects the market's sensitivity to shifts in the AI competitive landscape and the rapid rotation of capital amid intertwined geopolitical and technological factors. Investors should watch whether the strength in safe-haven currencies signals a broader adjustment in risk assets and monitor the后续 impact of the DeepSeek event on tech stocks and global capital flows."
+      "summary_cn": "DeepSeek相关消息引发市场避险情绪升温，推动瑞士法郎和日元等传统避险货币走高。这一动态值得关注，因为它反映出投资者对科技领域不确定性及潜在风险传导的敏感反应，可能预示资金流向和汇率格局的短期调整，对跨境贸易与资产配置具有参考意义。",
+      "summary_en": "News related to DeepSeek has heightened market risk aversion, driving traditional safe-haven currencies such as the Swiss franc and Japanese yen higher. This development is noteworthy because it reflects investors' sensitivity to uncertainties in the tech sector and potential risk contagion, potentially signaling short-term shifts in capital flows and exchange rate patterns, with implications for cross-border trade and asset allocation."
     },
     {
       "category": "财经",
       "source": "华尔街日报-市场",
       "original_link": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
-      "title_cn": "天气预测变化致天然气价格下跌",
+      "title_cn": "天气预报变化致天然气价格下跌",
       "title_en": "Natural Gas Falls on Shifting Weather Forecasts",
-      "summary_cn": "近期天然气价格因天气预测调整而出现下跌，市场对供暖需求的预期减弱是主要驱动因素。天气模型显示未来气温可能高于此前预测，导致投资者重新评估库存消耗速度。这一波动反映了能源市场对短期气候信号的高度敏感，也提示交易者需关注气象数据与库存报告的联动影响。对于关注能源板块的投资者而言，理解天气预测变化如何传导至价格，是把握短期交易机会的关键。",
-      "summary_en": "Natural gas prices recently fell as weather forecasts shifted, with expectations for heating demand weakening as the main driver. Weather models indicate temperatures may be higher than previously predicted, prompting investors to reassess the pace of inventory drawdown. This volatility reflects the energy market's high sensitivity to short-term climate signals and highlights the need for traders to monitor the interplay between meteorological data and inventory reports. For investors focused on the energy sector, understanding how forecast changes transmit to prices is key to capturing short-term trading opportunities."
+      "summary_cn": "天然气价格因天气预报变化而下跌，凸显天气因素对能源市场的短期扰动。文章分析了预报调整如何影响供需预期与交易情绪，对关注能源价格波动和天气驱动型风险的投资者具有参考价值。",
+      "summary_en": "Natural gas prices fell as weather forecasts shifted, highlighting the short-term impact of weather on energy markets. The article analyzes how forecast adjustments affect supply-demand expectations and trading sentiment, offering useful insights for investors monitoring energy price volatility and weather-driven risks."
     },
     {
       "category": "财经",
@@ -70,44 +70,71 @@
       "original_link": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
       "title_cn": "建材分销商QXO对Beacon发起敌意收购",
       "title_en": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
-      "summary_cn": "建材分销领域突发敌意收购：QXO直接向Beacon股东发起要约，绕过管理层。此举可能重塑行业竞争格局，值得关注收购溢价、反收购防御及股东反应，判断交易成败关键。",
-      "summary_en": "A hostile bid erupts in building-products distribution: QXO has launched a tender offer directly to Beacon's shareholders, bypassing management. The move could reshape industry competition; watch the premium, anti-takeover defenses, and shareholder response to gauge the deal's prospects."
+      "summary_cn": "建材分销巨头QXO对竞争对手Beacon发起敌意收购，此举可能重塑行业格局。值得关注的是，敌意收购在建材分销领域较为罕见，QXO的激进策略或引发行业整合浪潮，并影响上下游议价能力。投资者需关注Beacon的防御措施及潜在竞购方出现，交易结果将反映资本市场对建材分销 sector 的估值判断。",
+      "summary_en": "Building-products distributor QXO has launched a hostile bid for rival Beacon, a move that could reshape the industry landscape. Notably, hostile takeovers are rare in the building-products distribution sector; QXO's aggressive strategy may trigger a wave of industry consolidation and affect bargaining power across the supply chain. Investors should watch Beacon's defensive measures and the potential emergence of rival bidders, as the outcome will reflect capital markets' valuation of the building-products distribution sector."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "title_cn": "买家当心？英伟达剧烈波动暴露单一股票ETF风险",
+      "title_en": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "summary_cn": "英伟达股价近期大起大落，令追踪其表现的单一股票ETF风险凸显。ETF Action创始合伙人Mike Akins与GraniteShares CEO Will Rhind就此展开讨论，解析这类杠杆和反向产品在极端行情下的运作机制与潜在陷阱。本文值得关注，因为它揭示了散户追捧热门个股时容易忽视的结构性风险，并为理解单一股票ETF的适用场景与局限提供了专业视角。",
+      "summary_en": "Nvidia's recent sharp swings have highlighted the risks of single-stock ETFs that track its performance. ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind discuss how these leveraged and inverse products operate under extreme market conditions and the potential pitfalls. This is worth reading because it reveals structural risks that retail investors often overlook when chasing hot stocks, and offers professional insight into the appropriate use cases and limitations of single-stock ETFs."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "title_cn": "半导体芯片成为新石油：2026年出口首超油气，AI热潮重塑全球贸易格局",
+      "title_en": "Semiconductor chips are the new oil. Here's why",
+      "summary_cn": "2026年，半导体出口首次超越石油和天然气，标志着全球经济从化石燃料向算力驱动转型的里程碑。AI爆发式增长推动芯片需求激增，使半导体成为新时代的战略资源。本文深入剖析这一历史性转折背后的驱动力、对地缘政治与产业链的影响，以及为何芯片正取代石油成为大国博弈的核心。值得一看，因为它揭示了未来十年全球经济的底层逻辑。",
+      "summary_en": "In 2026, semiconductor exports surpassed oil and gas for the first time, marking a milestone in the global economy's shift from fossil fuels to computing power. The AI boom has driven explosive demand for chips, making semiconductors the strategic resource of the new era. This article analyzes the drivers behind this historic turning point, its impact on geopolitics and supply chains, and why chips are replacing oil as the core of great-power competition. A must-read for understanding the underlying logic of the global economy in the coming decade."
+    },
+    {
+      "category": "财经",
+      "source": "CNBC-财经",
+      "original_link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "title_cn": "小鹏汽车：人形机器人或将在1-2年内承担家务",
+      "title_en": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "summary_cn": "小鹏汽车联合总裁顾宏地在接受CNBC采访时预测，人形机器人将在1-2年内进入家庭承担家务。这一判断来自中国头部电动车企高管，凸显了车企跨界机器人赛道的加速趋势。若预测成真，家庭服务机器人市场将迎来爆发拐点，值得关注其对劳动力替代、消费电子格局及小鹏第二增长曲线的深远影响。",
+      "summary_en": "Xpeng Co-President Brian Gu told CNBC that humanoid robots could be doing household chores within 1-2 years. This prediction from a top Chinese EV executive highlights the accelerating trend of automakers entering the robotics space. If realized, it could mark an inflection point for the home service robot market, with significant implications for labor substitution, the consumer electronics landscape, and Xpeng's second growth curve."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "title_cn": "基金经理警告：警惕相关性上升，但应把握美国高收益信贷机会",
+      "title_cn": "基金经理建议：警惕更高相关性，但可把握美国高收益信贷机会",
       "title_en": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-      "summary_cn": "基金经理指出，AI热潮虽可能引发经济衰退，但数据中心仍是具有吸引力的投资机会。文章提醒投资者关注资产相关性上升的风险，同时建议把握美国高收益信贷的收益机会。这一观点值得关注，因为它揭示了在AI投资热潮中平衡风险与收益的策略，为投资者提供了在潜在经济波动中寻找稳定回报的视角。",
-      "summary_en": "Fund managers note that while the AI boom could trigger a recession, data centers remain an attractive investment opportunity. The article warns investors about the risk of rising asset correlations while suggesting they seize high-yield credit opportunities in the U.S. This perspective is noteworthy as it reveals strategies for balancing risk and reward amid the AI investment frenzy, offering investors a lens to find stable returns amid potential economic volatility."
+      "summary_cn": "基金经理指出，AI热潮可能引发经济衰退，但数据中心仍是具吸引力的投资机会。文章提醒投资者警惕资产相关性上升带来的风险，同时建议把握美国高收益信贷的收益机会。该观点值得关注，因为它揭示了AI投资热潮的双刃剑效应，并为资产配置提供了逆向思考视角。",
+      "summary_en": "Fund managers note that the AI boom could trigger a recession, yet data centers remain an attractive investment opportunity. The article warns investors to beware of rising asset correlations while suggesting they seize high-yield opportunities in U.S. credit. This perspective is worth watching as it reveals the double-edged sword of the AI investment frenzy and offers a contrarian view for asset allocation."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-      "title_cn": "预测市场将OpenAI IPO预期推迟至2027年",
+      "title_cn": "预测市场推迟OpenAI IPO预期至2027年后",
       "title_en": "Prediction markets push OpenAI IPO expectations later into 2027",
-      "summary_cn": "Kalshi预测市场数据显示，交易员已下调对OpenAI在2027年6月前确认IPO的押注概率，反映出AI概念股及相关市场近期走弱。这一变化值得关注，因为它揭示了市场对AI头部企业上市前景的情绪转向，预测市场的实时定价也为观察科技IPO窗口提供了另类风向标。",
-      "summary_en": "Kalshi prediction market data shows traders have cut the odds of OpenAI confirming an IPO before June 2027, reflecting recent weakness in AI stocks and related markets. This shift is noteworthy as it reveals a sentiment turn on the listing prospects of a leading AI company, and prediction market pricing offers an alternative gauge for the tech IPO window."
+      "summary_cn": "Kalshi交易员下调了OpenAI在2027年6月前确认IPO的概率，原因是AI股票及相关市场走弱。这一变化反映了市场对AI行业短期前景的谨慎情绪，值得关注的是预测市场作为前瞻性指标对科技公司上市节奏的敏感捕捉，以及AI板块波动如何影响投资者对明星企业IPO时间的预期。",
+      "summary_en": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened. This shift reflects cautious market sentiment toward the AI sector's short-term outlook. It is noteworthy for how prediction markets serve as forward-looking indicators sensitive to tech IPO timing, and how AI sector volatility shapes investor expectations for high-profile listings."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "title_cn": "Liesman：英伟达股价剧烈震荡，考验凯文·沃什解读市场信号的主张",
+      "title_cn": "Liesman：英伟达股价剧烈震荡，考验沃什解读市场信号的主张",
       "title_en": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "summary_cn": "本文聚焦英伟达股价的极端波动及其引发的市场戏剧性变化，指出这一现象正考验美联储主席凯文·沃什试图从市场信号中提取政策线索的主张。文章揭示了央行在解读市场噪音与真实信号之间的困境，对于理解当前货币政策与科技股高波动性的互动具有重要洞察价值。",
-      "summary_en": "This article focuses on the extreme gyrations in Nvidia's stock and the surrounding market drama, highlighting how this tests Federal Reserve Chairman Kevin Warsh's push to read policy cues from market signals. It reveals the central bank's dilemma in distinguishing market noise from genuine signals, offering valuable insight into the interplay between monetary policy and the high volatility of tech stocks."
+      "summary_cn": "本文聚焦英伟达上周极端股价波动及其引发的市场戏剧性事件，揭示美联储主席凯文·沃什面临的核心困境：他主张从市场信号中提取政策线索，但英伟达这类单一科技巨头的剧烈震荡可能释放噪音而非有效信息。文章值得一看，因为它直击当前货币政策与市场结构的关键矛盾——当市场集中度极高时，央行是否还能信任价格信号？这关系到未来美联储决策框架的可靠性。",
+      "summary_en": "This article examines Nvidia's extreme stock swings and the market drama last week, highlighting the dilemma facing Fed Chair Kevin Warsh: he advocates reading policy cues from market signals, but violent gyrations in a single tech giant like Nvidia may emit noise rather than useful information. It is worth reading because it directly addresses a key tension between monetary policy and market structure—when market concentration is extremely high, can the central bank still trust price signals? This bears on the reliability of the Fed's future decision-making framework."
     },
     {
       "category": "财经",
       "source": "CNBC-财经",
       "original_link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "title_cn": "黄仁勋回归英伟达CEO：美中AI竞赛不止于芯片，人才争夺才是关键",
+      "title_cn": "黄仁勋回归英伟达CEO：中美AI竞赛不止于芯片，更在人才",
       "title_en": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "summary_cn": "黄仁勋重返英伟达CEO岗位，这一事件揭示美中人工智能竞赛的核心已超越半导体硬件，延伸至顶尖技术人才的争夺。文章深入分析，为何在芯片出口管制之外，人才流动与培养正成为决定AI竞赛胜负的关键变量。值得关注的是，这不仅是企业战略调整，更折射出两国在科技生态、创新环境与全球人才吸引力上的深层博弈。",
-      "summary_en": "Jensen Huang's return as Nvidia CEO reveals that the U.S.-China AI race has moved beyond semiconductor hardware to the competition for top tech talent. The article analyzes why, beyond chip export controls, talent flow and cultivation are becoming decisive factors in the AI race. This is not just a corporate strategy shift but a reflection of the deeper game between the two countries in tech ecosystems, innovation environments, and global talent attraction."
+      "summary_cn": "黄仁勋重返英伟达CEO岗位，这一事件揭示中美人工智能竞赛的核心已超越半导体硬件，延伸至顶尖技术人才的争夺。文章指出，芯片出口管制固然关键，但人才流动与培养才是决定长期胜负的深层变量。值得一看，因为它打破了仅关注算力与制程的狭隘视角，提醒政策制定者与投资者：AI领导力的根基在于开放的人才生态，而非单纯的技术封锁。",
+      "summary_en": "Jensen Huang's return as Nvidia CEO reveals that the U.S.-China AI race has moved beyond semiconductor hardware to the competition for top tech talent. The article argues that while chip export controls matter, talent mobility and development are the deeper variables determining long-term outcomes. Worth reading because it challenges the narrow focus on compute and process nodes, reminding policymakers and investors that AI leadership rests on an open talent ecosystem, not merely technological blockade."
     },
     {
       "category": "财经",
@@ -115,251 +142,242 @@
       "original_link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
       "title_cn": "Kalshi永续合约日交易量开始超越其预测市场",
       "title_en": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "summary_cn": "Kalshi于5月推出其首款非事件合约产品——永续合约，如今日交易量已开始超越其核心预测市场。这一转变值得关注：它标志着这家以事件驱动交易起家的平台正加速向加密原生衍生品领域扩张，可能重塑其收入结构与用户画像，也反映出预测市场与永续合约两大品类在合规框架下的融合趋势。",
-      "summary_en": "Kalshi launched its first non-event contract product, perpetual futures, in May, and daily trading volume for these 'perps' has now begun to surpass that of its core prediction markets. This shift is noteworthy: it signals that the platform, originally built on event-driven trading, is accelerating its expansion into crypto-native derivatives, potentially reshaping its revenue mix and user base, and reflecting a broader convergence between prediction markets and perpetual contracts under regulatory frameworks."
-    },
-    {
-      "category": "财经",
-      "source": "CNBC-财经",
-      "original_link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-      "title_cn": "Kalshi暂停犹他州业务后，当地撤销对其创始人的刑事指控",
-      "title_en": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-      "summary_cn": "预测市场平台Kalshi在犹他州暂停运营后，当地撤销了对其联合创始人的刑事指控。原定于12月出庭的创始人现已免于诉讼。此案凸显了预测市场与各州博彩监管之间的法律冲突，值得关注其对行业合规路径的潜在影响。",
-      "summary_en": "Utah has dropped criminal charges against the co-founders of prediction market platform Kalshi after the company suspended operations in the state. The founders, who were slated to appear in a state district court in December, are now free from prosecution. The case highlights the legal clash between prediction markets and state gambling regulators, and is worth watching for its potential impact on the industry's compliance path."
-    },
-    {
-      "category": "财经",
-      "source": "CNBC-财经",
-      "original_link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "title_cn": "美联储威廉姆斯：为应对通胀，未来或需进一步加息",
-      "title_en": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "summary_cn": "美联储重要官员威廉姆斯明确表示，为遏制通胀，未来一段时间利率可能需进一步上调。他预计通胀将在2027年接近2%目标，这一时间表暗示紧缩政策将持续更久。作为纽约联储主席，威廉姆斯的观点对市场预期有重要影响，投资者需关注利率路径变化对资产价格的潜在冲击。",
-      "summary_en": "Influential Fed official John Williams indicated that interest rates may need to rise further over time to combat inflation. He expects inflation to approach the 2% target by 2027, a timeline suggesting tighter policy will persist longer. As New York Fed President, Williams' views significantly shape market expectations, and investors should watch for potential impacts of the rate path on asset prices."
-    },
-    {
-      "category": "财经",
-      "source": "CNBC-财经",
-      "original_link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-      "title_cn": "“这奠定了底部”：黄仁勋回归或暂时止住市场抛售",
-      "title_en": "'This establishes a bottom': Jensen Huang’s return seen as likely to stop market sell-off, for now",
-      "summary_cn": "华尔街策略师认为，黄仁勋重返英伟达有望稳住AI交易，但支出与数据中心风险犹存。本文值得关注，因为它揭示了市场情绪对关键人物动向的高度敏感，以及AI板块短期反弹与长期隐忧之间的张力。",
-      "summary_en": "Wall Street strategists believe Jensen Huang's return to Nvidia could stabilize the AI trade, though spending and data-center risks remain. This piece is worth reading because it highlights how sensitive market sentiment is to key figures' moves, and the tension between a short-term rebound in AI stocks and longer-term concerns."
+      "summary_cn": "Kalshi今年5月推出首个非事件合约产品——永续合约，如今其日交易量已开始超越平台核心的预测市场。这一转变值得关注：它标志着预测市场平台正加速向加密衍生品领域扩张，可能重塑其业务重心与监管定位，也反映出用户对杠杆交易的需求正在压过传统事件押注。",
+      "summary_en": "Kalshi launched perpetual contracts in May, its first product beyond event contracts, and daily trading volume for these perps has begun to surpass that of its core prediction markets. This shift is noteworthy: it signals that prediction market platforms are accelerating their expansion into crypto derivatives, potentially reshaping their business focus and regulatory positioning, and reflects that user demand for leveraged trading is outweighing traditional event betting."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-26/indonesia-must-grow-faster-as-its-population-ages-oecd-says",
-      "title_cn": "经合组织：印尼需加速增长以应对人口老龄化，力争2045年跻身高收入国家",
-      "title_en": "Indonesia Must Grow Faster as Its Population Ages, OECD Says",
-      "summary_cn": "经合组织指出，印尼要在2045年成为高收入国家，未来二十年必须加快经济增长，但人口老龄化将加大这一任务的难度。该分析揭示了印尼在人口结构转变与经济发展目标之间的核心矛盾，对于关注新兴市场长期增长潜力与政策挑战的读者具有重要参考价值。",
-      "summary_en": "Indonesia will need to grow faster over the next two decades to become a high-income country by 2045, a task that will get harder as its population ages, according to the OECD. The analysis highlights the core tension between demographic transition and economic goals in Indonesia, offering valuable insights for readers tracking long-term growth potential and policy challenges in emerging markets."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+      "title_cn": "中国股市午间罕见发声后反弹，国务院重申力挺市场",
+      "title_en": "China Stocks Rally After Rare Midday Statement on Market Support",
+      "summary_cn": "中国股市在国务院罕见午间声明后应声反弹。声明重申对市场的支持，强调“国家队”的作用，并承诺推出更多政策。此次盘中表态凸显监管层稳定市场预期的紧迫性，信号意义强于常规盘后发声，短期提振信心，但后续政策落地力度与基本面修复仍是关键观察点。",
+      "summary_en": "Chinese stocks rebounded after the State Council issued a rare midday statement reaffirming support for the market, emphasizing the role of the 'national team' and pledging more policy measures. The intraday timing underscores regulators' urgency to stabilize expectations, sending a stronger signal than routine after-hours comments. While it boosts short-term confidence, the follow-through of policies and fundamental recovery remain key to watch."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/videos/2026-11-26/canada-pitches-infrastructure-plan-to-uae-investors-video",
-      "title_cn": "加拿大财长赴迪拜招商引资 力推基建计划吸引中东长期资本",
-      "title_en": "Canada Pitches Infrastructure Plan to UAE Investors",
-      "summary_cn": "加拿大财长商鹏飞在迪拜接受彭博社采访时表示，加拿大正以强势姿态进入全球秩序重塑期，并呼吁中东投资者将长期资本配置到加拿大基础设施计划中。此举凸显加拿大在地缘经济格局变动下主动拓展资本来源的战略意图，也反映海湾主权财富基金对发达国家基建资产日益浓厚的兴趣。值得关注的是，加拿大能否以稳定的监管环境和项目回报说服中东长期资本落地，将直接影响其基建融资规模与经济韧性。",
-      "summary_en": "Canadian Finance Minister François-Philippe Champagne told Bloomberg TV in Dubai that Canada is entering a shifting global order from a position of strength, urging Middle Eastern investors to deploy long-term capital into the country's infrastructure plan. The outreach highlights Canada's strategic push to diversify capital sources amid geopolitical and economic realignment, and reflects Gulf sovereign wealth funds' growing appetite for infrastructure assets in developed markets. Whether Canada can convince Middle Eastern long-term capital to commit will hinge on its regulatory stability and project returns, with direct implications for its infrastructure financing scale and economic resilience."
+      "original_link": "https://www.bloomberg.com/features/2026-sand-mining/",
+      "title_cn": "5000亿美元沙子贸易监管不力引发建筑安全担忧",
+      "title_en": "Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
+      "summary_cn": "全球沙子贸易规模高达5000亿美元，但监管与执法参差不齐。调查揭示，这一庞大产业在安全、环境和法律层面存在严重隐患。沙子是混凝土关键原料，监管缺位可能导致建筑质量下降、安全事故频发，并加剧非法采砂引发的生态破坏。本文深入剖析监管漏洞背后的利益链条与制度困境，值得关注建筑安全、环境保护和全球供应链治理的读者阅读。",
+      "summary_en": "The global sand trade is worth $500 billion, yet regulation and enforcement remain uneven. An investigation reveals serious safety, environmental, and legal risks in this vast industry. As a key ingredient in concrete, poor oversight of sand can lead to lower construction quality, more frequent safety accidents, and intensified ecological damage from illegal mining. This article examines the interests and institutional gaps behind regulatory failures, making it essential reading for those concerned with construction safety, environmental protection, and global supply chain governance."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
-      "title_cn": "DHL供应链CEO：供应链韧性是增长关键",
-      "title_en": "DHL's Venter: Supply Chain Resilience Is Key to Growth",
-      "summary_cn": "DHL供应链CEO Hendrik Venter指出，在关税与地缘政治扰动加剧全球供应链复杂性的背景下，韧性正成为企业的战略优势。他透露，首次外包业务贡献了DHL第三季度12%同比增速中的40%以上，凸显企业加速外包供应链环节以提升抗风险能力。这一趋势表明，供应链管理正从成本中心转向战略杠杆，值得关注其对企业增长与全球贸易格局的深远影响。",
-      "summary_en": "Hendrik Venter, CEO of DHL Supply Chain, says resilience is becoming a strategic advantage as tariffs and geopolitical disruptions complicate global supply chains. He notes that first-time outsourcing accounted for over 40% of DHL's 12% year-on-year growth in Q3, highlighting that companies are accelerating outsourcing of supply chain functions to enhance risk resilience. This trend signals that supply chain management is shifting from a cost center to a strategic lever, with significant implications for corporate growth and global trade patterns."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
+      "title_cn": "Mahanadi Coalfields上市首日股价持平，完成9.69亿美元IPO",
+      "title_en": "Mahanadi Coalfields Shares Flat in Debut After $969 Million IPO",
+      "summary_cn": "印度煤炭公司Mahanadi Coalfields在完成9.69亿美元IPO后，于印度国家证券交易所上市首日股价接近发行价。这是印度市场监管机构禁止发布IPO灰市价格以来的首宗上市交易，其平淡表现可能反映投资者对煤炭行业及新股定价的谨慎态度，值得关注后续走势以判断市场情绪。",
+      "summary_en": "Mahanadi Coalfields Ltd.'s shares traded near their IPO price on debut on the National Stock Exchange, following a $969 million listing. This is the first IPO since India's market regulator barred publishing gray-market prices for IPO shares. The flat debut may reflect investor caution toward the coal sector and new issue pricing, making it worth watching for market sentiment."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
-      "title_cn": "AI交易回暖推动美股与纳指期货上涨，市场在感恩节前重拾信心",
-      "title_en": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
-      "summary_cn": "在经历一周剧烈震荡后，投资者于感恩节假期前重新涌入人工智能板块，推动美股及股指期货同步走高。本文梳理了市场反弹的驱动因素与关键板块表现，帮助读者理解AI交易情绪如何左右短期大盘走向，以及假期前流动性变化对后续行情的潜在影响。",
-      "summary_en": "After a week of whipsawing, investors returned to the artificial intelligence trade ahead of the Thanksgiving holiday, lifting stocks and US equity-index futures. This wrap covers the drivers behind the rebound and key sector moves, helping readers understand how AI sentiment is shaping near-term market direction and how pre-holiday liquidity shifts may affect the outlook."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-salary-review-to-exacerbate-fiscal-strains-analysts-say",
+      "title_cn": "分析师警告：印度公务员薪资审查将加剧财政压力",
+      "title_en": "India’s Salary Review to Exacerbate Fiscal Strains, Analysts Say",
+      "summary_cn": "印度即将对公务员薪资和养老金权益进行新一轮审查，这可能给政府财政带来新的压力，使降低债务与维持必要支出之间的平衡更加困难。分析人士指出，此举可能加剧财政紧张，削弱政府削减赤字的努力，并挤占基础设施、教育等关键领域的支出空间。文章揭示了印度在经济增长放缓背景下，刚性支出增长与财政整顿目标之间的深层矛盾，值得关注其主权信用评级和债券市场影响。",
+      "summary_en": "India's upcoming review of salaries and pension entitlements for civil servants could exert fresh pressure on government finances, complicating efforts to reduce debt while maintaining spending on essential items. Analysts warn that the move may exacerbate fiscal strains, undermine deficit-reduction efforts, and crowd out spending on infrastructure, education, and other key areas. The article highlights the deep tension between rigid expenditure growth and fiscal consolidation targets amid a slowing economy, with implications for sovereign credit ratings and bond markets."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
-      "title_cn": "美国关税计划加大印度达成贸易协议的压力",
-      "title_en": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
-      "summary_cn": "美国周三宣布的关税税率给印度带来压力，迫使其同意贸易协议，否则将面临更高关税。这一局势使出口商和投资者对贸易前景缺乏清晰预期。值得关注的是，印度如何在关税威胁下权衡谈判策略，以及贸易不确定性对相关产业链和投资决策的潜在影响。",
-      "summary_en": "US tariff rates announced on Wednesday put pressure on India to agree to a trade deal or face a higher levy, leaving exporters and investors with little clarity on the trade outlook. It is worth watching how India weighs its negotiating strategy under the tariff threat and the potential impact of trade uncertainty on related supply chains and investment decisions."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+      "title_cn": "原油市场最新动态与分析：11月27日",
+      "title_en": "Latest Oil Market News and Analysis for Nov. 27",
+      "summary_cn": "油价有望录得本月首个周度涨幅，因中东地区能源基础设施和油轮遭袭，引发市场对冲突升级可能扰乱出口的担忧。地缘政治风险溢价重回视野，供应端不确定性上升，投资者需关注冲突是否波及关键运输通道及产油设施，这将对短期油价走势构成关键指引。",
+      "summary_en": "Oil is on track for its first weekly gain this month as attacks on energy infrastructure and tankers in the Middle East raise concerns that escalating hostilities could disrupt exports. Geopolitical risk premium is back in focus, with rising supply-side uncertainty. Investors should watch whether the conflict affects key shipping lanes and production facilities, which will be a key driver for near-term oil prices."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
-      "title_cn": "11月26日原油市场最新动态与分析：中东冲突持续，油价延续涨势",
-      "title_en": "Latest Oil Market News and Analysis for Nov. 26",
-      "summary_cn": "11月26日，国际油价延续上涨态势。中东地区持续的敌对行动威胁着该区域原油出口的复苏进程，市场对供应中断的担忧加剧。地缘政治风险成为当前油价的主要驱动因素，投资者需密切关注冲突进展及其对全球能源供应链的潜在冲击。本文梳理最新市场动态与关键分析，帮助读者把握油价走势背后的逻辑与风险。",
-      "summary_en": "On Nov. 26, international oil prices extended their gains. Continued hostilities in the Middle East are threatening to disrupt the recovery of crude exports from the region, heightening market concerns over supply disruptions. Geopolitical risk has become the primary driver of oil prices, and investors should closely monitor the conflict's developments and its potential impact on global energy supply chains. This article provides the latest market news and key analysis to help readers understand the logic and risks behind oil price movements."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-says-may-intervene-if-airasia-s-financial-woes-worsen",
+      "title_cn": "马来西亚称若亚航困境恶化将考虑介入",
+      "title_en": "Malaysia Says May Intervene If AirAsia’s Struggles Worsen",
+      "summary_cn": "马来西亚财政部第二部长阿米尔·哈姆扎·阿齐赞表示，若亚航集团财务困境加剧，政府可能考虑出手支持，以保护国内航空连通性。这一表态凸显亚航作为马来西亚低成本航空枢纽的关键地位，以及其财务压力对区域航空网络和旅游经济的潜在冲击。值得关注的是，政府介入的门槛与方式尚不明确，可能涉及注资、贷款担保或监管调整，这将影响亚航的重组进程及投资者信心。",
+      "summary_en": "Malaysia's Second Finance Minister Amir Hamzah Azizan said the government may consider stepping in to support AirAsia Group Bhd. if the airline's financial difficulties worsen, in order to protect domestic air connectivity. The statement highlights AirAsia's critical role as Malaysia's low-cost aviation hub and the potential impact of its financial strain on regional air networks and the tourism economy. Notably, the threshold and form of government intervention remain unclear, possibly involving capital injection, loan guarantees, or regulatory adjustments, which would affect AirAsia's restructuring process and investor confidence."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
-      "title_cn": "澳大利亚企业预计未来12个月通胀率将维持在4%以上",
-      "title_en": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
-      "summary_cn": "尽管澳大利亚央行今年已五次加息以抑制消费价格，但企业仍预期未来12个月通胀率将远高于2-3%的目标区间上限。这一预期凸显了通胀压力的顽固性，暗示政策制定者可能面临更严峻的挑战，值得关注后续货币政策走向及企业定价行为对经济的影响。",
-      "summary_en": "Despite five interest-rate hikes by the Reserve Bank of Australia this year to curb consumer prices, businesses expect inflation to remain well above the top of the 2-3% target band for the next 12 months. This expectation highlights the persistence of inflationary pressures, suggesting policymakers may face tougher challenges and warranting attention to future monetary policy moves and corporate pricing behavior's impact on the economy."
+      "original_link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "title_cn": "AI交易提振股市续涨，美债回落：市场综述",
+      "title_en": "Stocks Extend Recovery on AI Trade, Treasuries Dip: Markets Wrap",
+      "summary_cn": "全球股市连续第二日反弹，人工智能板块在经历数周波动后吸引买家回归，市场情绪有所修复。与此同时，美债因股市上涨削弱避险需求而走低。本文梳理了AI交易复苏对股债市场的联动影响，值得关注的是，这轮反弹是否意味着AI主题已重获动能，以及资金从避险资产向风险资产的轮动是否可持续。",
+      "summary_en": "Global equities rose for a second straight day as buyers returned to the artificial intelligence trade after weeks of volatility, while Treasuries fell as gains in stocks sapped demand for haven assets. This wrap examines the cross-asset impact of the AI-led recovery and whether the rebound signals renewed momentum for the AI theme and a sustainable rotation from safe-haven to risk assets."
     },
     {
       "category": "财经",
       "source": "彭博社-市场",
-      "original_link": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
-      "title_cn": "巴基斯坦交易所获中国支持，拟明年推出股票期权",
-      "title_en": "China-Backed Pakistan Exchange Prepares to Launch Stock Options",
-      "summary_cn": "巴基斯坦证券交易所计划明年推出股票期权，为投资者提供押注该国股市的新工具。该市场过去三年涨幅达三倍，表现亮眼。此举背后有中国资金支持，不仅丰富投资策略，也提升市场深度与流动性，值得关注新兴市场机遇的投资者留意。",
-      "summary_en": "The Pakistan Stock Exchange plans to introduce equity options next year, offering investors a new tool to bet on a market that has tripled over the past three years. Backed by Chinese investment, the move enriches investment strategies and enhances market depth and liquidity, making it noteworthy for investors eyeing emerging-market opportunities."
+      "original_link": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
+      "title_cn": "台湾ETF教父刘宗圣：解析市场动能与2027年新催化剂",
+      "title_en": "Taiwan's ETF Godfather Julian Liu on Market Momentum",
+      "summary_cn": "元大投信董事长、被誉为“台湾ETF教父”的刘宗圣在彭博ETF IQ Asia独家访谈中，深入剖析台湾ETF市场的增长动能，并前瞻2027年的关键催化剂。作为台湾ETF市场的奠基者，刘宗圣的视角对理解亚洲被动投资趋势、监管演变及产品创新具有重要参考价值，值得投资者与资管从业者关注。",
+      "summary_en": "Julian Liu, Chairman of Yuanta Securities Investment Trust and known as Taiwan's ETF Godfather, offers an exclusive interview on Bloomberg's ETF IQ Asia, analyzing the growth momentum of Taiwan's ETF market and previewing key catalysts for 2027. As the founder of Taiwan's ETF market, Liu's perspective is essential for understanding passive investment trends, regulatory evolution, and product innovation in Asia, making it a must-watch for investors and asset management professionals."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
-      "title_cn": "英伟达停止向东南亚发货，美国收紧AI芯片出口管制以阻断中国获取算力",
-      "title_en": "Nvidia halts chip shipments to south-east Asia",
-      "summary_cn": "英伟达暂停向东南亚地区发货，这是美国强化出口管制、防止中国通过第三方获取AI算力的最新举措。该行动表明华盛顿正将管制范围从直接对华出口扩展至转口贸易渠道，可能重塑区域AI供应链格局。值得关注的是，东南亚作为中国获取先进芯片的潜在中转站，此举将影响当地数据中心建设与AI发展，并可能引发相关国家的政策回应。",
-      "summary_en": "Nvidia has suspended shipments to South-east Asia as the US tightens export controls to prevent China from obtaining AI computing power through third-party channels. The move signals Washington's expansion of restrictions from direct exports to transshipment routes, potentially reshaping regional AI supply chains. South-east Asia, seen as a potential transshipment hub for advanced chips to China, may face impacts on local data center buildouts and AI development, prompting possible policy responses from regional governments."
+      "original_link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+      "title_cn": "中国家庭削减数千亿消费贷款，房贷下滑趋势蔓延至消费贷",
+      "title_en": "Chinese households shed billions in consumer debt",
+      "summary_cn": "中国房贷连续三年下降的趋势正蔓延至消费贷款，家庭部门主动去杠杆信号值得警惕。这一变化反映居民对未来收入预期谨慎、资产负债表修复压力加大，可能拖累消费复苏与经济增长动能，是观察中国内需走势的关键窗口。",
+      "summary_en": "The three-year decline in Chinese mortgages is now spreading to consumer loans, a warning sign of household deleveraging. This shift reflects cautious income expectations and balance-sheet repair pressure, potentially weighing on consumption recovery and growth momentum—a key window into China's domestic demand."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-      "title_cn": "英伟达创始人黄仁勋回归引发两岸'仁来疯'",
-      "title_en": "'Jensanity' erupts in Taiwan and China on Nvidia founder's comeback",
-      "summary_cn": "英伟达创始人黄仁勋近期在台湾和中国大陆引发狂热追捧，成为少数能同时游走于海峡两岸的商业领袖。本文剖析了这一现象背后的地缘政治与商业逻辑：在芯片战与AI竞赛的夹缝中，黄仁勋如何凭借个人魅力和商业智慧维系两岸关系，既凸显了科技供应链的脆弱性，也揭示了跨国企业在复杂政治环境中的生存策略。值得关注的是，这种个人影响力能否转化为持久的商业缓冲。",
-      "summary_en": "Nvidia founder Jensen Huang has sparked 'Jensanity' in Taiwan and mainland China, emerging as one of the few business leaders able to straddle both sides of the Taiwan Strait. This article examines the geopolitical and commercial logic behind the phenomenon: amid the chip war and AI race, how Huang leverages personal charisma and business acumen to maintain ties across the strait, highlighting both the fragility of tech supply chains and the survival strategies of multinationals in complex political environments. The key question is whether such personal influence can translate into a lasting commercial buffer."
+      "original_link": "https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1",
+      "title_cn": "玛丽娜·勒庞：可能瓦解欧盟的女人",
+      "title_en": "Marine Le Pen: the woman who could break the EU",
+      "summary_cn": "法国总统大选极右翼领跑者玛丽娜·勒庞，正成为欧盟历史上最大的民粹主义挑战。本文深入剖析其政治崛起背后的社会根源与竞选策略，揭示她如何利用民众对全球化与移民的不满，动摇欧洲一体化根基。若她胜选，不仅将重塑法国政治格局，更可能引发欧盟解体连锁反应。值得关注的是，这场选举已成为欧洲未来走向的风向标，其影响远超法国国界。",
+      "summary_en": "Marine Le Pen, the far-right frontrunner in the French presidential election, is posing the biggest populist challenge in the EU's history. This article delves into the social roots and campaign strategies behind her political rise, revealing how she exploits public discontent with globalization and immigration to undermine the foundations of European integration. If she wins, it would not only reshape French politics but could also trigger a chain reaction of EU disintegration. Notably, this election has become a bellwether for Europe's future, with implications far beyond France's borders."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
-      "title_cn": "黄仁勋的回归对美国资本主义是一个糟糕的信号",
-      "title_en": "Huang’s return is a terrible signal for US capitalism",
-      "summary_cn": "英伟达丑闻凸显了当前受到威胁的股东权利为何如此重要。本文深入剖析黄仁勋回归背后公司治理的隐忧，揭示美国资本主义核心原则面临的挑战，值得关注财经与公司治理的读者一读。",
-      "summary_en": "The Nvidia scandal highlights why the shareholder rights that are now under threat are so important. This article delves into the governance concerns behind Huang's return, revealing the challenges to the core principles of US capitalism—a must-read for those interested in finance and corporate governance."
+      "original_link": "https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1",
+      "title_cn": "美欧经济困境镜像：富人囤积与中产停滞的两种剧本",
+      "title_en": "The US and Europe have opposite economic problems",
+      "summary_cn": "本文揭示美欧经济问题的镜像关系：美国面临富人过度储蓄与中产收入停滞并存的内部失衡，欧洲则受困于中产阶层活力不足与资本配置低效的结构性僵局。文章指出，两者虽表象相反，却共同指向财富分配机制失灵与增长模式不可持续。值得一读，因为它打破“西方经济同质”的惯性认知，为理解全球政策分化提供关键切口。",
+      "summary_en": "This article reveals the mirror-image economic problems of the US and Europe: the US faces internal imbalance with excessive hoarding by the rich alongside middle-class income stagnation, while Europe struggles with a structural deadlock of weak middle-class dynamism and inefficient capital allocation. It argues that despite opposite symptoms, both point to failing wealth distribution mechanisms and unsustainable growth models. A valuable read for challenging the assumption of homogeneous Western economies and offering a key lens on global policy divergence."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
-      "title_cn": "英国千年税制困局：财政压力与支出刚性如何扭曲税收体系",
-      "title_en": "Britain’s 1,000-year-old tax travails",
-      "summary_cn": "本文追溯英国千年税制演变，揭示在公共财政紧张与削减支出政治阻力下，税制如何积累出荒诞的扭曲效应。文章指出，反复的短期修补而非结构性改革，使税收效率与公平双双受损。值得一读，因为它不仅解释当下英国税负争议的历史根源，更警示任何国家在财政困境中回避支出改革、依赖税制打补丁的长期代价。",
-      "summary_en": "This article traces the evolution of Britain’s tax system over a millennium, revealing how strained public finances and political reluctance to cut spending have produced comically distorted effects. It argues that repeated short-term fixes rather than structural reform have undermined both efficiency and fairness. A valuable read because it explains the historical roots of current tax disputes in the UK and warns of the long-term costs for any country that avoids spending reform and relies on patching up the tax code."
+      "original_link": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
+      "title_cn": "美联储准备好迎接下一场战斗了吗？",
+      "title_en": "Is the Fed ready for its next fight?",
+      "summary_cn": "美联储官员正面临通胀、人工智能与政策指引的三维博弈。文章深入剖析了央行在技术变革冲击劳动力市场、通胀路径不明朗之际，如何平衡沟通策略与政策灵活性。值得看的是，它揭示了AI对经济预测模型的潜在颠覆，以及美联储在“数据依赖”与“前瞻指引”之间的艰难抉择，为理解未来货币政策走向提供了关键视角。",
+      "summary_en": "Fed officials are facing a three-dimensional tussle over inflation, AI, and guidance. The article delves into how the central bank balances communication strategy and policy flexibility amid technological shifts impacting the labor market and an uncertain inflation path. It is worth reading for its insight into AI's potential disruption of economic forecasting models and the Fed's difficult choice between 'data dependence' and 'forward guidance,' offering a key perspective on the future direction of monetary policy."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
-      "title_cn": "高市女士对阵渡边太太：日本即将到来的金融交锋",
-      "title_en": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
-      "summary_cn": "日本利率正常化正唤醒沉睡的家庭资金。文章以“高市女士”（代表政策制定者）与“渡边太太”（指代散户外汇交易者）的对垒为隐喻，剖析家庭部门从单纯追求收益转向具备搅动市场的能力。这一转变意味着日本央行政策与民间资本流动的博弈将加剧，全球套利交易格局或面临重塑，值得投资者密切关注。",
-      "summary_en": "Japan's rate normalisation is awakening dormant household capital. Using the metaphor of 'Mrs Takaichi' (policymakers) versus 'Mrs Watanabe' (retail FX traders), the article analyses how households are shifting from merely seeking returns to having the power to surprise markets. This evolution implies intensifying tension between BOJ policy and private capital flows, potentially reshaping global carry trades—a development investors should watch closely."
+      "original_link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "title_cn": "科技股或创四年最差月度表现，波动性飙升",
+      "title_en": "Tech stocks set for worst month in four years as volatility surges",
+      "summary_cn": "科技股正经历四年来最糟糕的月度表现，曾经无往不利的AI交易已被剧烈的市场波动所取代。投资者难以对科技公司的未来盈利进行定价，导致市场情绪急剧恶化。这一转变值得关注，因为它标志着AI驱动涨势的暂时熄火，并可能预示市场对高估值科技股的容忍度正在下降，波动性加剧或引发更广泛的资产重新定价。",
+      "summary_en": "Tech stocks are headed for their worst monthly performance in four years, as the once all-powerful AI trade has been eclipsed by wild market swings. Investors are struggling to price future earnings, leading to a sharp deterioration in sentiment. This shift is noteworthy because it marks a pause in the AI-driven rally and may signal declining tolerance for high-valuation tech stocks, with surging volatility potentially triggering broader asset repricing."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
-      "title_cn": "“朋友感恩节”如何在美国流行起来",
-      "title_en": "How ‘Friendsgiving’ took over in America",
-      "summary_cn": "文章探讨了美国“朋友感恩节”（Friendsgiving）兴起的现象。随着人口结构变化，原本专属于家庭成员的感恩节传统正逐渐与朋友共享。这一趋势反映了社会关系的演变：越来越多的人因远离家乡、单身或选择非传统家庭结构，转而与朋友共度节日。文章分析了这一文化转变背后的 demographic 因素，并揭示了现代人对归属感和社群连接的新定义，值得关注节日文化与社会结构变迁的读者阅读。",
-      "summary_en": "The article explores the rise of 'Friendsgiving' in America. Changing demographics mean traditions once reserved for relatives are now being shared with friends. This trend reflects evolving social relationships: more people, due to distance from hometowns, singlehood, or non-traditional family structures, are choosing to celebrate the holiday with friends. The article analyzes the demographic factors behind this cultural shift and reveals modern redefinitions of belonging and community, making it a worthwhile read for those interested in holiday culture and social structural change."
+      "original_link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+      "title_cn": "亚洲股市企稳，华尔街感恩节后缩短交易时段有望高开",
+      "title_en": "Asia stocks stabilise",
+      "summary_cn": "亚洲股市在近期波动后趋于稳定，市场情绪有所缓和。与此同时，华尔街在感恩节假期后的缩短交易时段中预计将高开，投资者关注零售销售数据及美联储政策信号。这一走势值得关注，因为它反映了全球市场在假期流动性偏低环境下的韧性，以及投资者对经济前景的谨慎乐观态度，可能为年末行情定下基调。",
+      "summary_en": "Asian stocks stabilised after recent volatility, with market sentiment easing. Meanwhile, Wall Street is set to open higher in a shortened post-Thanksgiving session, with investors focused on retail sales data and Fed policy signals. This is worth watching as it reflects global markets' resilience amid low holiday liquidity and investors' cautious optimism about the economic outlook, potentially setting the tone for year-end trading."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
-      "title_cn": "科技股抛售潮中软件股幸免，AI叙事逻辑生变",
-      "title_en": "Software stocks spared in tech rout as AI narrative shifts",
-      "summary_cn": "2026年，半导体与软件股表现并驾齐驱，反映出投资者正重新审视AI浪潮中的赢家与输家。此前市场普遍认为芯片股是AI核心受益者，而软件股因变现路径模糊遭冷落。如今这一叙事正在松动：随着AI应用层落地加速，软件公司被低估的潜力开始被重新定价。本文值得关注，因为它揭示了市场对AI产业链价值分配的关键认知转变，可能预示着资金从硬件向软件的轮动趋势。",
-      "summary_en": "In 2026, semiconductor and software shares are now neck-and-neck, reflecting investors' reassessment of the winners and losers in the AI wave. The market had widely viewed chip stocks as the core AI beneficiaries, while software stocks were overlooked due to unclear monetization paths. That narrative is now loosening: as AI application-layer adoption accelerates, software companies' undervalued potential is being repriced. This piece is worth reading because it reveals a key shift in market perception of value distribution across the AI supply chain, potentially signaling a rotation of capital from hardware to software."
+      "original_link": "https://www.ft.com/content/10a28fed-3825-4e07-804d-3c80c35229e5?syn-25a6b1a6=1",
+      "title_cn": "特朗普媒体集团在合并投票前斥巨资拉拢股东",
+      "title_en": "Trump media group splashes out to woo shareholders before merger vote",
+      "summary_cn": "特朗普媒体与科技集团（TMTG）在关键合并投票前，预计将支付800万至1300万美元的代理征集费用及开支，以争取股东支持。此举凸显该交易对TMTG未来上市及特朗普媒体影响力的重要性，值得关注其高昂成本背后的股东博弈与监管风险。",
+      "summary_en": "Trump Media & Technology Group (TMTG) is expected to pay between $8 million and $13 million in fees and expenses for proxy solicitation services ahead of a critical merger vote to win shareholder support. This highlights the importance of the deal for TMTG's future listing and Trump media influence, warranting attention to the shareholder battle and regulatory risks behind the high costs."
     },
     {
       "category": "财经",
       "source": "金融时报",
-      "original_link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
-      "title_cn": "亚洲股市上涨，此前美国股市因AI风险经历震荡交易",
-      "title_en": "Stocks advance in Asia after volatile US trading over AI risks",
-      "summary_cn": "亚洲股市跟随美国市场波动后走高，但科技股本月因市场对人工智能热潮能否持续的担忧而受挫。本文值得关注，因为它揭示了当前市场情绪的核心矛盾：AI概念驱动的估值是否具有基本面支撑，以及这种不确定性如何在全球市场间传导。投资者需警惕科技板块的脆弱性，同时留意亚洲市场在风险偏好修复中的相对表现。",
-      "summary_en": "Asian stocks advanced after volatile US trading, but tech shares have been hit this month by fears over whether the AI boom can be sustained. This article is worth reading because it highlights the core contradiction in market sentiment: whether AI-driven valuations are fundamentally supported, and how this uncertainty transmits across global markets. Investors should watch for tech sector fragility while noting Asia's relative performance amid risk appetite recovery."
+      "original_link": "https://www.ft.com/content/2586bde3-a1e1-463c-b5fc-0775e8512d28?syn-25a6b1a6=1",
+      "title_cn": "委内瑞拉石油大亨为与特朗普的争议协议辩护",
+      "title_en": "Venezuelan oil magnate defends contentious deal with Trump",
+      "summary_cn": "委内瑞拉石油大亨亚历杭德罗·贝坦库尔特向英国《金融时报》表示，他欢迎外界审视其与特朗普达成的协议。该协议将委内瑞拉大量原油供应交给美国，引发争议。贝坦库尔特的表态值得关注，因为它揭示了这项地缘政治色彩浓厚的能源交易背后的逻辑与博弈，以及委内瑞拉在制裁与政治危机下如何通过非传统渠道维持石油出口。",
+      "summary_en": "Venezuelan oil magnate Alejandro Betancourt told the Financial Times that he welcomes scrutiny of his agreement with Trump, which hands a huge share of the country's crude supply to the US. Betancourt's remarks are noteworthy because they shed light on the rationale and maneuvering behind this geopolitically charged energy deal, and how Venezuela, amid sanctions and political crisis, is maintaining oil exports through unconventional channels."
+    },
+    {
+      "category": "AI科技",
+      "source": "TechCrunch AI",
+      "original_link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "title_cn": "英伟达暂停向东南亚四国发货AI芯片，美国收紧对华技术封锁",
+      "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary_cn": "英伟达已通知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚运送服务器，此举正值美国加大力度阻止AI芯片流入中国。该动向值得关注，因为它表明美国出口管制正从直接对华限制延伸至东南亚转口渠道，可能重塑区域AI供应链格局，并影响相关国家的数据中心建设与算力部署计划。",
+      "summary_en": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. This development is noteworthy because it shows U.S. export controls are extending beyond direct restrictions on China to Southeast Asian transshipment channels, potentially reshaping the regional AI supply chain and affecting data center buildout and computing deployment plans in the countries involved."
+    },
+    {
+      "category": "AI科技",
+      "source": "TechCrunch AI",
+      "original_link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "title_cn": "《GTA VI》证明效率并非美德",
+      "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary_cn": "在Anthropic上市的同一天，一款耗费大量人力打磨的游戏成为史上最成功的娱乐产品之一。本文通过这一对比揭示：AI时代对效率的极致追求未必是优势，人类匠心与时间投入所创造的沉浸体验，反而成为稀缺竞争力。值得一看，因为它挑战了科技界默认的效率至上逻辑。",
+      "summary_en": "On the same day Anthropic went public, a painstakingly human-crafted video game became one of the most successful entertainment launches of all time. This contrast reveals that in the AI era, the relentless pursuit of efficiency may not be an advantage; instead, the immersive experiences created by human craftsmanship and time investment become a scarce competitive edge. Worth reading because it challenges the tech world's default efficiency-first logic."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
       "original_link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "title_cn": "标普考虑下调英伟达信用评级，治理与“关键人”风险成焦点",
+      "title_cn": "标普考虑下调英伟达信用评级，因治理与“关键人”风险",
       "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "summary_cn": "标普正考虑将英伟达信用评级下调至AA-，为第四高评级。此举并非源于财务恶化，而是聚焦公司治理与“关键人风险”——即对创始人黄仁勋的过度依赖。这揭示了一个深层信号：即便AI龙头财务强劲，治理结构缺陷也可能成为信用评级的隐性扣分项。对投资者而言，这提醒我们关注AI巨头高速增长背后的组织脆弱性，以及评级机构对科技公司非财务风险的重新定价逻辑。",
-      "summary_en": "S&P is considering downgrading Nvidia's credit rating to AA-, the fourth-highest level. This move is not driven by financial deterioration but by governance concerns and 'key man' risk—over-reliance on founder Jensen Huang. It signals that even for an AI leader with strong finances, governance weaknesses can be an implicit credit penalty. For investors, this highlights organizational fragility behind AI giants' rapid growth and rating agencies' repricing of non-financial risks for tech companies."
+      "summary_cn": "标普正考虑将英伟达信用评级下调至AA-（第四高评级），理由涉及公司治理及“关键人”风险。这一动向值得关注：它并非质疑英伟达的短期偿债能力，而是提示其高度依赖创始人黄仁勋的领导力与决策，以及治理结构可能存在的集中风险。对于一家市值巨大、处于AI芯片核心地位的公司而言，评级机构的审视角度从财务指标转向治理与人才依赖，可能引发市场对科技巨头长期稳定性的重新评估。",
+      "summary_en": "S&P is considering downgrading Nvidia's credit rating to AA-, the fourth-highest level, citing governance and 'key man' risks. This is noteworthy: it does not question Nvidia's short-term solvency but highlights its heavy reliance on founder Jensen Huang's leadership and decision-making, as well as potential concentration risks in its governance structure. For a company with a massive market cap at the core of AI chips, the rating agency's shift from financial metrics to governance and talent dependence could prompt markets to reassess the long-term stability of tech giants."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
       "original_link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "title_cn": "OpenAI整合Chat与Work体验，重度ChatGPT用户或将更快触及使用上限",
+      "title_cn": "OpenAI合并Chat与Work体验，重度用户或将更快触及使用上限",
       "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary_cn": "OpenAI宣布将Chat与Work两大体验合并，并引入统一的用量计量器。这意味着重度用户可能比以往更早触及使用限制。此举值得关注，因为它反映了OpenAI在整合产品线、优化资源分配的同时，正试图平衡免费与付费用户的使用体验，也可能预示着未来AI服务按使用量分级收费的趋势。",
-      "summary_en": "OpenAI will merge its Chat and Work experiences and introduce a single usage meter across ChatGPT. This means heavy users may hit usage limits sooner than before. The move is noteworthy because it reflects OpenAI's effort to streamline its product lineup and optimize resource allocation while balancing free and paid user experiences, and it may signal a broader trend toward usage-based tiered pricing for AI services."
+      "summary_cn": "OpenAI宣布将ChatGPT的Chat与Work两大体验合并，并引入统一的使用量计量器。这意味着重度用户可能比以往更早触及使用上限。此举值得关注，因为它反映了OpenAI在整合产品线、优化资源分配的同时，正试图平衡免费与付费用户的体验，可能影响广大开发者和企业用户的日常使用策略与成本预期。",
+      "summary_en": "OpenAI has announced it will merge the Chat and Work experiences within ChatGPT and introduce a single usage meter. This means heavy users may hit usage limits sooner than before. The move is noteworthy because it reflects OpenAI's effort to streamline its product lineup and optimize resource allocation while balancing free and paid user experiences, potentially affecting daily usage strategies and cost expectations for developers and enterprise users."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
       "original_link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "title_cn": "黄仁勋违反了英伟达的行为准则，员工或许不会忘记",
+      "title_cn": "黄仁勋违反了英伟达的行为准则，员工可能不会忘记",
       "title_en": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary_cn": "本文探讨英伟达CEO黄仁勋违反公司行为准则的事件及其潜在影响。行为准则通常反映企业文化，而领导者的违规可能动摇员工信任，尤其在英伟达这样的科技巨头中。文章分析了这一事件为何值得关注：它不仅关乎个人行为，更可能侵蚀公司长期倡导的价值观，对内部凝聚力和外部声誉构成风险。对于关注科技公司治理与文化的读者，这是一篇揭示领导力与制度张力的小切口深度报道。",
-      "summary_en": "This article examines Nvidia CEO Jensen Huang's violation of the company's code of conduct and its potential consequences. Codes of conduct typically reflect corporate culture, and a leader's breach can undermine employee trust, especially at a tech giant like Nvidia. The piece explains why this matters: it is not just about individual behavior but may erode the values the company has long championed, posing risks to internal cohesion and external reputation. For readers interested in tech governance and culture, this is a focused deep dive revealing the tension between leadership and institutional rules."
+      "summary_cn": "本文探讨了英伟达CEO黄仁勋违反公司行为准则的事件，指出行为准则通常反映企业文化，而此次违规可能对英伟达产生深远影响。文章分析了事件背景及潜在后果，值得关注的是，领导者的行为如何塑造员工信任与公司治理，尤其在科技巨头面临高期望的当下。",
+      "summary_en": "This article examines Nvidia CEO Jensen Huang's violation of the company's code of conduct, noting that codes of conduct typically reflect corporate culture and that this breach could have far-reaching consequences for Nvidia. It analyzes the background and potential fallout, highlighting how leadership behavior shapes employee trust and corporate governance, especially as tech giants face high expectations."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
       "original_link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "title_cn": "Anthropic CEO Dario Amodei 驳斥“将人类控制权交给AI”的指控，称其“荒谬”",
+      "title_cn": "Anthropic CEO Dario Amodei 驳斥“将人类控制权拱手让给AI”的指控，称其“荒谬”",
       "title_en": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary_cn": "Anthropic CEO Dario Amodei 公开反驳竞争对手关于他主张将人类能动性交给AI的指控，称其“荒谬”。此番回应正值领先AI公司日益自动化自身研究与模型开发之际，凸显了行业在AI安全与自主性边界上的深刻分歧。值得关注的是，Amodei的辩护不仅关乎个人立场，更折射出AI伦理争论中“人类控制”这一核心议题的紧迫性——当AI系统越来越多地参与创造下一代AI时，如何确保人类始终掌握最终决策权，已成为业界无法回避的挑战。",
-      "summary_en": "Anthropic CEO Dario Amodei has publicly pushed back against rivals' accusations that he favors surrendering human agency to AI, calling the claims 'absurd.' His response comes as leading AI companies increasingly automate their own research and model development, highlighting deep industry divisions over the boundaries of AI safety and autonomy. What makes this worth watching is that Amodei's defense is not just about personal stance but reflects the urgency of 'human control' as a core issue in AI ethics debates—as AI systems increasingly participate in creating the next generation of AI, ensuring humans retain ultimate decision-making authority has become an unavoidable challenge for the industry."
+      "summary_cn": "在AI公司日益自动化自身研究与模型开发的背景下，Anthropic CEO Dario Amodei 正面回应竞争对手的指控，否认自己主张将人类能动性让渡给AI，并直斥相关说法“荒谬”。这一表态值得关注，因为它揭示了AI头部企业在“自动化研发”与“人类控制”之间的深层张力：当企业自身加速用AI改进AI时，如何自证并未放弃人类主导权，将成为行业信任与治理辩论的关键战场。",
+      "summary_en": "Amid leading AI companies increasingly automating their own research and model development, Anthropic CEO Dario Amodei has pushed back against rivals’ accusations that he favors surrendering human agency to AI, calling such claims “absurd.” This matters because it exposes a deeper tension between automating AI R&D and preserving human control: as firms accelerate using AI to improve AI, proving that human oversight has not been ceded will become a key battleground in the industry’s trust and governance debate."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
       "original_link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "title_cn": "纽约州禁售AI聊天玩具五年：安全漏洞与情感发展风险引担忧",
+      "title_cn": "纽约州禁售AI聊天机器人玩具五年：Common Sense Media新研究揭示安全隐患",
       "title_en": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "summary_cn": "纽约州立法禁止AI聊天玩具五年，直接回应了Common Sense Media最新研究揭示的严重安全隐患——儿童可能接触不当内容，且情感发育面临风险。这一禁令不仅是对单一产品的限制，更标志着监管机构对AI儿童产品安全底线的首次强硬表态。值得关注的是，它揭示了当前AI玩具在内容过滤与心理影响评估上的系统性缺失，为全球市场敲响警钟：在商业利益与儿童保护之间，法律开始划出明确红线。",
-      "summary_en": "New York has banned AI chatbot toys for five years, directly responding to new Common Sense Media research revealing serious safety failures—children may be exposed to inappropriate content and face risks to emotional development. This ban is not just a restriction on a single product but marks regulators' first tough stance on the safety bottom line for AI children's products. Notably, it exposes systemic gaps in content filtering and psychological impact assessment in current AI toys, sounding an alarm for the global market: between commercial interests and child protection, the law is beginning to draw a clear red line."
+      "summary_cn": "纽约州立法禁止AI聊天机器人玩具五年，直接回应Common Sense Media最新研究揭示的严重安全缺陷——儿童可能接触不当内容，情感发育面临风险。此举值得关注，因为它标志着监管机构对AI儿童产品从宽松转向审慎，为全球AI玩具市场敲响警钟，也迫使家长重新审视节日礼物背后的技术伦理。",
+      "summary_en": "New York has banned AI chatbot toys for five years, directly responding to new Common Sense Media research revealing serious safety failures—children may be exposed to inappropriate content and face risks to emotional development. This is worth watching because it marks a regulatory shift from leniency to caution on AI products for children, sounding an alarm for the global AI toy market and forcing parents to reconsider the tech ethics behind holiday gifts."
     },
     {
       "category": "AI科技",
       "source": "TechCrunch AI",
       "original_link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "title_cn": "Character.AI破产拍卖用户私聊计划遭多州总检察长反对",
+      "title_cn": "Character.AI拟拍卖用户私聊数据遭多州总检察长反对",
       "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "summary_cn": "Character.AI拟在破产出售中拍卖包含2100多万美国账户敏感个人数据的资产，其中210万为未成年人账户。多州总检察长对此提出质疑，认为此举可能严重侵犯用户隐私。该事件凸显AI聊天机器人平台在数据隐私与破产资产处置间的法律与伦理冲突，值得关注其对用户数据保护政策的潜在影响。",
-      "summary_en": "Character.AI's proposed bankruptcy sale includes sensitive personal data from over 21 million U.S. accounts, 2.1 million of which belong to minors. Multiple state attorneys general have challenged the plan, raising concerns about severe privacy violations. This case highlights the legal and ethical conflicts between data privacy and bankruptcy asset disposal for AI chatbot platforms, and is worth watching for its potential impact on user data protection policies."
+      "summary_cn": "Character.AI破产出售计划拟将超2100万美国账户的敏感个人数据（含210万未成年人）作为资产拍卖，多州总检察长对此提出法律挑战。该事件凸显AI聊天机器人平台在破产重组中如何处置用户隐私数据的重大监管与伦理争议，值得关注的是：用户对话数据是否应被视为可交易资产，以及未成年人数据保护在AI时代的法律边界。",
+      "summary_en": "Character.AI's proposed bankruptcy sale includes sensitive personal data from over 21 million U.S. accounts, including 2.1 million registered to minors, prompting state attorneys general to challenge the plan. This case highlights critical regulatory and ethical disputes over how AI chatbot platforms handle user privacy data in bankruptcy restructuring, raising key questions about whether user conversations should be treated as tradable assets and where the legal boundaries of minors' data protection lie in the AI era."
     },
     {
       "category": "AI科技",
-      "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "title_cn": "AI数据中心建设遇阻，新云厂商承压",
-      "title_en": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "summary_cn": "英伟达明确表示，只有在AI数据中心接近可运行状态时才会提供支持，而此时新云厂商正面临建设延迟和债务成本上升的困境。这向开发商传递了一个信号：土地、电力和已竣工的建筑比一份 pitch deck 更重要。Anita Verma-Lallian 正是以此为目标进行销售。本文揭示了AI基础设施热潮背后的现实挑战，值得关注。",
-      "summary_en": "Nvidia has made it clear it won't backstop an AI data center until it's nearly ready to run, and that's landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. Anita Verma-Lallian has been selling exactly that. This article reveals the real challenges behind the AI infrastructure boom and is worth reading."
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "title_cn": "今日速递：可感知的下一代仿生手与AI引发的天然气热潮",
+      "title_en": "The Download: Better bionic hands and AI's natural-gas boom",
+      "summary_cn": "本期《今日速递》聚焦两项前沿进展：一是首款可带回家独立使用的触觉仿生手，通过神经接口让截肢者重获触感，有望重塑人机交互与神经康复研究；二是AI数据中心激增正推动美国天然气发电扩张，揭示AI算力背后的能源代价与基础设施博弈。两则报道分别从医疗科技与能源环境角度，呈现技术突破与现实影响的张力，值得关注。",
+      "summary_en": "This edition of The Download highlights two frontier developments: the first take-home bionic hand with tactile feedback via neural interfaces, restoring a sense of touch for amputees and potentially reshaping human-machine interaction and neurorehabilitation research; and the surge in AI data centers driving US natural-gas power expansion, revealing the energy costs and infrastructure trade-offs behind AI computing. Together, these stories capture the tension between technological breakthroughs and real-world consequences in healthcare and energy."
     },
     {
       "category": "AI科技",
-      "source": "TechCrunch AI",
-      "original_link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "title_cn": "亚马逊与Meta据悉洽谈解除对AI智能体Muse的封锁",
-      "title_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "summary_cn": "亚马逊与Meta正就结束对AI智能体Muse长达两个月的封锁进行谈判，此举可能重塑两大科技巨头在AI代理领域的竞争格局。Muse作为新兴AI智能体，其封锁解除意味着跨平台AI互操作性与生态开放性的重要转折，值得关注的是这背后反映出的AI代理商业化路径与平台治理策略的博弈。",
-      "summary_en": "Amazon and Meta are negotiating to end a two-month blockade on the AI agent Muse, a move that could reshape the competitive landscape between the two tech giants in the AI agent space. The lifting of the blockade on Muse, an emerging AI agent, signals a pivotal shift toward cross-platform AI interoperability and ecosystem openness, with the underlying博弈 over AI agent commercialization paths and platform governance strategies worth watching."
+      "source": "MIT Tech Review",
+      "original_link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "title_cn": "下一代仿生手问世：它能感知触觉",
+      "title_en": "The next generation of bionic hands is here—and they can feel",
+      "summary_cn": "犹他大学临床试验中，第九位受试者Avi Davidson首次将实验性仿生手带回家独立使用。该设备通过神经接口实现触觉反馈，让他能感知压力并处理葡萄、鸡蛋等易碎物品。这项技术不仅关乎运动控制，更在于重建感觉回路，有望回答仿生手在日常生活中的真实效用、局限及对身心影响等关键问题，标志着义肢从机械替代向感官融合的跨越。",
+      "summary_en": "In a University of Utah clinical trial, Avi Davidson became the ninth recipient and first to take home an experimental bionic hand that provides tactile feedback via a neural interface, allowing him to sense pressure and handle delicate objects like grapes and eggs. Beyond motor control, the technology aims to restore sensory loops, helping researchers answer key questions about real-world utility, limitations, and impacts on well-being—marking a leap from mechanical replacement to sensory integration."
     },
     {
       "category": "AI科技",
@@ -367,26 +385,26 @@
       "original_link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
       "title_cn": "数据中心如何推动美国天然气热潮",
       "title_en": "How data centers are driving a US natural-gas boom",
-      "summary_cn": "文章指出，AI数据中心激增的电力需求正推动美国天然气发电复兴，而非转向可再生能源。以Meta路易斯安那数据中心为例，配套天然气电厂从3座增至10座，开发商甚至计划自建离网燃气电厂。文章通过电网互联队列的变化揭示这一趋势，值得关注的是，这凸显了AI发展对能源结构和气候目标的现实冲击。",
-      "summary_en": "The article highlights that surging electricity demand from AI data centers is fueling a natural-gas resurgence in the US, rather than a shift to renewables. For instance, the Meta data center in Louisiana saw its planned natural-gas plants increase from three to ten, and developers now plan off-grid gas plants. By examining interconnection queues, the piece reveals this trend, underscoring the real-world impact of AI growth on energy infrastructure and climate goals."
+      "summary_cn": "文章指出，AI数据中心激增的电力需求正推动美国天然气产业复兴，而非转向可再生能源。以Meta路易斯安那数据中心为例，配套天然气电厂从3座增至10座，开发商甚至计划自建离网燃气电厂。文章通过电网互联队列的变化，揭示天然气在数据中心驱动下重新主导新增电力供应的趋势，值得关注能源结构与AI发展的深层矛盾。",
+      "summary_en": "The article argues that surging electricity demand from AI data centers is fueling a natural-gas resurgence in the US rather than a shift to renewables. Meta's Louisiana data center, for example, saw its planned gas plants grow from three to ten, and developers now plan off-grid gas plants. By examining interconnection queues, the piece reveals how data centers are reasserting natural gas dominance in new power capacity, highlighting the tension between AI growth and energy transition."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "title_cn": "AI正在冲击美国公开记录系统，以及为永久冻土而战的消防行动",
+      "title_cn": "AI科技日报：AI冲击美国公开记录系统，以及为永久冻土而战",
       "title_en": "The Download: AI swamping open records, and firefighting for permafrost",
-      "summary_cn": "本期《下载》关注两大议题：一是AI如何加剧美国公开记录系统的压力——风投支持的初创公司斥资上亿美元收集政府数据并转化为AI“信号”，同时聊天机器人让个人提交记录请求更便捷，导致机构难以区分公民、机器人与商业管道，部分州因此立法放宽拒绝请求的条件，可能削弱公共透明度；二是深入阿拉斯加大学火灾现场，探讨如何应对北极野火以保护永久冻土中封存的碳。值得一看，因为它揭示了AI对知情权的现实威胁与气候行动的紧迫性。",
-      "summary_en": "This edition of The Download covers two topics: first, how AI is straining America's open records systems—venture-backed startups have raised over $100 million to collect government data and turn it into AI 'signals,' while chatbots make it easier for individuals to file requests, leaving agencies unable to distinguish citizens from bots or sales pipelines, and prompting some states to pass legislation making it easier to deny requests, potentially reducing public transparency; second, a look inside the quest to combat Arctic fires and save the planet's frozen carbon, following researchers into an Alaska forest burned by wildfire. Worth reading for its insight into AI's real threat to the right to know and the urgency of climate action."
+      "summary_cn": "本期《下载》聚焦两大议题：一是AI如何加剧美国公开记录系统的压力——风投支持的初创公司斥资上亿美元收集政府数据并转化为AI“信号”，同时聊天机器人让个人申请更便捷，导致机构难以区分公民、聊天机器人与商业 pipeline，部分州因此立法放宽拒绝请求的门槛，可能削弱公共透明度；二是MIT科技评论 narrated 节目深入阿拉斯加，探讨如何应对北极野火以保护永久冻土中储存的碳。值得一看，因为它揭示了AI对知情权的隐性侵蚀，以及气候行动的前沿实践。",
+      "summary_en": "This edition of The Download focuses on two topics: first, how AI is straining America's open records systems—venture-backed startups have raised over $100 million to collect government data and turn it into AI-powered 'signals,' while chatbots make it easier for individuals to file requests, leaving agencies struggling to distinguish citizens from chatbots or sales pipelines, and prompting some states to pass legislation making it easier to deny requests, potentially reducing public transparency; second, MIT Technology Review Narrated goes into Alaska to explore the fight against Arctic wildfires to save the planet's frozen carbon. Worth reading because it reveals AI's subtle erosion of the right to know and frontline climate action."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "title_cn": "AI正在压垮美国公共记录系统",
+      "title_cn": "AI正在压垮美国公开记录系统",
       "title_en": "AI is straining America’s open records systems",
-      "summary_cn": "文章通过佛蒙特州小镇书记员的亲身经历，揭示AI如何加剧美国公共记录系统的负担。风险投资支持的初创公司利用AI批量抓取政府数据，将其转化为商业“信号”，导致公共记录请求激增且范围更广。同时，AI工具让个人更容易起草冗长请求，而负责回应的政府办公室人力预算未增。这引发了对纳税人资源被用于“无偿反对派研究”的担忧，并凸显了AI对民主透明机制的意外冲击。",
-      "summary_en": "Through the firsthand experience of a small-town clerk in Vermont, the article reveals how AI is overwhelming America's public records systems. Venture-backed startups use AI to scrape government data at scale and turn it into commercial 'signals,' causing a surge in broader public records requests. Meanwhile, AI tools make it easier for individuals to draft lengthy requests, while the offices responding have not seen matching increases in staff or budget. This raises concerns about taxpayer resources being used for 'unpaid opposition research' and highlights AI's unintended impact on democratic transparency mechanisms."
+      "summary_cn": "文章通过佛蒙特州小镇书记员的亲身经历，揭示AI如何加剧美国公共记录请求系统的负担。风险投资支持的初创公司利用AI大规模抓取政府数据，将其转化为商业“信号”；同时AI工具使个人起草的请求更长、范围更广。许多地方请求量年增两位数，但处理这些请求的办公室人手和预算并未增加。文章深刻剖析了技术进步与民主治理之间的张力，值得关注AI对公共行政效率与透明度的双重影响。",
+      "summary_en": "Through the firsthand experience of a town clerk in Panton, Vermont, this article reveals how AI is intensifying the burden on America's public records request systems. Venture-backed startups are using AI to scrape government data at scale and turn it into commercial 'signals,' while AI tools enable individuals to draft longer, broader requests. Many places have seen double-digit annual increases in requests, yet the offices handling them haven't grown in staff or budget. The article offers a deep look at the tension between technological progress and democratic governance, making it essential reading on AI's dual impact on public administration efficiency and transparency."
     },
     {
       "category": "AI科技",
@@ -394,80 +412,71 @@
       "original_link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
       "title_cn": "AI天然气发电热潮与意识现实检验",
       "title_en": "The Download: AI’s gas power boom and a consciousness reality check",
-      "summary_cn": "本期《The Download》聚焦两大AI议题：一是数据中心为绕开长达十年的电网审批，纷纷自建离网天然气发电厂，截至2026年10月美国已宣布超100个此类项目，虽解燃眉之急却可能加剧碳排放并推高公众电费；二是Anthropic在上市前将AI意识列为风险因素，却遭一位塑造意识研究的哲学家质疑。两则报道分别揭示AI扩张的能源代价与意识争论的哲学张力，值得关注。",
-      "summary_en": "This edition of The Download highlights two AI issues: data centers are bypassing decade-long grid approval by building off-grid natural gas plants—over 100 announced in the US as of October 2026—which solves immediate power needs but may worsen emissions and raise bills for others; and Anthropic listing AI consciousness as an investor risk before going public, only to be challenged by a philosopher who helped shape consciousness studies. The stories reveal the energy costs of AI expansion and the philosophical tensions of the consciousness debate."
+      "summary_cn": "本期《The Download》聚焦两大AI议题：一是数据中心为绕过漫长电网审批，纷纷自建离网天然气发电厂，2026年10月前美国已宣布超100个此类项目，虽解燃眉之急却加剧碳排放并推高公众电费；二是Anthropic在上市前将AI意识列为风险因素，却遭一位塑造意识理解的哲学家质疑。两则新闻揭示了AI狂飙背后的能源代价与伦理争议，值得关注。",
+      "summary_en": "This edition of The Download highlights two AI issues: first, data centers are building off-grid natural gas plants to bypass lengthy grid approval waits, with over 100 such projects announced in the US by October 2026—solving immediate power needs but worsening emissions and raising bills for others; second, Anthropic listed AI consciousness as a risk factor before going public, only to be challenged by a philosopher who helped shape our understanding of consciousness. These stories reveal the energy costs and ethical debates behind the AI boom."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "title_cn": "数据中心自建天然气发电厂：绕过电网瓶颈的AI能源新策略",
+      "title_cn": "数据中心自建天然气发电厂成风潮：绕开电网瓶颈，但代价几何？",
       "title_en": "Data centers are getting their own natural gas power plants",
-      "summary_cn": "面对长达十年的电网接入等待，美国数据中心开发商正大规模转向自建离网天然气发电厂。截至2026年10月，已宣布超100个项目，总规划容量超115吉瓦，是加州峰值需求的两倍多，且绝大多数在2025年后公布。尽管成本更高，但速度成为首要驱动力。这一趋势将深刻影响未来数十年的电网格局与气候影响，值得关注其监管与可持续性挑战。",
-      "summary_en": "Facing up to a decade-long wait for grid connections, U.S. data center developers are increasingly building their own off-grid natural gas power plants. As of October 2026, over 100 projects have been announced with a combined planned capacity exceeding 115 gigawatts—more than double California's peak demand—most since early 2025. Despite higher costs, speed is the primary motivator. This trend could shape the grid and its climate impacts for decades, warranting attention to regulatory and sustainability challenges."
+      "summary_cn": "并网排队长达十年，AI数据中心开发商正转向自建离网天然气发电厂。截至2026年10月，美国已宣布超100个此类项目，总规划容量逾115吉瓦，超过加州峰值电力需求的两倍。xAI孟菲斯园区率先使用数十台天然气涡轮机（部分无许可），如今这一策略已从异类变为常态。自建电厂虽成本更高，但速度成为AI竞赛中的决定性优势。这一趋势将深刻影响未来数十年的电网格局与气候影响，值得密切关注其监管与环保后果。",
+      "summary_en": "With grid interconnection queues stretching up to a decade, AI data center developers are increasingly building their own off-grid natural gas power plants. As of October 2026, over 100 behind-the-meter gas projects have been announced in the US, with a combined planned capacity exceeding 115 gigawatts—more than double California's peak power demand. xAI's Memphis campus pioneered the approach with dozens of gas turbines, some unpermitted, and now the strategy has gone mainstream. Building on-site power is more expensive than grid connection, but speed has become the decisive advantage in the AI race. This trend could shape the grid and its climate impacts for decades, making regulatory and environmental fallout worth watching closely."
     },
     {
       "category": "AI科技",
       "source": "MIT Tech Review",
       "original_link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "title_cn": "知名哲学家驳斥Anthropic的AI意识论调",
+      "title_cn": "一位传奇哲学家不买Anthropic意识论的账",
       "title_en": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "summary_cn": "Anthropic在IPO前将AI可能具备意识列为风险因素，并基于“模型福利”理念采取比同行更严格的保护措施。公司援引多位哲学家观点，认为随能力提升，AI获得道德地位的概率上升。然而一位传奇哲学家对此提出质疑，文章剖析了这场关于AI意识与道德地位的争论，揭示科技公司如何为未来监管与伦理叙事布局，值得关注AI伦理与政策走向的读者一读。",
-      "summary_en": "Before going public, Anthropic listed AI consciousness as a risk factor and adopted stricter model-welfare protections than peers, citing philosophers who argue that moral status becomes more likely as capabilities grow. A legendary philosopher challenges this reasoning, and the article examines the debate over AI sentience and moral status—revealing how tech companies are shaping the ethical and regulatory narrative around future AI. A must-read for those tracking AI ethics and policy."
+      "summary_cn": "Anthropic在IPO前将AI可能具备意识列为风险因素，并以其对模型感知力的严肃态度为荣，甚至聘请知名哲学家为其立场背书。然而一位传奇哲学家对此提出质疑，文章深入探讨了AI意识争论背后的哲学分歧与商业动机。值得一读，因为它揭示了科技公司在AI伦理问题上的自我辩护逻辑及其争议。",
+      "summary_en": "Anthropic listed AI consciousness as a risk factor before going public, priding itself on taking model sentience more seriously than competitors and enlisting respected philosophers to back its stance. Yet a legendary philosopher is pushing back, and the article delves into the philosophical divides and commercial motives behind the AI consciousness debate. Worth reading for its insight into how tech companies justify their AI ethics positions and why those arguments are contested."
     },
     {
       "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "title_cn": "今日速递：AI的判断力困境与碳去除的作物威胁",
-      "title_en": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "summary_cn": "本期《The Download》聚焦两大前沿议题。其一，AI评估机构METR更新了其广受关注的“时间跨度图”，发现模型在编程等任务上能力指数级提升，但在需要判断力的开放式任务（如设计AI评估、给哲学论证打分）上表现不佳，这对自动化研发构成关键挑战。其二，谷歌、微软等斥巨资投资在农田散布碎石以捕获空气中二氧化碳的初创公司，但文章警示这一碳去除方法可能最终会削弱作物生长，揭示了气候干预技术的潜在生态风险。两则报道均指向技术规模化应用中的深层隐忧，值得关注。",
-      "summary_en": "This edition of The Download highlights two frontier issues. First, AI evaluation nonprofit METR has updated its widely shared 'time horizon' plot, finding that while models improve exponentially on tasks like coding, they struggle with open-ended tasks requiring judgment (e.g., designing AI evaluations, scoring philosophical arguments)—a crucial challenge for automating R&D. Second, Google, Microsoft and others are investing hundreds of millions in startups spreading crushed rock on farms to capture CO2, but the article warns this carbon removal method could eventually reduce crop growth, revealing potential ecological risks of climate intervention technologies. Both stories point to deep-seated concerns in scaling technology, making them worth reading."
-    },
-    {
-      "category": "AI科技",
-      "source": "MIT Tech Review",
-      "original_link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "title_cn": "研究警告：用岩石增强风化固碳可能最终导致作物减产",
-      "title_en": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "summary_cn": "科技巨头重金押注增强岩石风化（ERW）固碳，模型称年除碳可达30-80亿吨。但CarbonPlan两项预印本研究首次系统揭示：过量施用岩石会降低作物产量，而限制用量又将使除碳能力降至每年不足10亿吨。该分析直击ERW商业化的核心矛盾——固碳效益与农业生计的权衡，对投资者、政策制定者和气候模型构建者均具警示意义。",
-      "summary_en": "Tech giants are investing heavily in enhanced rock weathering (ERW), with models suggesting it could remove 3–8 billion metric tons of CO2 annually. But two preprint studies from CarbonPlan reveal for the first time that excessive rock application can reduce crop yields, while limiting application rates would cap carbon removal at under a billion tons per year. The analysis exposes a core tension in ERW commercialization—the trade-off between carbon removal and agricultural livelihoods—offering a critical warning for investors, policymakers, and climate modelers."
+      "source": "The Verge AI",
+      "original_link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "title_cn": "42州总检察长联合施压，阻止Character.AI破产期间出售用户聊天记录",
+      "title_en": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary_cn": "Character.AI在申请Chapter 11破产保护后，计划拍卖超过2100万美国用户的私人聊天记录，其中逾210万账户属于未成年人，且未提供任何隐私保障。42位州总检察长联合发声反对，凸显AI时代用户数据在破产程序中的法律与伦理真空。此案值得关注，因为它可能为AI公司处理敏感对话数据确立重要先例，并检验现有消费者保护法能否应对生成式AI带来的新型隐私风险。",
+      "summary_en": "After filing for Chapter 11 bankruptcy, Character.AI plans to auction off the private chat histories of over 21 million U.S. accounts—more than 2.1 million of them registered to minors—without any safeguards for the people whose conversations are being sold. A coalition of 42 state attorneys general has united to oppose the plan, highlighting a legal and ethical vacuum around user data in bankruptcy proceedings in the AI era. This case is worth watching because it could set a significant precedent for how AI companies handle sensitive conversation data and test whether existing consumer protection laws can address the novel privacy risks posed by generative AI."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
       "original_link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "title_cn": "谷歌AI定制视频流专利曝光：娱乐未来的黯淡图景",
+      "title_cn": "谷歌AI定制视频流专利获批，娱乐未来令人担忧",
       "title_en": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "summary_cn": "谷歌申请了一项名为“My Channel”的专利，旨在利用用户的人口统计数据和观看历史，通过大语言模型生成个性化的AI视频和广告，打造专属视频流。尽管该专利目前被驳回，但谷歌可能上诉或重新提交，这一技术若落地将引发对娱乐内容真实性和用户隐私的深刻担忧。本文深入剖析了该专利的运作机制及其可能带来的行业影响，值得关注AI与娱乐交汇处的读者阅读。",
-      "summary_en": "Google has filed a patent for a system called 'My Channel' that aims to use users' demographic data and viewing history to generate personalized AI videos and ads via large language models, creating a custom video feed. Although the patent was rejected, Google may appeal or resubmit, and if realized, this technology raises serious concerns about content authenticity and user privacy. This article delves into the patent's mechanics and its potential industry impact, making it a must-read for those interested in the intersection of AI and entertainment."
+      "summary_cn": "谷歌去年申请了一项名为“My Channel”的专利，利用用户人口统计数据和观看历史生成个性化AI视频和广告，尽管专利被驳回，但谷歌可能上诉或重新提交，这一系统若上市将引发对娱乐未来的担忧。该专利展示了AI如何深度介入内容创作，可能加剧信息茧房和广告泛滥，值得关注。",
+      "summary_en": "Google filed a patent last year for a system called My Channel that uses demographic data and viewing history to generate personalized AI videos and ads. Although the patent was rejected, Google may appeal or resubmit, and if this system comes to market, it could raise concerns about the future of entertainment. The patent illustrates how AI could deeply介入 content creation, potentially exacerbating filter bubbles and ad overload, making it worth watching."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
       "original_link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "title_cn": "FCC批准SpaceX部署百万颗AI数据中心卫星，开启太空计算新纪元",
+      "title_cn": "FCC批准SpaceX部署百万颗AI数据中心卫星，太空计算竞赛正式开启",
       "title_en": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "summary_cn": "美国联邦通信委员会（FCC）首次批准SpaceX的“Starmind”计划，允许其部署最多100万颗配备AI芯片的卫星，用于在太空建立数据中心。这一决定标志着太空计算竞赛的正式开启，Google和Blue Origin等公司也在探索类似概念。FCC要求SpaceX在2033年前发射首颗卫星，并在2040年前完成百万颗部署目标。该计划有望大幅提升全球AI算力覆盖，但也引发了对太空轨道资源和天文观测影响的担忧。",
-      "summary_en": "The FCC has for the first time approved SpaceX's \"Starmind\" initiative, authorizing the company to deploy up to 1 million AI chip-equipped satellites to build data centers in space. This decision marks the official start of the space computing race, with Google and Blue Origin also exploring similar concepts. The FCC requires SpaceX to launch its first satellite by 2033 and reach the 1 million milestone by 2040. The plan could significantly boost global AI computing coverage but also raises concerns about orbital resources and astronomical observation impacts."
+      "summary_cn": "美国联邦通信委员会（FCC）首次批准SpaceX的“Starmind”计划，允许其部署最多100万颗搭载AI芯片的卫星，构建太空数据中心星座。这是监管机构对AI卫星星座的首次全面放行，标志着太空计算从概念走向规模化部署。FCC要求SpaceX在2033年前发射首颗卫星，2040年前完成百万颗里程碑。谷歌、蓝色起源等也在推进类似计划，太空AI基础设施竞争正式拉开帷幕。该批准对算力布局、轨道资源分配及天文观测均有深远影响，值得关注。",
+      "summary_en": "The FCC has for the first time authorized SpaceX's 'Starmind' initiative to deploy up to 1 million AI chip-equipped satellites, forming a space-based data center constellation. This marks the agency's first full approval for an AI satellite constellation, signaling a shift from concept to large-scale deployment. SpaceX must launch at least one satellite by 2033 and reach the 1 million milestone by 2040. With Google and Blue Origin pursuing similar ideas, the race for space-based AI infrastructure is officially underway, with significant implications for compute distribution, orbital resources, and astronomy."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
       "original_link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "title_cn": "Nothing 提前展示 AI 耳机 Ear Note 及充电盒，12 月 8 日发布",
+      "title_cn": "Nothing 公布 AI 耳机及充电盒完整外观，充电盒可转录并总结对话",
       "title_en": "Nothing offers a full look at its AI earbuds and charging case",
-      "summary_cn": "Nothing 在 12 月 8 日正式发布前，详细展示了其 AI 耳机 Ear Note。该耳机可录制通话，其充电盒则能录制、转录并总结对话，配备“Talk”和新增的“Record”按钮。CEO Carl Pei 称这是迈向 AI 硬件上下文层的第一步。这款产品延续了 Ear 3 的麦克风充电盒设计，值得关注的是它将 AI 能力从耳机延伸到充电盒，试图在可穿戴设备上实现更自然的对话记录与处理。",
-      "summary_en": "Ahead of its December 8th release, Nothing has offered a detailed look at its upcoming AI earbuds, the Ear Note. The buds can record calls, while the charging case can record, transcribe, and summarize conversations. It features a 'Talk' button and a new 'Record' button. CEO Carl Pei describes this as a first step toward a hardware context layer for AI. Following the Ear 3's microphone-equipped case, the product is notable for extending AI capabilities from the earbuds to the case, aiming for more natural conversation capture and processing on a wearable."
+      "summary_cn": "Nothing 在 12 月 8 日发布前展示了 Ear Note AI 耳机的更多细节。耳机可录制通话，而其配备麦克风的充电盒不仅能录音，还能转录并总结对话。充电盒新增“Record”按钮，配合“Talk”按钮使用。CEO Carl Pei 称这是“迈向 AI 硬件上下文层的第一步”。这款产品值得关注，因为它将 AI 能力从耳机延伸到充电盒，试图解决对话记录与摘要的痛点，并暗示了 AI 硬件的新交互范式。",
+      "summary_en": "Nothing has revealed more details about its upcoming Ear Note AI earbuds ahead of their December 8th release. The buds can record calls, while the microphone-equipped charging case can record, transcribe, and summarize conversations. The case adds a new 'Record' button alongside the 'Talk' button. CEO Carl Pei calls it 'a first step toward a hardware context layer for AI.' This is worth watching because it extends AI capabilities from the earbuds to the charging case, addressing the pain point of recording and summarizing conversations, and hints at a new interaction paradigm for AI hardware."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
       "original_link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "title_cn": "亚马逊据报正洽谈解除对Meta Muse AI购物助手的封锁",
+      "title_cn": "亚马逊与Meta洽谈解除Muse AI购物屏蔽，广告收入与搜索质量成焦点",
       "title_en": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "summary_cn": "亚马逊正与Meta谈判，考虑允许Muse AI购物助手进入其电商平台，此举可能终结此前的封锁。核心分歧在于AI推荐商品的质量及其对亚马逊广告收入的潜在冲击——平台广告依赖真人浏览，AI代购可能绕开广告曝光。这则报道揭示了AI购物代理与电商广告商业模式之间的深层矛盾，值得关注AI agent如何重塑流量入口与平台变现逻辑。",
-      "summary_en": "Amazon is in talks with Meta about allowing the Muse AI shopping agent onto its marketplace, potentially ending its block on the tool. The discussions reportedly hinge on the quality of AI-recommended products and the risk to Amazon's ad revenue, which relies on humans seeing ads rather than AI agents shopping on their behalf. The report highlights a deeper tension between AI shopping agents and the advertising-based ecommerce model, offering insight into how AI agents may reshape traffic gateways and platform monetization."
+      "summary_cn": "亚马逊正与Meta谈判，拟允许其Muse AI代理在亚马逊商城购物，可能结束此前的屏蔽。谈判核心在于AI推荐的商品类型及其对亚马逊广告收入的冲击——平台依赖真人浏览广告，AI代理可能绕过广告展示。此外，亚马逊还担忧Muse呈现的商品搜索结果质量。这一动向关乎AI代理能否接入主流电商生态，以及平台广告商业模式如何应对自动化购物趋势，值得关注。",
+      "summary_en": "Amazon is reportedly in talks with Meta to allow its Muse AI agent to shop on Amazon's marketplace, potentially ending the current block. The discussions center on the types of products the AI agent recommends and the potential impact on Amazon's advertising revenue, as the platform relies on humans viewing ads. Amazon is also concerned about the quality of product search results Muse would present. This development matters for whether AI agents can access mainstream e-commerce ecosystems and how platform advertising models adapt to automated shopping."
     },
     {
       "category": "AI科技",
@@ -475,44 +484,35 @@
       "original_link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
       "title_cn": "氛围编程让开源成为合成器新常态？",
       "title_en": "Has vibe coding made open source the new normal for synths?",
-      "summary_cn": "氛围编程工具（如Reverse Engineer Anything）正颠覆音乐硬件行业，迫使厂商重新思考策略。Roland保持沉默，但inMusic（Akai、Moog等品牌母公司）已选择拥抱改装社区，逐步开放设备源码。本文剖析这一趋势：当AI让硬件破解变得轻而易举，开源是否正从妥协变为合成器行业的新标准？值得关注技术民主化如何重塑传统硬件生态。",
-      "summary_en": "Vibe-coding tools like Reverse Engineer Anything are disrupting the music hardware industry, forcing companies to rethink their strategies. While Roland stays silent, inMusic (parent of Akai, Moog, etc.) has embraced the modding community by open-sourcing more devices. This article examines whether open source is becoming the new normal for synths as AI makes hardware hacking effortless—a must-read on how tech democratization is reshaping traditional hardware ecosystems."
+      "summary_cn": "氛围编程工具（如Reverse Engineer Anything）正颠覆音乐设备行业，迫使厂商重新思考策略。Roland保持沉默，而inMusic（Akai、Moog、Native Instruments的母公司）等企业选择拥抱改装社区，逐步开放设备源码。本文剖析这一趋势：当Claude和Reddit上的极客能轻易破解任何硬件，开源是否已成为合成器厂商无法回避的新常态？值得关注的是，这不仅是技术博弈，更是商业模式与社区生态的重新定义。",
+      "summary_en": "Vibe-coding tools like Reverse Engineer Anything are disrupting the music gear industry, forcing manufacturers to rethink their strategies. While Roland stays silent, companies like inMusic (parent of Akai, Moog, Native Instruments) are embracing the modding community by open-sourcing more devices. This article examines the trend: as Claude and Reddit tinkerers can easily hack any hardware, is open source becoming the new normal for synth makers? It's not just a technical battle but a redefinition of business models and community ecosystems."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
       "original_link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "title_cn": "黄仁勋据报向英伟达员工否认特朗普助其重返公司：“完全不是真的”",
+      "title_cn": "黄仁勋据称向英伟达员工否认特朗普助其复职：“这不是真的”",
       "title_en": "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
-      "summary_cn": "英伟达CEO黄仁勋在回归后的首次全员大会上向员工道歉，并明确否认特朗普参与其复职的说法，称相关传言“完全不是真的”，强调公司“最不涉政治”。此番表态旨在切割白宫与科技领袖助推其回归的叙事，凸显AI芯片巨头在政治漩涡中维护独立形象的意图，值得关注科技与政治边界的微妙博弈。",
-      "summary_en": "Nvidia CEO Jensen Huang apologized to staff at his first all-hands meeting since returning and explicitly denied claims that Donald Trump was involved in his reinstatement, calling the idea 'completely untrue' and stressing the company is 'the most apolitical.' His remarks aim to distance Nvidia from the narrative that the White House and tech leaders helped him return, highlighting the AI chip giant's effort to maintain an independent image amid political crosscurrents."
+      "summary_cn": "英伟达CEO黄仁勋在回归后的首次全员大会上向员工道歉，并明确否认特朗普总统直接参与其复职的说法，称相关传闻“完全不真实”，强调公司“最不涉政治”。此番表态旨在切割白宫与科技领袖施压助其回归的叙事，凸显AI芯片巨头在政治漩涡中维护独立形象的意图，值得关注科技巨头与政治权力边界的微妙博弈。",
+      "summary_en": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands meeting since returning and explicitly denied claims that President Trump was directly involved in his reinstatement, calling the idea 'completely untrue' and stressing the company is 'the most apolitical.' His remarks aim to distance Nvidia from narratives that the White House and tech leaders helped him get his job back, highlighting the AI chip giant's effort to maintain an independent image amid political crosscurrents—a subtle boundary struggle worth watching between tech giants and political power."
     },
     {
       "category": "AI科技",
       "source": "The Verge AI",
       "original_link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "title_cn": "大卫·芬奇新片被指使用AI生成画面，影迷直呼“粗制滥造”",
+      "title_cn": "大卫·芬奇新片被指使用AI生成画面，引发争议",
       "title_en": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "summary_cn": "大卫·芬奇执导的《好莱坞往事》续集《克利夫·布斯的进一步冒险》在提前放映后引发争议，观众质疑影片使用了生成式AI，因为画面出现诡异且不一致的视觉效果，与芬奇以往《搏击俱乐部》《社交网络》等精致作品的水准相去甚远。影片定于11月25日首映，但批评声已迅速蔓延。这篇报道揭示了AI在影视创作中引发的信任危机，值得关注技术对艺术品质的冲击。",
-      "summary_en": "David Fincher's sequel to Once Upon a Time in Hollywood, The Further Mis-Adventures of Cliff Booth, has sparked controversy after early screenings, with viewers questioning whether generative AI was used due to uncanny and inconsistent visuals that feel more like slop than the polished quality expected from the director of Fight Club and The Social Network. The film premieres on November 25th, but criticism is already spreading. This report highlights the trust crisis AI triggers in filmmaking and is worth reading for its insight into technology's impact on artistic quality."
-    },
-    {
-      "category": "AI科技",
-      "source": "The Verge AI",
-      "original_link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "title_cn": "Tidal将于下月禁止AI生成音乐，预计每天拒绝8.5万首曲目",
-      "title_en": "Tidal will start banning AI-generated music next month",
-      "summary_cn": "流媒体平台Tidal宣布自12月9日起正式禁止AI生成音乐，将删除约2900万首AI曲目并每天拒绝8至8.5万首上传。此举是继此前对纯AI音乐打标并取消变现后的升级措施，原因是过去90天内AI音乐已占平台分发曲目的43%。Tidal表示96%的AI歌曲收听量极低，禁令旨在保护艺术家与听众体验。这标志着主流平台对AI音乐从“标注”转向“清退”，对音乐产业版权与创作生态具有风向标意义。",
-      "summary_en": "Streaming platform Tidal has announced it will officially ban AI-generated music starting December 9th, deleting around 29 million AI tracks and rejecting an estimated 80,000 to 85,000 uploads per day. The move escalates its earlier policy of labeling and demonetizing fully AI-generated songs, prompted by AI music making up 43 percent of tracks distributed to the platform in the last 90 days. Tidal says 96% of AI-generated songs receive minimal listens, and the ban aims to protect artists and listeners. This marks a shift from labeling to removal by a mainstream platform, setting a precedent for the music industry's copyright and creative ecosystem."
+      "summary_cn": "大卫·芬奇执导的《好莱坞往事》续集《克利夫·布斯的进一步冒险》早期放映后，观众质疑影片大量使用生成式AI，画面出现诡异不一致的“AI感”，与芬奇以往精致风格相去甚远。该片定于11月25日首映，批评者在社交媒体上迅速发酵。这一争议凸显了AI在影视制作中的敏感性和观众对导演作者性的期待，值得关注AI与艺术创作边界的讨论。",
+      "summary_en": "Early screenings of David Fincher's Once Upon a Time in Hollywood sequel, The Further Mis-Adventures of Cliff Booth, have raised questions about whether generative AI was used, with viewers claiming the film is full of uncanny, inconsistent visuals that feel more like slop than Fincher's typically polished work. Ahead of its November 25 premiere, critics rushed to social media to debate the issue. The controversy highlights the sensitivity of AI in filmmaking and audiences' expectations of directorial authorship, making it a noteworthy case for the debate over AI's role in art."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
-      "title_cn": "马丁·艾米斯：一份赏析",
+      "title_cn": "马丁·艾米斯：一份欣赏",
       "title_en": "Martin Amis: An Appreciation",
-      "summary_cn": "本文是对英国作家马丁·艾米斯（1949-2023）的致敬与赏析。文章以2007年的一次相遇为引，回顾了艾米斯作为“伦敦三部曲”作者、语言革新者的文学地位，剖析他如何以辛辣讽刺和文体实验捕捉晚期资本主义的荒诞与暴力。作者指出，艾米斯继承并改造了父亲金斯利·艾米斯的现实主义传统，在《金钱》《伦敦场地》等作品中塑造了自我毁灭的现代反英雄。这篇赏析不仅是对一位公共知识分子的盖棺定论，更解释了为何在当代英语文学中，艾米斯那种挑衅式的道德焦虑依然值得重读。",
-      "summary_en": "This is a tribute to and appreciation of the British novelist Martin Amis (1949–2023). Opening with a 2007 encounter, the piece revisits Amis's literary standing as the author of the 'London Trilogy' and a linguistic innovator, examining how his savage satire and stylistic experimentation captured the absurdity and violence of late capitalism. The author notes that Amis inherited and transformed the realist tradition of his father, Kingsley Amis, creating self-destructive modern antiheroes in works such as Money and London Fields. More than a posthumous assessment of a public intellectual, this appreciation explains why Amis's provocative moral anxiety remains worth rereading in contemporary English literature."
+      "summary_cn": "本文是对英国作家马丁·艾米斯的致敬与评述，以2007年的一张照片为引，回顾其文学成就与独特风格。艾米斯以锐利的语言、黑色幽默和对当代社会的深刻洞察著称，作品如《金钱》《伦敦场地》等重塑了英国小说。文章剖析了他如何以文体家的姿态挑战禁忌，并探讨其遗产为何值得重读——不仅因为文字的精湛，更因为他对人性与时代的无畏审视。",
+      "summary_en": "This article is a tribute to and critical appreciation of British writer Martin Amis, prompted by a 2007 photograph, reviewing his literary achievements and distinctive style. Known for his razor-sharp prose, black humor, and profound insight into contemporary society, Amis reshaped the British novel with works like Money and London Fields. The piece examines how he challenged taboos as a stylist and why his legacy merits rereading—not only for the brilliance of his language but for his fearless scrutiny of human nature and his times."
     },
     {
       "category": "书籍",
@@ -520,8 +520,8 @@
       "original_link": "https://www.nytimes.com/2023/05/22/books/james-campbell-nb-by-jc.html",
       "title_cn": "书评：《NB by J.C.》，作者詹姆斯·坎贝尔",
       "title_en": "Book Review: ‘NB by J.C.,’ by James Campbell",
-      "summary_cn": "詹姆斯·坎贝尔的《NB by J.C.》汇集了他在《泰晤士报文学增刊》上撰写的多彩随笔。这些文字以敏锐的观察和优雅的文笔，记录了文学界的轶事与思考，既是对往昔文坛的珍贵侧写，也展现了坎贝尔作为批评家的独特声音。本书值得一读，因为它不仅提供了对文学文化的深刻洞察，更以机智而温润的笔触，让读者在碎片化的笔记中感受到阅读与写作的持久魅力。",
-      "summary_en": "“NB by J.C.” collects the variegated musings of James Campbell in the Times Literary Supplement. With keen observation and elegant prose, these pieces record literary anecdotes and reflections, offering a precious profile of the literary world and showcasing Campbell’s distinctive voice as a critic. The book is worth reading because it provides profound insight into literary culture and, with wit and warmth, lets readers feel the enduring charm of reading and writing through fragmented notes."
+      "summary_cn": "《NB by J.C.》汇集了詹姆斯·坎贝尔在《泰晤士报文学增刊》上发表的多样沉思。这本书值得一读，因为它不仅展现了坎贝尔作为文学评论家的敏锐洞察力，还通过其独特的随笔风格，带领读者穿梭于文学、文化与社会观察之间。对于热爱文学批评与随笔的读者而言，这是一部充满智慧与趣味的精选集，能够激发对阅读与写作的深层思考。",
+      "summary_en": "“NB by J.C.” collects the variegated musings of James Campbell in the Times Literary Supplement. This book is worth reading because it not only showcases Campbell’s sharp insights as a literary critic but also, through his distinctive essayistic style, guides readers through literature, culture, and social observation. For those who love literary criticism and essays, this is a witty and intelligent collection that inspires deeper reflection on reading and writing."
     },
     {
       "category": "书籍",
@@ -529,17 +529,17 @@
       "original_link": "https://www.nytimes.com/2023/05/22/books/fires-in-the-dark-kay-redfield-jamison.html",
       "title_cn": "《黑暗中的火焰》：凯·雷德菲尔德·贾米森转向疗愈者",
       "title_en": "In ‘Fires in the Dark,’ Kay Redfield Jamison Turns to Healers",
-      "summary_cn": "凯·雷德菲尔德·贾米森曾以自身精神疾病经历写作，触动无数读者，却也遭遇大量拒绝。新作《黑暗中的火焰》中，她将目光转向疗愈者——那些在精神健康领域默默奉献的人。本书融合个人叙事与历史洞察，探讨疗愈的本质与意义，为理解心理健康提供全新视角。值得一读，因它既是对疗愈者的致敬，也是对人性韧性的深刻探索。",
-      "summary_en": "Kay Redfield Jamison, who wrote about her own experiences with mental illness and touched countless readers, also faced much rejection. In her new book 'Fires in the Dark,' she turns her attention to healers—those who dedicate themselves to the field of mental health. Blending personal narrative with historical insight, the book explores the nature and meaning of healing, offering a fresh perspective on mental health. It is worth reading as both a tribute to healers and a profound exploration of human resilience."
+      "summary_cn": "贾米森曾以自身精神疾病经历写作，读者反馈其文字改变了人生，但也遭遇大量退稿。新书《黑暗中的火焰》转向疗愈者，探讨治愈的本质与施治者的角色。值得看在于：她以亲历者与学者的双重视角，揭示疗愈关系中的人性联结，为心理健康领域提供罕见的内省与希望。",
+      "summary_en": "Jamison wrote about her own mental illness and met people whose lives her writing had changed, yet she also faced much rejection. In 'Fires in the Dark,' she turns to healers, exploring the nature of healing and the healer's role. Worth reading because, with the dual perspective of a patient and a scholar, she reveals the human connection in healing relationships, offering rare introspection and hope in mental health."
     },
     {
       "category": "书籍",
       "source": "纽约时报书评",
       "original_link": "https://www.nytimes.com/2023/05/21/books/review/dorothy-sayers-whose-body-at-100.html",
-      "title_cn": "多萝西·L·塞耶斯《谁的尸体？》百年诞辰：侦探小说的里程碑",
+      "title_cn": "多萝西·L·塞耶斯侦探小说《谁之罪？》迎来百年诞辰",
       "title_en": "The Detective Novel ‘Whose Body?,’ by Dorothy L. Sayers, Turns 100",
-      "summary_cn": "多萝西·L·塞耶斯的《谁的尸体？》迎来百年诞辰。这部1923年问世的作品不仅塑造了贵族侦探彼得·温西勋爵，更以其机智的文笔和巧妙的情节，推动了侦探小说从纯粹解谜向文学性的转变。塞耶斯作为侦探俱乐部创始人之一，提升了犯罪写作的文学地位。本书至今读来仍趣味盎然，是理解黄金时代侦探小说不可或缺的经典，值得新老读者重温。",
-      "summary_en": "Dorothy L. Sayers's 'Whose Body?' turns 100. Published in 1923, this novel not only introduced the aristocratic detective Lord Peter Wimsey but also, with its wit and clever plotting, helped shift detective fiction from mere puzzle-solving toward literary sophistication. As a co-founder of the Detection Club, Sayers elevated the literary status of crime writing. Still delightful today, the book is an essential classic for understanding Golden Age detective fiction and merits revisiting by both new and seasoned readers."
+      "summary_cn": "今年是多萝西·L·塞耶斯处女作《谁之罪？》出版一百周年。这部小说塑造了贵族侦探彼得·温西勋爵，并以其幽默、机智和对社会问题的关注，为黄金时代侦探小说注入新活力。塞耶斯也是侦探俱乐部创始人之一，该俱乐部推动了犯罪小说的发展。本书值得侦探小说爱好者阅读，既能感受经典推理的魅力，也能了解塞耶斯对类型文学的革新贡献。",
+      "summary_en": "This year marks the 100th anniversary of Dorothy L. Sayers' debut novel 'Whose Body?'. Introducing the aristocratic detective Lord Peter Wimsey, the book infused Golden Age detective fiction with humor, wit, and social concern. Sayers was also a co-founder of the Detection Club, which advanced crime writing. The novel is a must-read for mystery fans, offering both classic puzzle appeal and insight into Sayers' innovative contributions to the genre."
     },
     {
       "category": "书籍",
@@ -547,8 +547,8 @@
       "original_link": "https://www.nytimes.com/2023/05/22/books/review/machado-de-assis-dom-casmurro.html",
       "title_cn": "书评：《堂卡斯穆罗》，马查多·德·阿西斯著",
       "title_en": "Book Review: ‘Dom Casmurro,’ by Machado de Assis",
-      "summary_cn": "这部小说通过不可靠的叙述者本托，讲述了一段因嫉妒而毁灭的婚姻，迫使读者在细节与迷雾之间反复审视。马查多·德·阿西斯以精湛的模糊叙事，挑战我们对真相的轻信。值得看，因为它不仅是一个关于爱与猜忌的故事，更是一场关于阅读本身的训练——教会我们如何怀疑、如何重读，以及如何在文学的不确定性中获得洞察。",
-      "summary_en": "Through the unreliable narrator Bento, this novel tells of a marriage destroyed by jealousy, forcing readers to repeatedly examine the interplay of precise detail and masterly obfuscation. Machado de Assis challenges our credulity with exquisite narrative ambiguity. It is worth reading not only as a story of love and suspicion but as a training in reading itself—teaching us how to doubt, how to reread, and how to gain insight from literary uncertainty."
+      "summary_cn": "《堂卡斯穆罗》是巴西文学大师马查多·德·阿西斯的杰作。这部小说通过不可靠的叙述者本托，讲述了他与青梅竹马卡皮图之间的爱情与猜忌。书评指出，阿西斯以精确的细节和精湛的模糊手法，教会我们如何阅读与重读。这部作品不仅是对嫉妒与记忆的深刻剖析，更是对叙事本身的一次颠覆性实验。它值得一读再读，因为每一次阅读都会揭示新的线索与解读空间，让你在真相与幻觉之间不断摇摆。对于热爱文学心理悬疑和叙事艺术的读者，这是一部不容错过的经典。",
+      "summary_en": "“Dom Casmurro” is a masterpiece by Brazilian literary giant Machado de Assis. The novel, narrated by the unreliable Bento, tells the story of his love and suspicion toward his childhood sweetheart Capitu. The review notes that Assis teaches us to read—and reread—with precise detail and masterly obfuscation. This work is not only a profound dissection of jealousy and memory but also a subversive experiment in narrative itself. It deserves repeated reading, as each encounter reveals new clues and interpretive possibilities, keeping you oscillating between truth and illusion. For readers who love psychological suspense and narrative art, this is an unmissable classic."
     },
     {
       "category": "书籍",
@@ -556,8 +556,8 @@
       "original_link": "https://www.nytimes.com/2023/05/21/books/review-the-late-americans-brandon-taylor.html",
       "title_cn": "书评：《晚来的人》，布兰登·泰勒著",
       "title_en": "Book Review: ‘The Late Americans,’ by Brandon Taylor",
-      "summary_cn": "布兰登·泰勒的新作《晚来的人》以爱荷华城为背景，围绕一群居民展开——他们中有人享有特权，有人则没有，但所有人都意识到自己的可能性正在收缩。小说深刻描绘了当代年轻人在阶级、欲望与艺术追求中的挣扎，笔触细腻而犀利。泰勒延续了《真实生活》中对身份与亲密关系的探索，以多视角叙事展现了一个群体在不确定时代中的迷茫与韧性。这部作品不仅是对中西部小镇生活的精准解剖，更是对当代美国社会流动性困境的文学回应，值得每一位关注当代小说的读者细读。",
-      "summary_en": "Brandon Taylor’s new novel, ‘The Late Americans,’ unfolds in Iowa City among a group of residents—some privileged, some not, but all aware that their possibilities are contracting. The novel offers a sharp and tender portrait of contemporary young adults grappling with class, desire, and artistic ambition. Taylor continues the exploration of identity and intimacy from his debut ‘Real Life,’ employing multiple perspectives to capture a community’s bewilderment and resilience in an uncertain era. This work is not only a precise dissection of Midwestern small-town life but also a literary response to the dilemmas of social mobility in contemporary America—a must-read for anyone attuned to today’s fiction."
+      "summary_cn": "布兰登·泰勒的新作《晚来的人》以爱荷华城为背景，描绘了一群居民——有的享有特权，有的没有——但他们都意识到自己的可能性正在收缩。小说深刻探讨了阶级、欲望与艺术抱负的交织，捕捉了当代美国年轻人面对不确定未来的焦虑与挣扎。泰勒以细腻的笔触和敏锐的社会观察，呈现了一幅既私密又具有普遍意义的画卷，值得所有关注当代文学与社会议题的读者细细品味。",
+      "summary_en": "Brandon Taylor's new novel, 'The Late Americans,' is set in Iowa City and portrays a group of residents—some privileged, some not—all aware that their possibilities are contracting. The novel deeply explores the intersection of class, desire, and artistic ambition, capturing the anxiety and struggle of contemporary American youth facing an uncertain future. With delicate prose and keen social observation, Taylor presents a portrait that is both intimate and universally resonant, making it a must-read for anyone interested in contemporary literature and social issues."
     },
     {
       "category": "书籍",
@@ -565,8 +565,8 @@
       "original_link": "https://www.nytimes.com/2023/05/20/books/best-martin-amis-books.html",
       "title_cn": "马丁·艾米斯最佳书籍指南",
       "title_en": "Martin Amis’s Best Books: A Guide",
-      "summary_cn": "马丁·艾米斯共出版15部小说，以机智与语言创造力广受赞誉。本指南梳理其最佳作品，帮助读者理解这位英国文坛重要作家的文学成就与风格演变。对于想入门艾米斯或深入其作品体系的读者，这份指南提供了清晰的选书脉络与鉴赏视角，值得收藏。",
-      "summary_en": "Martin Amis published 15 novels, acclaimed for their wit and linguistic ingenuity. This guide surveys his best books, helping readers understand the literary achievements and stylistic evolution of this major British writer. For those new to Amis or seeking a deeper grasp of his oeuvre, it offers a clear roadmap for selection and appreciation, making it a valuable reference."
+      "summary_cn": "马丁·艾米斯共出版15部小说，以其机智与语言创造力广受赞誉。本指南梳理其最佳作品，为读者提供进入艾米斯文学世界的路径。值得看的原因在于：艾米斯是当代英语文学的重要声音，其作品风格鲜明、智性密集，本指南能帮助读者高效选择入门或深入阅读的篇目，理解其文学成就与独特魅力。",
+      "summary_en": "Martin Amis published 15 novels, acclaimed for their wit and linguistic inventiveness. This guide surveys his best books, offering readers a pathway into Amis's literary world. It is worth reading because Amis is a major voice in contemporary English literature, with a distinctive and intellectually dense style; the guide helps readers efficiently choose entry points or further reading, and understand his literary achievement and unique appeal."
     },
     {
       "category": "书籍",
@@ -574,152 +574,8 @@
       "original_link": "https://www.nytimes.com/article/best-romance-books.html",
       "title_cn": "2024年最佳浪漫小说（迄今）",
       "title_en": "The Best Romance Novels of 2024 (So Far)",
-      "summary_cn": "本文盘点了2024年迄今为止最性感、最令人心动的浪漫小说，为寻求逃离现实爱情故事的读者提供精选书单。这些作品以迷人的角色和扣人心弦的情节，展现了浪漫文学的多样魅力，无论是甜蜜治愈还是激情四射，都能让读者沉浸其中，感受爱情的美好与力量。值得一看，因为它们代表了当下浪漫小说的最高水准，能带来愉悦的阅读体验和情感共鸣。",
-      "summary_en": "This article rounds up the sexiest and most swoon-worthy romance novels of 2024 so far, offering a curated reading list for those seeking escapist love stories. With captivating characters and gripping plots, these works showcase the diverse charm of romance literature—whether sweet and healing or passionately thrilling, they immerse readers in the beauty and power of love. They are worth reading because they represent the best of contemporary romance and promise delightful reading experiences and emotional resonance."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/HrcT5tZyQ8E",
-      "title_cn": "感谢每一位阅读或收听《Protocols》的读者",
-      "title_en": "Thank You! To everyone who has read or listened to my recently released book Protocols",
-      "summary_cn": "作者感恩《Protocols》成为《纽约时报》畅销书榜首及亚马逊2026年精选，更欣慰读者从中受益。本书系统涵盖睡眠、运动、压力控制、营养、光照与激素、专注力、动机、学习与神经可塑性，以及个人成长（应对悲伤、平衡目标与生活、任务切换等）。既可通读也可按需查阅，穿插故事与科学，已被译成十余种语言并有作者亲自朗读的有声版。值此感恩节，作者感谢读者对科学的关注，值得所有追求身心健康与表现提升的人阅读。",
-      "summary_en": "The author expresses gratitude that Protocols is a #1 New York Times bestseller and an Amazon Book Pick for 2026, and is most moved by feedback that readers are benefiting from the protocols and science it contains. The book systematically covers sleep, exercise, stress control, nutrition, light and its effects on hormones, focus, motivation, learning/neuroplasticity, and personal development (navigating grief, balancing goal pursuit with life, task switching, etc.). It can be read cover to cover or consulted by topic, blending stories with science, available in over a dozen languages with an audiobook narrated by the author. Wishing a Happy Thanksgiving, the author thanks readers for their interest in science—a valuable read for anyone seeking to improve mental and physical health and performance."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/t09qO4lQ6y8",
-      "title_cn": "幸福不是世界的责任 | 埃克哈特·托利",
-      "title_en": "Happiness Isn't the World's Job | Eckhart Tolle",
-      "summary_cn": "本期播客中，灵性导师埃克哈特·托利分享了如何通过实用工具获得内在平静、真实性与创造力。他演示了如何停止强迫性思考、接触内在宁静，并在困境中采用有益的心理视角。对话还探讨了如何平衡外部目标与灵性成长及人际关系，从而培养更深层的幸福感。托利还谈及将灵性立场与文化、自然融合，以及无人能避的力量。内容极具洞察力，值得观看以获取实用工具，提升日常生活的质量。",
-      "summary_en": "In this podcast, spiritual teacher Eckhart Tolle shares practical tools for accessing inner peace, authenticity, and creativity. He demonstrates how to quiet compulsive thinking, access inner stillness, and adopt a helpful mental vantage point when life gets challenging. The conversation also explores balancing external goals with spiritual growth and relationships to foster deeper well-being. Tolle discusses merging a spiritual stance with culture and nature, and the forces none of us escape. Insightful and worth watching for practical tools to enrich daily life."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=brzkTni-nTQ",
-      "title_cn": "埃克哈特·托利：运用当下的力量，更充分地体验生活",
-      "title_en": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
-      "summary_cn": "世界知名灵性导师埃克哈特·托利与Huberman实验室对话，分享如何通过当下觉知、感官感知与内在宁静， quieting强迫性思维，在挑战中获得有益的心理视角。内容涵盖平衡外在目标与灵性成长、人际关系，从而培养更深层的幸福感。托利不仅阐述理论，更现场演示实用工具，适合渴望在忙碌生活中找回平静、真实与创造力的观众。",
-      "summary_en": "World-renowned spiritual teacher Eckhart Tolle joins Huberman Lab to share practical tools for accessing present-moment awareness, sensory perception, and inner stillness. He discusses quieting compulsive thinking, adopting a helpful mental vantage point during challenges, and balancing external goals with spiritual growth and relationships to foster deeper well-being. Tolle both explains and demonstrates these tools, making this episode valuable for anyone seeking greater peace, authenticity, creativity, and connection in daily life."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=8YHTMsy0bT8",
-      "title_cn": "尼古丁如何影响大脑与身体，以及如何科学戒烟",
-      "title_en": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
-      "summary_cn": "本期Huberman Lab精华节目深入解析尼古丁对大脑与身体的双重作用：它通过提升多巴胺、乙酰胆碱和去甲肾上腺素来增强动力、专注力和警觉性，同时抑制食欲、升高心率和血压。节目清晰区分尼古丁本身与吸烟、电子烟等递送方式，揭示电子烟为何尤其容易成瘾，并提供临床催眠、处方药物和尼古丁替代等科学戒烟工具，以及如何度过戒断第一周的关键策略。对于想了解成瘾机制或正在戒烟的人，这期内容兼具科学深度与实用价值。",
-      "summary_en": "In this Huberman Lab Essentials episode, the science of nicotine's effects on the brain and body is explained: it boosts dopamine, acetylcholine and norepinephrine to enhance motivation, focus and alertness, while suppressing appetite and raising heart rate and blood pressure. The episode distinguishes nicotine itself from delivery methods like smoking, vaping, dipping and snuffing, explains why vaping is especially habit-forming, and offers science-based tools to quit, including clinical hypnosis, prescription medication and nicotine replacement strategies, plus how to get through the critical first week of withdrawal. This content is valuable for anyone seeking to understand addiction mechanisms or trying to quit."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=7mEK5wZHpto",
-      "title_cn": "真菌如何重塑大脑与免疫系统？对话现代应用真菌学之父Paul Stamets",
-      "title_en": "Mushrooms for the Mind & Immune System | Paul Stamets",
-      "summary_cn": "本期节目邀请被誉为“现代应用真菌学之父”的Paul Stamets，深入探讨真菌如何影响并改善人体免疫系统，某些非致幻蘑菇如何增强认知与大脑可塑性，以及裸盖菇素在治疗抑郁、焦虑等精神疾病中的应用与安全考量。无论你是想了解真菌生物学，还是探索其药用价值，这期对话都提供了前沿且实用的洞见，值得每一个关注脑健康与自然疗法的人观看。",
-      "summary_en": "In this episode, Paul Stamets, widely regarded as the father of modern applied mycology, explores how fungi affect and can improve the immune system, how certain non-psychedelic mushrooms enhance cognition and brain plasticity, and the use of psilocybin for depression, anxiety, and other mental health conditions, along with important safety considerations. Whether you want to learn about fungal biology or explore their medicinal uses, this conversation offers cutting-edge and practical insights worth watching for anyone interested in brain health and natural remedies."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=1rn_Clc-MM0",
-      "title_cn": "情绪与社会因素如何影响学习：教育神经科学专家Mary Helen Immordino-Yang博士",
-      "title_en": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-      "summary_cn": "南加州大学教育心理学教授Mary Helen Immordino-Yang从 affective neuroscience 视角揭示：情绪、故事与文化如何塑造我们的感知、学习与自我建构。她解释了叙事如何促进共情或非人化，并提出教育应重新设计以激发好奇心、意义建构与全人发展。本期内容为教育者、家长及终身学习者提供了科学依据，帮助理解情感与社会互动在学习中的核心作用，并给出可操作的工具——质疑假设、接纳多元视角。",
-      "summary_en": "Dr. Mary Helen Immordino-Yang, professor of education and psychology at USC, reveals from an affective neuroscience perspective how emotions, stories, and culture shape perception, learning, and sense of self. She explains how narratives can foster empathy or dehumanization, and argues that education should be redesigned to engage curiosity, meaning-making, and whole-person development. This episode offers scientific grounding for educators, parents, and lifelong learners on the central role of emotion and social interaction in learning, plus actionable tools—question assumptions and engage other perspectives."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/9dWQNg68Ncw",
-      "title_cn": "为什么成瘾是一个控制问题 | 安娜·伦布克博士",
-      "title_en": "Why Addiction is a Control Problem | Dr. Anna Lembke",
-      "summary_cn": "斯坦福成瘾医学专家安娜·伦布克博士指出，成瘾的本质并非单纯追求快感，而是源于人类对掌控感和减少不确定性的深层渴望。她结合临床经验，揭示了多巴胺、焦虑与羞耻感在成瘾循环中的作用，并提供了克服各类成瘾的新视角。这段对话颠覆了传统认知，帮助观众理解成瘾背后的心理机制，从而更有效地应对自身或他人的成瘾行为。",
-      "summary_en": "Dr. Anna Lembke, a leading addiction expert at Stanford, argues that addiction is not merely about seeking pleasure but stems from a deep human desire for control and reducing uncertainty. Drawing on clinical experience, she explains the roles of dopamine, anxiety, and shame in the addiction cycle and offers a new perspective on overcoming addictions of all kinds. This conversation challenges conventional wisdom, helping viewers understand the psychological mechanisms behind addiction to better address addictive behaviors in themselves and others."
-    },
-    {
-      "category": "成长视频",
-      "source": "Huberman Lab (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/pMuud2kayJo",
-      "title_cn": "打破共依赖循环：多巴胺、控制欲与臣服的科学 | 安娜·伦布克博士",
-      "title_en": "Breaking the Codependency Cycle | Dr. Anna Lembke",
-      "summary_cn": "斯坦福成瘾医学专家安娜·伦布克博士深入解析多巴胺如何驱动冒险行为、精神执念与强迫行为，并揭示最常见的成瘾——对控制的成瘾。她指出共依赖正是控制成瘾的典型表现，而祈祷与灵性实践能开辟新的神经通路，帮助终结不健康的思维与行为模式。伦布克博士还介绍了其新书《彻底臣服》中看似悖论的发现：当人们放弃控制某些思维或行为时，反而能获得新的应对策略。本视频融合神经科学与可操作工具，为理解成瘾与共依赖提供了全新视角。",
-      "summary_en": "Dr. Anna Lembke, a leading expert in addiction medicine at Stanford, explores how dopamine dynamics drive risk-taking, mental obsession, and compulsive behaviors, and reveals the most common addiction of all—the addiction to control. She explains that codependency is a common form of this control addiction, and that prayer and spiritual practices can open new neural pathways to help end unhealthy thought patterns and behaviors, including codependence. Lembke also discusses her new book 'Radical Surrender,' which explores the seemingly paradoxical finding that when people give up trying to control certain thoughts or behaviors, they actually gain access to new strategies. Blending neuroscience with actionable tools, this video offers a fresh perspective on addiction and codependency."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=vghv2DLGvVg",
-      "title_cn": "朝九晚五的陷阱：为什么稳定工作反而最危险",
-      "title_en": "The 9-5 Trap, Explained",
-      "summary_cn": "如果你有一份工作，你其实已经在经营一家企业——只不过只有一个客户，贡献你100%的收入。Ali Abdaal在这期视频中揭示了一个反直觉的真相：看似安全的朝九晚五工作，实际上是最不安全的收入结构。他解释了为什么自由与安全感在拥有多个收入来源后会携手而来，以及如何在不辞职的情况下培养一项关键技能，逐步摆脱单一收入依赖。这期内容适合所有想在不冒险裸辞的前提下构建副业、追求财务韧性的人观看。",
-      "summary_en": "If you have a job, you already run a business—just with one customer who pays 100% of your income. In this video, Ali Abdaal reveals a counterintuitive truth: the seemingly safe 9-5 is actually the most insecure income structure. He explains why freedom and security go hand in hand once more people are paying you, and the one skill that gets you there without having to quit your job just yet. This is a must-watch for anyone looking to build a side business and financial resilience without taking the risky leap of quitting."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=PiwBdhcpsxQ",
-      "title_cn": "如果我一无所有，我会如何快速赚到10万美元",
-      "title_en": "If I Lost Everything, Here's EXACTLY How I'd Make $100K Fast",
-      "summary_cn": "在这支视频中，Ali Abdaal 回答了一个直击人心的问题：如果明天醒来一无所有——没有业务、没有资金、没有人脉，他会怎么做？他拆解了自己会遵循的完整流程：从明确目标，到仅靠三个客户实现年入10万美元的计划，再到用来坚持执行的每日系统。无论你处于哪个阶段，这套从零起步的思维框架和行动路径都能帮你找到下一步。视频还附带了时间戳，方便快速定位关键步骤，适合所有渴望突破现状、重建事业的观众。",
-      "summary_en": "In this video, Ali Abdaal answers a compelling question: if he woke up tomorrow with nothing—no business, no money, no network—what would he actually do? He walks through the exact process he'd follow, from figuring out what he wants, to a plan for reaching $100K a year with just three clients, to the daily system he'd use to stay on track. Whatever stage you're at, this zero-to-one framework and action plan can help you figure out your own next step. Timestamps are included for quick navigation, making it valuable for anyone eager to break through and rebuild."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=Y0-xv7bNVvU",
-      "title_cn": "一个AI提示词，帮你整理好整个人生",
-      "title_en": "This One AI Prompt Will Organise Your Entire Life",
-      "summary_cn": "Ali Abdaal分享了他用来组织整个人生的一个AI提示词，将生产力、时间管理和目标设定的精华浓缩为五步：绘制人生地图、定义季度任务、构建GPS导航、制定周计划蓝图、识别错位。该提示词像教练一样一次只问一个问题，引导你逐步梳理，最终获得清晰的人生规划。如果你感到生活混乱、目标模糊，这个免费工具值得一试。",
-      "summary_en": "Ali Abdaal shares the one AI prompt he uses to organise his entire life, distilling the best of productivity, time management and goal setting into five steps: map your life, define your quarterly quests, build your GPS, create your weekly blueprint and identify misalignment. The prompt asks one question at a time like a coach, guiding you step by step to clarity. If you feel overwhelmed or lack clear goals, this free tool is worth trying."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=L9GHmwO4-uw",
-      "title_cn": "有工作的人，请尽快开始出售你的技能",
-      "title_en": "If You Have a Job, Start Selling Your Skills ASAP",
-      "summary_cn": "大多数人靠工资收入，但工资是有上限的。Ali Abdaal在这期视频中拆解了为什么薪水会被封顶、突破上限的两条路径、如何围绕人们愿意付费解决的问题来包装你的技能，以及从第一个客户到可规模化产品的杠杆阶梯。如果你收入不错却感觉天花板明显，这期视频提供了可操作的副业变现框架，值得一看。",
-      "summary_en": "Most people rely on a salary, but salaries have a ceiling. In this video, Ali Abdaal breaks down why salaries are capped, the two ways past that ceiling, how to package your skills around problems people will happily pay to solve, and the leverage ladder from your first client all the way to scalable products. If you earn well but feel there's a ceiling on your income, this video offers an actionable framework for monetizing your skills on the side—worth watching."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/ex3Vtitol6E",
-      "title_cn": "让受众开心的最佳方式之一：提供免费资源... #广告",
-      "title_en": "One of the best ways to make your audience happy is by providing free resources... #ad",
-      "summary_cn": "在Instagram上经营业务，仅发布有用内容还不够，还需引导感兴趣的人迈出下一步，比如发送免费资源、询问反馈或推荐合适的产品服务。手动发送数百条私信不现实，作者使用Manychat自动化这些对话：当你在帖子下评论关键词时，它会自动发送相关资源并跟进确认。视频还提供Manychat Pro免费试用30天的链接。本视频值得一看，因为它展示了如何用自动化工具高效地与受众互动，提升转化率，节省时间，适合想要在社交媒体上规模化运营的创作者和商家。",
-      "summary_en": "Building a business on Instagram requires more than just posting useful content; you need to guide interested people to take the next step, such as sending them a free resource, asking for feedback, or recommending a suitable product or service. Manually sending hundreds of DMs is impractical, so the author uses Manychat to automate these conversations: when you comment a keyword on their posts, it automatically sends the relevant resource and follows up to confirm receipt. The video also provides a link for a 30-day free trial of Manychat Pro. This video is worth watching because it demonstrates how to use automation tools to efficiently engage with your audience, boost conversions, and save time—ideal for creators and businesses looking to scale their social media operations."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/watch?v=G2tBWRHif6Q",
-      "title_cn": "如何变得富有：我在商学院演讲中关于创业与增长的全部建议",
-      "title_en": "How to Get Rich (My Talk at a Business School)",
-      "summary_cn": "Ali Abdaal 在香港中文大学商学院的演讲实录，面向想启动第一份事业的学生与职场人。他从白板实战出发，系统拆解四个核心问题：如何找到商业点子、卖给谁、如何用内容获客、以及在资源有限时如何挤出时间。这不是鸡汤式致富学，而是一套可立即上手的创业启动框架，适合任何想在不辞职的前提下验证副业或生活方式生意的人。",
-      "summary_en": "A recorded talk by Ali Abdaal at CUHK Business School in Hong Kong, aimed at students and professionals launching their first business. Using a whiteboard, he breaks down four core questions: how to find a business idea, who to sell to, how to use content for growth, and how to make time while resources are limited. Rather than motivational wealth advice, this is an actionable startup framework for anyone wanting to validate a side hustle or lifestyle business without quitting their job."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/WXnioZZVXtA",
-      "title_cn": "我目前最爱的5款生产力应用",
-      "title_en": "My top 5 productivity apps right now",
-      "summary_cn": "在这支视频中，Ali Abdaal分享了他当前最依赖的5款生产力应用，帮助他在繁忙的医生、创作者和创业者多重身份间保持高效。视频不仅介绍了具体工具，还解释了每款应用如何融入他的工作流，解决时间管理、专注力和内容创作等核心痛点。对于希望优化个人效率、寻找可靠数字工具的观众来说，这是一份实用且经过验证的推荐清单，能帮你少走弯路，快速搭建适合自己的生产力系统。",
-      "summary_en": "In this video, Ali Abdaal shares the top 5 productivity apps he currently relies on to stay efficient across his multiple roles as a doctor, creator, and entrepreneur. Beyond listing the tools, he explains how each app fits into his workflow and solves core challenges like time management, focus, and content creation. For viewers looking to optimize personal efficiency and find reliable digital tools, this is a practical, tested recommendation list that can help you avoid pitfalls and quickly build a productivity system that works for you."
-    },
-    {
-      "category": "成长视频",
-      "source": "Ali Abdaal (YouTube)",
-      "original_link": "https://www.youtube.com/shorts/iACc_7N7QnU",
-      "title_cn": "20多岁时我对自由的误解",
-      "title_en": "What I got wrong about freedom in my 20s",
-      "summary_cn": "Ali Abdaal在这期成长视频中坦诚反思自己20多岁时对“自由”的误解——以为自由就是摆脱朝九晚五、追求无限闲暇，却在实践中发现真正的自由并非无所事事，而是拥有自主选择的能力与内在的充实感。他结合个人经历与心理学视角，剖析了“时间自由”与“心理自由”的区别，并分享了如何从追求逃避式自由转向构建有意义生活的思维转变。对于正处在职业探索期、或对“自由职业”“数字游民”生活抱有浪漫想象的年轻人来说，这期视频提供了难得的清醒视角和可操作的反思框架，值得一看。",
-      "summary_en": "In this growth video, Ali Abdaal candidly reflects on what he got wrong about freedom in his 20s—believing freedom meant escaping the 9-to-5 and maximizing leisure, only to discover that true freedom isn't about doing nothing but about having the agency to choose and a sense of inner fulfillment. Drawing on personal experience and psychological insights, he unpacks the difference between 'time freedom' and 'psychological freedom,' and shares the mindset shift from escapist freedom to building a meaningful life. For young people navigating career exploration or romanticizing the freelance/digital nomad lifestyle, this video offers a rare dose of clarity and an actionable framework for reflection—well worth watching."
+      "summary_cn": "本文精选2024年迄今最性感、最令人心动的浪漫小说，为寻求逃离现实的读者提供完美爱情故事。这些作品不仅情感浓烈、角色迷人，更以多样化的背景和现代视角重新定义浪漫类型，带来沉浸式的阅读体验。无论你是浪漫小说老粉还是新读者，这份书单都能让你找到心动之作，值得一看。",
+      "summary_en": "This article curates the sexiest and swooniest romance novels of 2024 so far, offering perfect love stories for readers seeking escapism. These works not only deliver intense emotions and charming characters but also redefine the romance genre with diverse settings and modern perspectives, providing an immersive reading experience. Whether you're a longtime romance fan or a newcomer, this list will help you find a heart-fluttering read—definitely worth checking out."
     }
   ]
 }
